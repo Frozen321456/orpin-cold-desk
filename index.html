@@ -18,7 +18,6 @@
       --accent: #5b8def;
       --green: #3ecf8e;
       --amber: #f0b429;
-      --red: #f07178;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -28,102 +27,33 @@
       min-height: 100vh;
       line-height: 1.5;
     }
-    .wrap {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 2rem 1.25rem 4rem;
-    }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
     header {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: flex-end;
-      justify-content: space-between;
-      gap: 1rem;
-      margin-bottom: 2rem;
-      padding-bottom: 1.5rem;
-      border-bottom: 1px solid var(--border);
+      display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between;
+      gap: 1rem; margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border);
     }
-    header h1 {
-      font-size: 1.5rem;
-      font-weight: 600;
-      letter-spacing: -0.02em;
-    }
-    header p {
-      color: var(--muted);
-      font-size: 0.9rem;
-      margin-top: 0.25rem;
-    }
+    header h1 { font-size: 1.5rem; font-weight: 600; letter-spacing: -0.02em; }
+    header p { color: var(--muted); font-size: 0.9rem; margin-top: 0.25rem; }
     .badge {
-      font-family: "JetBrains Mono", monospace;
-      font-size: 0.75rem;
-      color: var(--muted);
-      background: var(--surface-2);
-      border: 1px solid var(--border);
-      padding: 0.35rem 0.65rem;
-      border-radius: 6px;
+      font-family: "JetBrains Mono", monospace; font-size: 0.75rem; color: var(--muted);
+      background: var(--surface-2); border: 1px solid var(--border); padding: 0.35rem 0.65rem; border-radius: 6px;
     }
-    .kpis {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-      gap: 0.75rem;
-      margin-bottom: 2rem;
-    }
-    .kpi {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1.1rem 1.15rem;
-    }
-    .kpi .label {
-      font-size: 0.75rem;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      color: var(--muted);
-      margin-bottom: 0.35rem;
-    }
-    .kpi .value {
-      font-size: 1.65rem;
-      font-weight: 600;
-      letter-spacing: -0.03em;
-      font-variant-numeric: tabular-nums;
-    }
-    .kpi .sub {
-      font-size: 0.8rem;
-      color: var(--muted);
-      margin-top: 0.2rem;
-    }
+    .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.75rem; margin-bottom: 2rem; }
+    .kpi { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 1.1rem 1.15rem; }
+    .kpi .label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 0.35rem; }
+    .kpi .value { font-size: 1.65rem; font-weight: 600; letter-spacing: -0.03em; font-variant-numeric: tabular-nums; }
+    .kpi .sub { font-size: 0.8rem; color: var(--muted); margin-top: 0.2rem; }
     .kpi.green .value { color: var(--green); }
     .kpi.amber .value { color: var(--amber); }
     .section { margin-bottom: 2rem; }
-    .section h2 {
-      font-size: 0.85rem;
-      text-transform: uppercase;
-      letter-spacing: 0.07em;
-      color: var(--muted);
-      margin-bottom: 0.85rem;
-    }
+    .section h2 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); margin-bottom: 0.85rem; }
     table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
-    th, td {
-      text-align: left;
-      padding: 0.7rem 0.85rem;
-      border-bottom: 1px solid var(--border);
-    }
-    th {
-      color: var(--muted);
-      font-weight: 500;
-      font-size: 0.75rem;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-    }
+    th, td { text-align: left; padding: 0.7rem 0.85rem; border-bottom: 1px solid var(--border); }
+    th { color: var(--muted); font-weight: 500; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; }
     tr:hover td { background: var(--surface-2); }
     .tag {
-      display: inline-block;
-      font-size: 0.72rem;
-      padding: 0.15rem 0.45rem;
-      border-radius: 4px;
-      background: var(--surface-2);
-      color: var(--muted);
-      border: 1px solid var(--border);
+      display: inline-block; font-size: 0.72rem; padding: 0.15rem 0.45rem; border-radius: 4px;
+      background: var(--surface-2); color: var(--muted); border: 1px solid var(--border);
     }
     .tag.rest { color: #7eb8ff; border-color: #2a4a6a; }
     .tag.ecom { color: #9bdbb0; border-color: #2a5a3a; }
@@ -131,23 +61,12 @@
     .tag.salon { color: #d4a0e0; border-color: #4a2a5a; }
     .tag.pro { color: #a0c4e0; border-color: #2a3a5a; }
     .empty {
-      color: var(--muted);
-      padding: 2rem;
-      text-align: center;
-      background: var(--surface);
-      border: 1px dashed var(--border);
-      border-radius: 12px;
+      color: var(--muted); padding: 2rem; text-align: center; background: var(--surface);
+      border: 1px dashed var(--border); border-radius: 12px;
     }
     footer {
-      margin-top: 3rem;
-      padding-top: 1.25rem;
-      border-top: 1px solid var(--border);
-      font-size: 0.8rem;
-      color: var(--muted);
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 0.5rem;
+      margin-top: 3rem; padding-top: 1.25rem; border-top: 1px solid var(--border);
+      font-size: 0.8rem; color: var(--muted); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;
     }
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
@@ -158,98 +77,39 @@
     <header>
       <div>
         <h1>Orpin Cold Email Desk</h1>
-        <p>Farhan Rahman · High-value local &amp; professional outreach</p>
+        <p>Farhan Rahman · High-value local & professional outreach</p>
       </div>
       <div class="badge" id="asOf">Loading…</div>
     </header>
-
     <div class="kpis" id="kpis"></div>
-
     <div class="section">
       <h2>Recent sends</h2>
       <div id="recentTable"></div>
     </div>
-
     <div class="section">
       <h2>By category (this month)</h2>
       <div id="categoryTable"></div>
     </div>
-
     <footer>
       <span>Orpin · Remote Web Design</span>
       <span><a href="https://farhan-portfolio-orpin.vercel.app/" target="_blank">Portfolio</a></span>
     </footer>
   </div>
-
   <script>
-    const DATA = {
-      asOf: "2026-09-08",
-      month: {
-        sent: 28,
-        replies: 2,
-        positive: 1,
-        followUps: 6,
-        deals: 0
-      },
-      recent: [
-        {
-          date: "2026-09-08",
-          business: "Fresh Fades / Sam The Barber",
-          city: "Dayton, OH",
-          category: "salon",
-          email: "freshfadesbarbershop95@gmail.com",
-          note: "No real website — only Square booking page",
-          status: "sent"
-        },
-        {
-          date: "2026-09-08",
-          business: "STA Plumbing LLC",
-          city: "Albuquerque, NM",
-          category: "service",
-          email: "staplumbing@yahoo.com",
-          note: "Repeated headings, incomplete structure",
-          status: "sent"
-        },
-        {
-          date: "2026-09-08",
-          business: "Plumberdog LLC",
-          city: "Wichita, KS",
-          category: "service",
-          email: "Plumberdog2023@gmail.com",
-          note: "Template-feeling copy for veteran-owned shop",
-          status: "sent"
-        },
-        {
-          date: "2026-09-07",
-          business: "Independent Plumbing Services of Kansas",
-          city: "Wichita, KS",
-          category: "service",
-          email: "Ipsksllc@gmail.com",
-          note: "Weak/outdated site",
-          status: "sent"
-        },
-        {
-          date: "2026-09-06",
-          business: "ARK Specialties",
-          city: "La Vista / Omaha, NE",
-          category: "service",
-          email: "ark.specialties@gmail.com",
-          note: "Ad presence, limited web presence",
-          status: "sent"
-        }
-      ],
-      byCategory: [
-        { name: "Service / Trades", key: "service", sent: 18, replies: 1 },
-        { name: "Salon / Barber", key: "salon", sent: 6, replies: 1 },
-        { name: "Restaurant / Food", key: "rest", sent: 2, replies: 0 },
-        { name: "E-commerce / Retail", key: "ecom", sent: 1, replies: 0 },
-        { name: "Professional", key: "pro", sent: 1, replies: 0 }
-      ]
-    };
-
-    function render() {
+    async function load() {
+      try {
+        const res = await fetch("./data.json?t=" + Date.now());
+        if (!res.ok) throw new Error("Failed to load data");
+        const DATA = await res.json();
+        render(DATA);
+      } catch (e) {
+        document.getElementById("asOf").textContent = "Data load error";
+        document.getElementById("kpis").innerHTML = "<div class=\"empty\">Could not load data.json</div>";
+        console.error(e);
+      }
+    }
+    function render(DATA) {
       document.getElementById("asOf").textContent = "As of " + DATA.asOf;
-
       const m = DATA.month;
       const replyRate = m.sent ? ((m.replies / m.sent) * 100).toFixed(1) + "%" : "—";
       document.getElementById("kpis").innerHTML = `
@@ -259,16 +119,15 @@
         <div class="kpi amber"><div class="label">Follow-ups</div><div class="value">${m.followUps}</div></div>
         <div class="kpi"><div class="label">Deals</div><div class="value">${m.deals}</div></div>
       `;
-
-      if (!DATA.recent.length) {
+      if (!DATA.recent || !DATA.recent.length) {
         document.getElementById("recentTable").innerHTML = '<div class="empty">No sends logged yet.</div>';
       } else {
         const rows = DATA.recent.map(r => `
           <tr>
             <td>${r.date}</td>
-            <td><strong>${r.business}</strong><br><span style="color:var(--muted);font-size:0.8rem">${r.city}</span></td>
-            <td><span class="tag ${r.category}">${r.category}</span></td>
-            <td style="color:var(--muted);font-size:0.85rem">${r.note}</td>
+            <td><strong>${r.business}</strong><br><span style="color:var(--muted);font-size:0.8rem">${r.city || ""}</span></td>
+            <td><span class="tag ${r.category || ""}">${r.category || ""}</span></td>
+            <td style="color:var(--muted);font-size:0.85rem">${r.note || ""}</td>
           </tr>
         `).join("");
         document.getElementById("recentTable").innerHTML = `
@@ -278,10 +137,10 @@
           </table>
         `;
       }
-
-      const catRows = DATA.byCategory.map(c => `
+      const cats = DATA.byCategory || [];
+      const catRows = cats.map(c => `
         <tr>
-          <td><span class="tag ${c.key}">${c.name}</span></td>
+          <td><span class="tag ${c.key || ""}">${c.name}</span></td>
           <td>${c.sent}</td>
           <td>${c.replies}</td>
         </tr>
@@ -293,8 +152,7 @@
         </table>
       `;
     }
-
-    render();
+    load();
   </script>
 </body>
 </html>
