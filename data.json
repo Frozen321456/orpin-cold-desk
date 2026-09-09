@@ -1,91 +1,91 @@
 {
   "asOf": "2026-09-09",
   "month": {
-    "sent": 31,
+    "sent": 35,
     "replies": 2,
     "positive": 1,
-    "followUps": 13,
+    "followUps": 21,
     "deals": 0
   },
   "recent": [
     {
       "date": "2026-09-09",
+      "business": "Pieces",
+      "city": "Washington, GA",
+      "category": "ecom",
+      "email": "pieces.cynthia@gmail.com",
+      "note": "Boutique — Facebook only, no shop site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-09",
+      "business": "MB Electrical And HVAC",
+      "city": "Elkins, WV",
+      "category": "service",
+      "email": "MBElectricalandhvac@gmail.com",
+      "note": "Facebook-only presence for electrical/HVAC/generators",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-09",
+      "business": "Ewe and Me Country Store",
+      "city": "Colorado (719)",
+      "category": "ecom",
+      "email": "eweandmecountrystore@gmail.com",
+      "note": "Custom wood-flower bouquets — Facebook catalog only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-09",
+      "business": "Rozar Designs",
+      "city": "Opelika, AL",
+      "category": "pro",
+      "email": "rozardesigns@gmail.com",
+      "note": "Residential designer — Facebook only, no portfolio site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-09",
+      "business": "Fresh Fades (follow-up)",
+      "city": "Dayton, OH",
+      "category": "salon",
+      "email": "freshfadesbarbershop95@gmail.com",
+      "note": "2-day bump — Square-only booking",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-09",
+      "business": "STA Plumbing LLC (follow-up)",
+      "city": "Albuquerque, NM",
+      "category": "service",
+      "email": "staplumbing@yahoo.com",
+      "note": "2-day bump",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-09",
+      "business": "Plumberdog LLC (follow-up)",
+      "city": "Wichita, KS",
+      "category": "service",
+      "email": "Plumberdog2023@gmail.com",
+      "note": "2-day bump",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-08",
       "business": "Baked by Robin",
       "city": "Austin, TX",
       "category": "rest",
       "email": "Bakedbyrobin65@gmail.com",
       "note": "Cottage bakery — only Square storefront, no full site",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-09",
-      "business": "Generations Barbershop (follow-up)",
-      "city": "Spokane, WA",
-      "category": "salon",
-      "email": "Dougiebaxter1981@gmail.com",
-      "note": "2-day bump — screenshot offer",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-09",
-      "business": "ARK Specialties (follow-up)",
-      "city": "La Vista / Omaha, NE",
-      "category": "service",
-      "email": "ark.specialties@gmail.com",
-      "note": "2-day bump",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-08",
-      "business": "Fresh Fades / Sam The Barber",
-      "city": "Dayton, OH",
-      "category": "salon",
-      "email": "freshfadesbarbershop95@gmail.com",
-      "note": "No real website — only Square booking page",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-08",
-      "business": "STA Plumbing LLC",
-      "city": "Albuquerque, NM",
-      "category": "service",
-      "email": "staplumbing@yahoo.com",
-      "note": "Repeated headings, incomplete structure",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-08",
-      "business": "Plumberdog LLC",
-      "city": "Wichita, KS",
-      "category": "service",
-      "email": "Plumberdog2023@gmail.com",
-      "note": "Template-feeling copy for veteran-owned shop",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-07",
-      "business": "Independent Plumbing Services of Kansas",
-      "city": "Wichita, KS",
-      "category": "service",
-      "email": "Ipsksllc@gmail.com",
-      "note": "Weak/outdated site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-06",
-      "business": "ARK Specialties",
-      "city": "La Vista / Omaha, NE",
-      "category": "service",
-      "email": "ark.specialties@gmail.com",
-      "note": "Ad presence, limited web presence",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 19, "replies": 1 },
+    { "name": "Service / Trades", "key": "service", "sent": 20, "replies": 1 },
     { "name": "Salon / Barber", "key": "salon", "sent": 7, "replies": 1 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 3, "replies": 0 },
-    { "name": "E-commerce / Retail", "key": "ecom", "sent": 1, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 1, "replies": 0 }
+    { "name": "E-commerce / Retail", "key": "ecom", "sent": 3, "replies": 0 },
+    { "name": "Professional", "key": "pro", "sent": 2, "replies": 0 }
   ]
 }
