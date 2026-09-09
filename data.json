@@ -1,13 +1,40 @@
 {
-  "asOf": "2026-09-08",
+  "asOf": "2026-09-09",
   "month": {
-    "sent": 28,
+    "sent": 31,
     "replies": 2,
     "positive": 1,
-    "followUps": 6,
+    "followUps": 13,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-09",
+      "business": "Baked by Robin",
+      "city": "Austin, TX",
+      "category": "rest",
+      "email": "Bakedbyrobin65@gmail.com",
+      "note": "Cottage bakery — only Square storefront, no full site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-09",
+      "business": "Generations Barbershop (follow-up)",
+      "city": "Spokane, WA",
+      "category": "salon",
+      "email": "Dougiebaxter1981@gmail.com",
+      "note": "2-day bump — screenshot offer",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-09",
+      "business": "ARK Specialties (follow-up)",
+      "city": "La Vista / Omaha, NE",
+      "category": "service",
+      "email": "ark.specialties@gmail.com",
+      "note": "2-day bump",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-08",
       "business": "Fresh Fades / Sam The Barber",
@@ -55,9 +82,9 @@
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 18, "replies": 1 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 6, "replies": 1 },
-    { "name": "Restaurant / Food", "key": "rest", "sent": 2, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 19, "replies": 1 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 7, "replies": 1 },
+    { "name": "Restaurant / Food", "key": "rest", "sent": 3, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 1, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 1, "replies": 0 }
   ]
