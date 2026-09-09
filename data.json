@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-09-09",
+  "asOf": "2026-09-10",
   "month": {
     "sent": 35,
-    "replies": 2,
-    "positive": 1,
+    "replies": 0,
+    "positive": 0,
     "followUps": 21,
     "deals": 0
   },
@@ -82,8 +82,8 @@
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 20, "replies": 1 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 7, "replies": 1 },
+    { "name": "Service / Trades", "key": "service", "sent": 20, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 7, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 3, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 3, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 2, "replies": 0 }
