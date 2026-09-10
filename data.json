@@ -1,13 +1,76 @@
 {
   "asOf": "2026-09-10",
   "month": {
-    "sent": 35,
+    "sent": 41,
     "replies": 0,
     "positive": 0,
-    "followUps": 21,
+    "followUps": 22,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-10",
+      "business": "Sage Coffee Shop & Bakery",
+      "city": "Klickitat, WA",
+      "category": "rest",
+      "email": "sagecsb@gmail.com",
+      "note": "Google Sites only — no real menu/order path",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-10",
+      "business": "Space Beauty Spa",
+      "city": "New Rochelle, NY",
+      "category": "salon",
+      "email": "spacebeautyspa14@gmail.com",
+      "note": "Square booking page only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-10",
+      "business": "Village Square Bakery",
+      "city": "South Lyon / Hartland, MI",
+      "category": "rest",
+      "email": "villagesquarebakery@gmail.com",
+      "note": "Square storefront + Facebook",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-10",
+      "business": "Interiors by Mary",
+      "city": "Washington",
+      "category": "pro",
+      "email": "decodarln@gmail.com",
+      "note": "Facebook only — no portfolio site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-10",
+      "business": "Elle Spa",
+      "city": "Parkland, FL",
+      "category": "salon",
+      "email": "ElleSpaLLC@gmail.com",
+      "note": "Facebook-only presence",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-10",
+      "business": "Paisley Gamble Interiors",
+      "city": "US / international",
+      "category": "pro",
+      "email": "Paisleygambleinteriors@gmail.com",
+      "note": "Instagram/Facebook, no portfolio site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-10",
+      "business": "Baked by Robin (follow-up)",
+      "city": "Austin, TX",
+      "category": "rest",
+      "email": "Bakedbyrobin65@gmail.com",
+      "note": "2-day bump — Square-only storefront",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-09",
       "business": "Pieces",
@@ -52,40 +115,13 @@
       "email": "freshfadesbarbershop95@gmail.com",
       "note": "2-day bump — Square-only booking",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-09-09",
-      "business": "STA Plumbing LLC (follow-up)",
-      "city": "Albuquerque, NM",
-      "category": "service",
-      "email": "staplumbing@yahoo.com",
-      "note": "2-day bump",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-09",
-      "business": "Plumberdog LLC (follow-up)",
-      "city": "Wichita, KS",
-      "category": "service",
-      "email": "Plumberdog2023@gmail.com",
-      "note": "2-day bump",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-08",
-      "business": "Baked by Robin",
-      "city": "Austin, TX",
-      "category": "rest",
-      "email": "Bakedbyrobin65@gmail.com",
-      "note": "Cottage bakery — only Square storefront, no full site",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 20, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 7, "replies": 0 },
-    { "name": "Restaurant / Food", "key": "rest", "sent": 3, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 9, "replies": 0 },
+    { "name": "Restaurant / Food", "key": "rest", "sent": 5, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 3, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 2, "replies": 0 }
+    { "name": "Professional", "key": "pro", "sent": 4, "replies": 0 }
   ]
 }
