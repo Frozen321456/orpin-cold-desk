@@ -1,13 +1,103 @@
 {
-  "asOf": "2026-09-10",
+  "asOf": "2026-09-11",
   "month": {
-    "sent": 41,
+    "sent": 47,
     "replies": 0,
     "positive": 0,
-    "followUps": 22,
+    "followUps": 26,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-11",
+      "business": "Friends Coffee Shop & Bakery",
+      "city": "Shickshinny, PA",
+      "category": "rest",
+      "email": "Friendscoffeeandbakery@gmail.com",
+      "note": "Facebook only — no cafe/bakery site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-11",
+      "business": "Design Matters & Lawn Care",
+      "city": "Schertz / New Braunfels, TX",
+      "category": "service",
+      "email": "Trolingermatthew5@gmail.com",
+      "note": "Facebook + Thumbtack only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-11",
+      "business": "Better Design LLC",
+      "city": "Kentucky (859)",
+      "category": "pro",
+      "email": "Margie@betterdesignllc.com",
+      "note": "Facebook only — landscape + organizing",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-11",
+      "business": "Little Bear Bakery",
+      "city": "Pell City, AL",
+      "category": "rest",
+      "email": "sydneywarren27@gmail.com",
+      "note": "Square storefront only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-11",
+      "business": "Pretty Petals Boutique",
+      "city": "Socorro, NM",
+      "category": "ecom",
+      "email": "prettypetalssocorro@gmail.com",
+      "note": "Facebook + county directory only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-11",
+      "business": "Gardens By Kevin",
+      "city": "VA / DC / MD",
+      "category": "service",
+      "email": "GardensByKevinM@gmail.com",
+      "note": "Facebook only — urban/container landscaping",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-11",
+      "business": "Pieces (follow-up)",
+      "city": "Washington, GA",
+      "category": "ecom",
+      "email": "pieces.cynthia@gmail.com",
+      "note": "2-day bump — Facebook-only boutique",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-11",
+      "business": "MB Electrical And HVAC (follow-up)",
+      "city": "Elkins, WV",
+      "category": "service",
+      "email": "MBElectricalandhvac@gmail.com",
+      "note": "2-day bump — Facebook-only trades",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-11",
+      "business": "Ewe and Me Country Store (follow-up)",
+      "city": "Colorado (719)",
+      "category": "ecom",
+      "email": "eweandmecountrystore@gmail.com",
+      "note": "2-day bump — Facebook catalog only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-11",
+      "business": "Rozar Designs (follow-up)",
+      "city": "Opelika, AL",
+      "category": "pro",
+      "email": "rozardesigns@gmail.com",
+      "note": "2-day bump — Facebook-only portfolio",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-10",
       "business": "Sage Coffee Shop & Bakery",
@@ -25,103 +115,13 @@
       "email": "spacebeautyspa14@gmail.com",
       "note": "Square booking page only",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-10",
-      "business": "Village Square Bakery",
-      "city": "South Lyon / Hartland, MI",
-      "category": "rest",
-      "email": "villagesquarebakery@gmail.com",
-      "note": "Square storefront + Facebook",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-10",
-      "business": "Interiors by Mary",
-      "city": "Washington",
-      "category": "pro",
-      "email": "decodarln@gmail.com",
-      "note": "Facebook only — no portfolio site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-10",
-      "business": "Elle Spa",
-      "city": "Parkland, FL",
-      "category": "salon",
-      "email": "ElleSpaLLC@gmail.com",
-      "note": "Facebook-only presence",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-10",
-      "business": "Paisley Gamble Interiors",
-      "city": "US / international",
-      "category": "pro",
-      "email": "Paisleygambleinteriors@gmail.com",
-      "note": "Instagram/Facebook, no portfolio site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-10",
-      "business": "Baked by Robin (follow-up)",
-      "city": "Austin, TX",
-      "category": "rest",
-      "email": "Bakedbyrobin65@gmail.com",
-      "note": "2-day bump — Square-only storefront",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-09",
-      "business": "Pieces",
-      "city": "Washington, GA",
-      "category": "ecom",
-      "email": "pieces.cynthia@gmail.com",
-      "note": "Boutique — Facebook only, no shop site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-09",
-      "business": "MB Electrical And HVAC",
-      "city": "Elkins, WV",
-      "category": "service",
-      "email": "MBElectricalandhvac@gmail.com",
-      "note": "Facebook-only presence for electrical/HVAC/generators",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-09",
-      "business": "Ewe and Me Country Store",
-      "city": "Colorado (719)",
-      "category": "ecom",
-      "email": "eweandmecountrystore@gmail.com",
-      "note": "Custom wood-flower bouquets — Facebook catalog only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-09",
-      "business": "Rozar Designs",
-      "city": "Opelika, AL",
-      "category": "pro",
-      "email": "rozardesigns@gmail.com",
-      "note": "Residential designer — Facebook only, no portfolio site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-09",
-      "business": "Fresh Fades (follow-up)",
-      "city": "Dayton, OH",
-      "category": "salon",
-      "email": "freshfadesbarbershop95@gmail.com",
-      "note": "2-day bump — Square-only booking",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 20, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 22, "replies": 0 },
     { "name": "Salon / Barber", "key": "salon", "sent": 9, "replies": 0 },
-    { "name": "Restaurant / Food", "key": "rest", "sent": 5, "replies": 0 },
-    { "name": "E-commerce / Retail", "key": "ecom", "sent": 3, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 4, "replies": 0 }
+    { "name": "Restaurant / Food", "key": "rest", "sent": 7, "replies": 0 },
+    { "name": "E-commerce / Retail", "key": "ecom", "sent": 4, "replies": 0 },
+    { "name": "Professional", "key": "pro", "sent": 5, "replies": 0 }
   ]
 }
