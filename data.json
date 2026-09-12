@@ -1,13 +1,112 @@
 {
-  "asOf": "2026-09-11",
+  "asOf": "2026-09-12",
   "month": {
-    "sent": 47,
+    "sent": 54,
     "replies": 0,
     "positive": 0,
-    "followUps": 26,
+    "followUps": 30,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-12",
+      "business": "The Novel Bakery",
+      "city": "Chesapeake Beach, MD",
+      "category": "rest",
+      "email": "thenovelbakery@gmail.com",
+      "note": "Facebook/Instagram only — storefront opening, no site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-12",
+      "business": "The BellaPelle Room",
+      "city": "Byron, IL",
+      "category": "salon",
+      "email": "bellapelleroom@gmail.com",
+      "note": "Square booking page only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-12",
+      "business": "Enrique Landscaping",
+      "city": "El Mirage / Phoenix, AZ",
+      "category": "service",
+      "email": "enriquetomasfelipe9@gmail.com",
+      "note": "Facebook only — yard/tree work",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-12",
+      "business": "Bodyscapes Salon & Beauty Spa",
+      "city": "Sun Prairie, WI",
+      "category": "salon",
+      "email": "bodyscapessalonandbeautyspa@gmail.com",
+      "note": "Square template only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-12",
+      "business": "La Boutique Florals",
+      "city": "San Antonio / Boerne, TX",
+      "category": "ecom",
+      "email": "laurenlaboutique@gmail.com",
+      "note": "Facebook + Instagram + Linktree only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-12",
+      "business": "Sparky's Electrical & HVAC",
+      "city": "Soldiers Grove area, WI",
+      "category": "service",
+      "email": "Sparkys.hvac@gmail.com",
+      "note": "Facebook only — electric + HVAC",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-12",
+      "business": "HVAC & Electrical Services",
+      "city": "Rocky Mount, NC",
+      "category": "service",
+      "email": "hvacelectricalservices@gmail.com",
+      "note": "Google business.site + Facebook only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-12",
+      "business": "Elle Spa (follow-up)",
+      "city": "Parkland, FL",
+      "category": "salon",
+      "email": "ElleSpaLLC@gmail.com",
+      "note": "2-day bump — Facebook-only spa",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-12",
+      "business": "Interiors by Mary (follow-up)",
+      "city": "Washington",
+      "category": "pro",
+      "email": "decodarln@gmail.com",
+      "note": "2-day bump — Facebook-only portfolio",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-12",
+      "business": "Space Beauty Spa (follow-up)",
+      "city": "New Rochelle, NY",
+      "category": "salon",
+      "email": "spacebeautyspa14@gmail.com",
+      "note": "2-day bump — Square booking only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-12",
+      "business": "Sage Coffee Shop & Bakery (follow-up)",
+      "city": "Klickitat, WA",
+      "category": "rest",
+      "email": "sagecsb@gmail.com",
+      "note": "2-day bump — Google Sites only",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-11",
       "business": "Friends Coffee Shop & Bakery",
@@ -16,112 +115,13 @@
       "email": "Friendscoffeeandbakery@gmail.com",
       "note": "Facebook only — no cafe/bakery site",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-11",
-      "business": "Design Matters & Lawn Care",
-      "city": "Schertz / New Braunfels, TX",
-      "category": "service",
-      "email": "Trolingermatthew5@gmail.com",
-      "note": "Facebook + Thumbtack only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-11",
-      "business": "Better Design LLC",
-      "city": "Kentucky (859)",
-      "category": "pro",
-      "email": "Margie@betterdesignllc.com",
-      "note": "Facebook only — landscape + organizing",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-11",
-      "business": "Little Bear Bakery",
-      "city": "Pell City, AL",
-      "category": "rest",
-      "email": "sydneywarren27@gmail.com",
-      "note": "Square storefront only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-11",
-      "business": "Pretty Petals Boutique",
-      "city": "Socorro, NM",
-      "category": "ecom",
-      "email": "prettypetalssocorro@gmail.com",
-      "note": "Facebook + county directory only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-11",
-      "business": "Gardens By Kevin",
-      "city": "VA / DC / MD",
-      "category": "service",
-      "email": "GardensByKevinM@gmail.com",
-      "note": "Facebook only — urban/container landscaping",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-11",
-      "business": "Pieces (follow-up)",
-      "city": "Washington, GA",
-      "category": "ecom",
-      "email": "pieces.cynthia@gmail.com",
-      "note": "2-day bump — Facebook-only boutique",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-11",
-      "business": "MB Electrical And HVAC (follow-up)",
-      "city": "Elkins, WV",
-      "category": "service",
-      "email": "MBElectricalandhvac@gmail.com",
-      "note": "2-day bump — Facebook-only trades",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-11",
-      "business": "Ewe and Me Country Store (follow-up)",
-      "city": "Colorado (719)",
-      "category": "ecom",
-      "email": "eweandmecountrystore@gmail.com",
-      "note": "2-day bump — Facebook catalog only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-11",
-      "business": "Rozar Designs (follow-up)",
-      "city": "Opelika, AL",
-      "category": "pro",
-      "email": "rozardesigns@gmail.com",
-      "note": "2-day bump — Facebook-only portfolio",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-10",
-      "business": "Sage Coffee Shop & Bakery",
-      "city": "Klickitat, WA",
-      "category": "rest",
-      "email": "sagecsb@gmail.com",
-      "note": "Google Sites only — no real menu/order path",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-10",
-      "business": "Space Beauty Spa",
-      "city": "New Rochelle, NY",
-      "category": "salon",
-      "email": "spacebeautyspa14@gmail.com",
-      "note": "Square booking page only",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 22, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 9, "replies": 0 },
-    { "name": "Restaurant / Food", "key": "rest", "sent": 7, "replies": 0 },
-    { "name": "E-commerce / Retail", "key": "ecom", "sent": 4, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 25, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 11, "replies": 0 },
+    { "name": "Restaurant / Food", "key": "rest", "sent": 8, "replies": 0 },
+    { "name": "E-commerce / Retail", "key": "ecom", "sent": 5, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 5, "replies": 0 }
   ]
 }
