@@ -1,13 +1,130 @@
 {
-  "asOf": "2026-09-12",
+  "asOf": "2026-09-13",
   "month": {
-    "sent": 54,
+    "sent": 62,
     "replies": 0,
     "positive": 0,
-    "followUps": 30,
+    "followUps": 35,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-13",
+      "business": "Bloom Designs Jewelry and More",
+      "city": "Billings, MT",
+      "category": "ecom",
+      "email": "aburrowes6@gmail.com",
+      "note": "Facebook only — handmade jewelry, macrame, home decor",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "Swedish Cottage Bakery",
+      "city": "USA (Facebook-only cottage bakery)",
+      "category": "rest",
+      "email": "swedishcottagebakery@gmail.com",
+      "note": "Facebook only — Swedish breads and pastries",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "The Cottage Bakery",
+      "city": "Casper, WY",
+      "category": "rest",
+      "email": "CottageBakery82604@gmail.com",
+      "note": "Facebook only — breads/cheesecakes, going mobile as Mom's Kitchen",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "Quaint Little Bakery Co.",
+      "city": "O'Fallon, MO",
+      "category": "rest",
+      "email": "Quaintlittlebakery@gmail.com",
+      "note": "Facebook only — cakes, cupcakes, cookies",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "My Electrician LLC",
+      "city": "Jarrettsville, MD",
+      "category": "service",
+      "email": "myelectricianmd@gmail.com",
+      "note": "Facebook + TikTok only — 4th-gen master electrician",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "Primescape Landscape & Lawn",
+      "city": "Tennessee area",
+      "category": "service",
+      "email": "Gaugelawnservices@gmail.com",
+      "note": "Facebook only — mowing, mulch, cleanups",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "GM Landscape Services LLC",
+      "city": "Phoenix, AZ",
+      "category": "service",
+      "email": "gmlandscapeservices353@gmail.com",
+      "note": "Facebook only — pavers, turf, irrigation",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "Cozy Cottage Bakery",
+      "city": "Southview / Pittsburgh, PA",
+      "category": "rest",
+      "email": "CozyCottageBakeryPGH@gmail.com",
+      "note": "Facebook only — pastries and custom cakes",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "Gardens By Kevin (follow-up)",
+      "city": "VA / DC / MD",
+      "category": "service",
+      "email": "GardensByKevinM@gmail.com",
+      "note": "2-day bump — Facebook-only landscape",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "Pretty Petals Boutique (follow-up)",
+      "city": "Socorro, NM",
+      "category": "ecom",
+      "email": "prettypetalssocorro@gmail.com",
+      "note": "2-day bump — Facebook-only florist",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "Little Bear Bakery (follow-up)",
+      "city": "Pell City, AL",
+      "category": "rest",
+      "email": "sydneywarren27@gmail.com",
+      "note": "2-day bump — Square page only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "Better Design LLC (follow-up)",
+      "city": "USA",
+      "category": "pro",
+      "email": "Margie@betterdesignllc.com",
+      "note": "2-day bump — Facebook-only studio",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-13",
+      "business": "Friends Coffee Shop & Bakery (follow-up)",
+      "city": "Shickshinny, PA",
+      "category": "rest",
+      "email": "Friendscoffeeandbakery@gmail.com",
+      "note": "2-day bump — Facebook-only cafe",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-12",
       "business": "The Novel Bakery",
@@ -25,103 +142,13 @@
       "email": "bellapelleroom@gmail.com",
       "note": "Square booking page only",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-12",
-      "business": "Enrique Landscaping",
-      "city": "El Mirage / Phoenix, AZ",
-      "category": "service",
-      "email": "enriquetomasfelipe9@gmail.com",
-      "note": "Facebook only — yard/tree work",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-12",
-      "business": "Bodyscapes Salon & Beauty Spa",
-      "city": "Sun Prairie, WI",
-      "category": "salon",
-      "email": "bodyscapessalonandbeautyspa@gmail.com",
-      "note": "Square template only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-12",
-      "business": "La Boutique Florals",
-      "city": "San Antonio / Boerne, TX",
-      "category": "ecom",
-      "email": "laurenlaboutique@gmail.com",
-      "note": "Facebook + Instagram + Linktree only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-12",
-      "business": "Sparky's Electrical & HVAC",
-      "city": "Soldiers Grove area, WI",
-      "category": "service",
-      "email": "Sparkys.hvac@gmail.com",
-      "note": "Facebook only — electric + HVAC",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-12",
-      "business": "HVAC & Electrical Services",
-      "city": "Rocky Mount, NC",
-      "category": "service",
-      "email": "hvacelectricalservices@gmail.com",
-      "note": "Google business.site + Facebook only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-12",
-      "business": "Elle Spa (follow-up)",
-      "city": "Parkland, FL",
-      "category": "salon",
-      "email": "ElleSpaLLC@gmail.com",
-      "note": "2-day bump — Facebook-only spa",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-12",
-      "business": "Interiors by Mary (follow-up)",
-      "city": "Washington",
-      "category": "pro",
-      "email": "decodarln@gmail.com",
-      "note": "2-day bump — Facebook-only portfolio",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-12",
-      "business": "Space Beauty Spa (follow-up)",
-      "city": "New Rochelle, NY",
-      "category": "salon",
-      "email": "spacebeautyspa14@gmail.com",
-      "note": "2-day bump — Square booking only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-12",
-      "business": "Sage Coffee Shop & Bakery (follow-up)",
-      "city": "Klickitat, WA",
-      "category": "rest",
-      "email": "sagecsb@gmail.com",
-      "note": "2-day bump — Google Sites only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-11",
-      "business": "Friends Coffee Shop & Bakery",
-      "city": "Shickshinny, PA",
-      "category": "rest",
-      "email": "Friendscoffeeandbakery@gmail.com",
-      "note": "Facebook only — no cafe/bakery site",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 25, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 28, "replies": 0 },
     { "name": "Salon / Barber", "key": "salon", "sent": 11, "replies": 0 },
-    { "name": "Restaurant / Food", "key": "rest", "sent": 8, "replies": 0 },
-    { "name": "E-commerce / Retail", "key": "ecom", "sent": 5, "replies": 0 },
+    { "name": "Restaurant / Food", "key": "rest", "sent": 12, "replies": 0 },
+    { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 5, "replies": 0 }
   ]
 }
