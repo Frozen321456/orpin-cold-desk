@@ -1,154 +1,145 @@
 {
-  "asOf": "2026-09-14",
+  "asOf": "2026-09-15",
   "month": {
-    "sent": 69,
+    "sent": 75,
     "replies": 0,
     "positive": 0,
-    "followUps": 43,
+    "followUps": 51,
     "deals": 0
   },
   "recent": [
     {
-      "date": "2026-09-14",
-      "business": "B's Salon and Spa",
-      "city": "Gardendale, AL",
-      "category": "salon",
-      "email": "Mdbensko@gmail.com",
-      "note": "Vagaro + Facebook only — facials, hair, head spas, nails",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "Infinity Salon & Spa",
-      "city": "Gretna, VA",
-      "category": "salon",
-      "email": "katelyn.infinitysalon@gmail.com",
-      "note": "Square booking page only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "No Loose Ends Spa & Beauty",
-      "city": "Somerset, KY",
-      "category": "salon",
-      "email": "no.loose.ends.somerset@gmail.com",
-      "note": "Canva site + GlossGenius — no branded salon site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "Salon Euphoria",
-      "city": "Elizabethtown, PA",
-      "category": "salon",
-      "email": "Saloneuphoria7725@gmail.com",
-      "note": "GlossGenius booking only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "Sweet and Savory Cottage Bakers",
-      "city": "Lakeside, OH",
-      "category": "rest",
-      "email": "sscottagebakers@gmail.com",
-      "note": "Facebook only — Friday breads/cookies, knock-and-drop",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "Patton's Sweet Cottage",
-      "city": "USA (cottage bakery)",
-      "category": "rest",
-      "email": "pattonssweetcottage@gmail.com",
-      "note": "Facebook + Bakesy shop only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "Solo Salon Independent Stylists",
-      "city": "Fond du Lac, WI",
-      "category": "salon",
-      "email": "solosalon713@gmail.com",
-      "note": "Facebook only — suite of independent stylists",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "HVAC & Electrical Services (follow-up)",
-      "city": "Rocky Mount, NC",
+      "date": "2026-09-15",
+      "business": "South FL Kitchen & Bath Design",
+      "city": "Riviera Beach / West Palm Beach, FL",
       "category": "service",
-      "email": "hvacelectricalservices@gmail.com",
-      "note": "2-day bump — Google business.site + Facebook",
-      "status": "follow-up"
+      "email": "southflkitchenandbath@gmail.com",
+      "note": "Facebook only — kitchen/bath remodel portfolio",
+      "status": "sent"
     },
     {
-      "date": "2026-09-14",
-      "business": "Sparky's Electrical & HVAC (follow-up)",
-      "city": "Soldiers Grove, WI",
+      "date": "2026-09-15",
+      "business": "La Famiglia Italian Restaurant",
+      "city": "Shalimar / Destin, FL",
+      "category": "rest",
+      "email": "Lafamigliadestincommons@gmail.com",
+      "note": "Facebook only — 276 recs, no restaurant site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "Complete HVAC Services LLC",
+      "city": "New Freedom, PA",
       "category": "service",
-      "email": "Sparkys.hvac@gmail.com",
+      "email": "Phoebus.mark@gmail.com",
+      "note": "Facebook-first — 22 years residential/commercial",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "The Garrett Law Office LLC",
+      "city": "Mobile, AL",
+      "category": "pro",
+      "email": "Courtneygarrettlaw@gmail.com",
+      "note": "Facebook only — PI, divorce, custody AL/TN",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "Rejuvimed Advanced Medical Aesthetics",
+      "city": "Fresno, CA",
+      "category": "salon",
+      "email": "rejuvimed@gmail.com",
+      "note": "Vagaro booking page + listed site — laser clinic",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "Simmons Roofing Inc.",
+      "city": "Macon, GA",
+      "category": "service",
+      "email": "simmonsvm@aol.com",
+      "note": "Facebook-first — 40+ years specialty roofs",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "Cozy Cottage Bakery (follow-up)",
+      "city": "Southview / Pittsburgh, PA",
+      "category": "rest",
+      "email": "CozyCottageBakeryPGH@gmail.com",
       "note": "2-day bump — Facebook only",
       "status": "follow-up"
     },
     {
-      "date": "2026-09-14",
-      "business": "La Boutique Florals (follow-up)",
-      "city": "San Antonio / Boerne, TX",
+      "date": "2026-09-15",
+      "business": "GM Landscape Services (follow-up)",
+      "city": "Phoenix, AZ",
+      "category": "service",
+      "email": "gmlandscapeservices353@gmail.com",
+      "note": "2-day bump — Facebook only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "Primescape Landscape (follow-up)",
+      "city": "USA",
+      "category": "service",
+      "email": "Gaugelawnservices@gmail.com",
+      "note": "2-day bump — Facebook only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "My Electrician LLC (follow-up)",
+      "city": "Jarrettsville / Harford County, MD",
+      "category": "service",
+      "email": "myelectricianmd@gmail.com",
+      "note": "2-day bump — Facebook/TikTok",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "Quaint Little Bakery (follow-up)",
+      "city": "O'Fallon, MO",
+      "category": "rest",
+      "email": "Quaintlittlebakery@gmail.com",
+      "note": "2-day bump — Facebook only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "The Cottage Bakery (follow-up)",
+      "city": "Casper, WY",
+      "category": "rest",
+      "email": "CottageBakery82604@gmail.com",
+      "note": "2-day bump — Facebook + market",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "Swedish Cottage Bakery (follow-up)",
+      "city": "USA",
+      "category": "rest",
+      "email": "swedishcottagebakery@gmail.com",
+      "note": "2-day bump — Facebook only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-15",
+      "business": "Bloom Designs Jewelry (follow-up)",
+      "city": "Billings, MT",
       "category": "ecom",
-      "email": "laurenlaboutique@gmail.com",
-      "note": "2-day bump — Facebook/IG/Linktree",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "Bodyscapes Salon (follow-up)",
-      "city": "Sun Prairie, WI",
-      "category": "salon",
-      "email": "bodyscapessalonandbeautyspa@gmail.com",
-      "note": "2-day bump — Square template",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "Enrique Landscaping (follow-up)",
-      "city": "El Mirage / Phoenix, AZ",
-      "category": "service",
-      "email": "enriquetomasfelipe9@gmail.com",
+      "email": "aburrowes6@gmail.com",
       "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "The BellaPelle Room (follow-up)",
-      "city": "Byron, IL",
-      "category": "salon",
-      "email": "bellapelleroom@gmail.com",
-      "note": "2-day bump — Square booking only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "The Novel Bakery (follow-up)",
-      "city": "Chesapeake Beach, MD",
-      "category": "rest",
-      "email": "thenovelbakery@gmail.com",
-      "note": "2-day bump — Facebook/Instagram only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-14",
-      "business": "Design Matters & Lawn Care (follow-up)",
-      "city": "Schertz / New Braunfels, TX",
-      "category": "service",
-      "email": "Trolingermatthew5@gmail.com",
-      "note": "Missed 2-day bump from 9/11 — Facebook + Thumbtack",
       "status": "follow-up"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 28, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 16, "replies": 0 },
-    { "name": "Restaurant / Food", "key": "rest", "sent": 14, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 31, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 17, "replies": 0 },
+    { "name": "Restaurant / Food", "key": "rest", "sent": 15, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 5, "replies": 0 }
+    { "name": "Professional", "key": "pro", "sent": 6, "replies": 0 }
   ]
 }
