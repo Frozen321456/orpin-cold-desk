@@ -1,13 +1,130 @@
 {
-  "asOf": "2026-09-15",
+  "asOf": "2026-09-16",
   "month": {
-    "sent": 75,
+    "sent": 81,
     "replies": 0,
     "positive": 0,
-    "followUps": 51,
+    "followUps": 58,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-16",
+      "business": "Diamond Remodeling Kitchen & Bath",
+      "city": "Syracuse / Central New York",
+      "category": "service",
+      "email": "Carsonjrc1@gmail.com",
+      "note": "Facebook only — booked-out kitchen/bath remodeler",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "ReMarkable ReModeling CT",
+      "city": "Rocky Hill, CT",
+      "category": "service",
+      "email": "remarkableremodeling@cox.net",
+      "note": "Facebook only — kitchen/bath around Hartford",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "Phillips HVAC LLC",
+      "city": "Hamilton / Columbus, GA",
+      "category": "service",
+      "email": "phillipshvac827@gmail.com",
+      "note": "Facebook only — licensed GA/AL family HVAC",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "Easley Heating and Air Conditioning LLC",
+      "city": "Bucks / Montgomery / Delaware County, PA",
+      "category": "service",
+      "email": "easleyhvac@gmail.com",
+      "note": "Facebook only — 15+ years residential/light commercial",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "Massey Law",
+      "city": "Guntersville, AL",
+      "category": "pro",
+      "email": "contact@massey-law.com",
+      "note": "Facebook-first — PI, criminal, family, civil",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "Luso Tax LLC",
+      "city": "Bunnell, FL",
+      "category": "pro",
+      "email": "lusotaxservices@gmail.com",
+      "note": "Has site — conversion path weak vs listings",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "Solo Salon (follow-up)",
+      "city": "Fond du Lac, WI",
+      "category": "salon",
+      "email": "solosalon713@gmail.com",
+      "note": "2-day bump — Facebook + GlossGenius",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "Patton's Sweet Cottage (follow-up)",
+      "city": "USA",
+      "category": "rest",
+      "email": "pattonssweetcottage@gmail.com",
+      "note": "2-day bump — Facebook + Bakesy",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "Sweet and Savory Cottage Bakers (follow-up)",
+      "city": "Lakeside area",
+      "category": "rest",
+      "email": "sscottagebakers@gmail.com",
+      "note": "2-day bump — Facebook only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "Salon Euphoria (follow-up)",
+      "city": "Elizabethtown",
+      "category": "salon",
+      "email": "Saloneuphoria7725@gmail.com",
+      "note": "2-day bump — GlossGenius only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "No Loose Ends (follow-up)",
+      "city": "Somerset",
+      "category": "salon",
+      "email": "no.loose.ends.somerset@gmail.com",
+      "note": "2-day bump — Canva + GlossGenius",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "Infinity Salon (follow-up)",
+      "city": "Gretna",
+      "category": "salon",
+      "email": "katelyn.infinitysalon@gmail.com",
+      "note": "2-day bump — Square template",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-16",
+      "business": "B's Salon and Spa (follow-up)",
+      "city": "Gardendale",
+      "category": "salon",
+      "email": "Mdbensko@gmail.com",
+      "note": "2-day bump — Vagaro + Facebook",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-15",
       "business": "South FL Kitchen & Bath Design",
@@ -34,112 +151,13 @@
       "email": "Phoebus.mark@gmail.com",
       "note": "Facebook-first — 22 years residential/commercial",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "The Garrett Law Office LLC",
-      "city": "Mobile, AL",
-      "category": "pro",
-      "email": "Courtneygarrettlaw@gmail.com",
-      "note": "Facebook only — PI, divorce, custody AL/TN",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "Rejuvimed Advanced Medical Aesthetics",
-      "city": "Fresno, CA",
-      "category": "salon",
-      "email": "rejuvimed@gmail.com",
-      "note": "Vagaro booking page + listed site — laser clinic",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "Simmons Roofing Inc.",
-      "city": "Macon, GA",
-      "category": "service",
-      "email": "simmonsvm@aol.com",
-      "note": "Facebook-first — 40+ years specialty roofs",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "Cozy Cottage Bakery (follow-up)",
-      "city": "Southview / Pittsburgh, PA",
-      "category": "rest",
-      "email": "CozyCottageBakeryPGH@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "GM Landscape Services (follow-up)",
-      "city": "Phoenix, AZ",
-      "category": "service",
-      "email": "gmlandscapeservices353@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "Primescape Landscape (follow-up)",
-      "city": "USA",
-      "category": "service",
-      "email": "Gaugelawnservices@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "My Electrician LLC (follow-up)",
-      "city": "Jarrettsville / Harford County, MD",
-      "category": "service",
-      "email": "myelectricianmd@gmail.com",
-      "note": "2-day bump — Facebook/TikTok",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "Quaint Little Bakery (follow-up)",
-      "city": "O'Fallon, MO",
-      "category": "rest",
-      "email": "Quaintlittlebakery@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "The Cottage Bakery (follow-up)",
-      "city": "Casper, WY",
-      "category": "rest",
-      "email": "CottageBakery82604@gmail.com",
-      "note": "2-day bump — Facebook + market",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "Swedish Cottage Bakery (follow-up)",
-      "city": "USA",
-      "category": "rest",
-      "email": "swedishcottagebakery@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "Bloom Designs Jewelry (follow-up)",
-      "city": "Billings, MT",
-      "category": "ecom",
-      "email": "aburrowes6@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 31, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 35, "replies": 0 },
     { "name": "Salon / Barber", "key": "salon", "sent": 17, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 15, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 6, "replies": 0 }
+    { "name": "Professional", "key": "pro", "sent": 8, "replies": 0 }
   ]
 }
