@@ -1,13 +1,94 @@
 {
-  "asOf": "2026-09-16",
+  "asOf": "2026-09-17",
   "month": {
-    "sent": 81,
+    "sent": 84,
     "replies": 0,
     "positive": 0,
-    "followUps": 58,
+    "followUps": 64,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-17",
+      "business": "Xtreme Comfort, LLC",
+      "city": "Loganville, GA",
+      "category": "service",
+      "email": "anthony.xtremecomfort@gmail.com",
+      "note": "Facebook only — HVAC + roofing, 26 recs",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-17",
+      "business": "True Grit Heating And Air",
+      "city": "Wisconsin (262)",
+      "category": "service",
+      "email": "Truegrit.hvac@gmail.com",
+      "note": "Facebook only — licensed installs, Concord/Armstrong/Lennox",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-17",
+      "business": "GG Roofing LLC",
+      "city": "Taylorsville / Bountiful, UT",
+      "category": "service",
+      "email": "ggroofingllc@gmail.com",
+      "note": "Older site — newer metal/siding jobs live on Facebook",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-17",
+      "business": "Simmons Roofing (follow-up)",
+      "city": "Macon, GA",
+      "category": "service",
+      "email": "simmonsvm@aol.com",
+      "note": "2-day bump — Facebook, 40+ years",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-17",
+      "business": "Rejuvimed (follow-up)",
+      "city": "Fresno, CA",
+      "category": "salon",
+      "email": "rejuvimed@gmail.com",
+      "note": "2-day bump — Vagaro template",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-17",
+      "business": "The Garrett Law Office (follow-up)",
+      "city": "Mobile, AL",
+      "category": "pro",
+      "email": "Courtneygarrettlaw@gmail.com",
+      "note": "2-day bump — Facebook-first firm",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-17",
+      "business": "Complete HVAC Services (follow-up)",
+      "city": "New Freedom, PA",
+      "category": "service",
+      "email": "Phoebus.mark@gmail.com",
+      "note": "2-day bump — Facebook-first HVAC",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-17",
+      "business": "La Famiglia Italian Restaurant (follow-up)",
+      "city": "Shalimar / Destin, FL",
+      "category": "rest",
+      "email": "Lafamigliadestincommons@gmail.com",
+      "note": "2-day bump — Facebook only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-17",
+      "business": "South FL Kitchen & Bath (follow-up)",
+      "city": "Riviera Beach / West Palm, FL",
+      "category": "service",
+      "email": "southflkitchenandbath@gmail.com",
+      "note": "2-day bump — Facebook portfolio",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-16",
       "business": "Diamond Remodeling Kitchen & Bath",
@@ -61,100 +142,10 @@
       "email": "lusotaxservices@gmail.com",
       "note": "Has site — conversion path weak vs listings",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "Solo Salon (follow-up)",
-      "city": "Fond du Lac, WI",
-      "category": "salon",
-      "email": "solosalon713@gmail.com",
-      "note": "2-day bump — Facebook + GlossGenius",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "Patton's Sweet Cottage (follow-up)",
-      "city": "USA",
-      "category": "rest",
-      "email": "pattonssweetcottage@gmail.com",
-      "note": "2-day bump — Facebook + Bakesy",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "Sweet and Savory Cottage Bakers (follow-up)",
-      "city": "Lakeside area",
-      "category": "rest",
-      "email": "sscottagebakers@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "Salon Euphoria (follow-up)",
-      "city": "Elizabethtown",
-      "category": "salon",
-      "email": "Saloneuphoria7725@gmail.com",
-      "note": "2-day bump — GlossGenius only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "No Loose Ends (follow-up)",
-      "city": "Somerset",
-      "category": "salon",
-      "email": "no.loose.ends.somerset@gmail.com",
-      "note": "2-day bump — Canva + GlossGenius",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "Infinity Salon (follow-up)",
-      "city": "Gretna",
-      "category": "salon",
-      "email": "katelyn.infinitysalon@gmail.com",
-      "note": "2-day bump — Square template",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "B's Salon and Spa (follow-up)",
-      "city": "Gardendale",
-      "category": "salon",
-      "email": "Mdbensko@gmail.com",
-      "note": "2-day bump — Vagaro + Facebook",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "South FL Kitchen & Bath Design",
-      "city": "Riviera Beach / West Palm Beach, FL",
-      "category": "service",
-      "email": "southflkitchenandbath@gmail.com",
-      "note": "Facebook only — kitchen/bath remodel portfolio",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "La Famiglia Italian Restaurant",
-      "city": "Shalimar / Destin, FL",
-      "category": "rest",
-      "email": "Lafamigliadestincommons@gmail.com",
-      "note": "Facebook only — 276 recs, no restaurant site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-15",
-      "business": "Complete HVAC Services LLC",
-      "city": "New Freedom, PA",
-      "category": "service",
-      "email": "Phoebus.mark@gmail.com",
-      "note": "Facebook-first — 22 years residential/commercial",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 35, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 38, "replies": 0 },
     { "name": "Salon / Barber", "key": "salon", "sent": 17, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 15, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
