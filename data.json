@@ -1,13 +1,112 @@
 {
-  "asOf": "2026-09-17",
+  "asOf": "2026-09-18",
   "month": {
-    "sent": 84,
+    "sent": 89,
     "replies": 0,
     "positive": 0,
-    "followUps": 64,
+    "followUps": 70,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-18",
+      "business": "J Med Aesthetics",
+      "city": "Hamburg, NY",
+      "category": "salon",
+      "email": "Jmedaesthetics@gmail.com",
+      "note": "Aesthetic Record + Linktree — no clinic site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-18",
+      "business": "Gay Tackett CPA PLLC",
+      "city": "Cleburne, TX",
+      "category": "pro",
+      "email": "gaytackettcpa@gmail.com",
+      "note": "Thin template site — 30+ years tax/payroll",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-18",
+      "business": "Amazing Event Venue",
+      "city": "Memphis, TN",
+      "category": "rest",
+      "email": "amazingeventvenue@gmail.com",
+      "note": "Facebook only — reunions and off-site decor",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-18",
+      "business": "Bream Family Dental Care",
+      "city": "Waynesboro, VA",
+      "category": "salon",
+      "email": "smilesbybream@gmail.com",
+      "note": "Squarespace template — booking path weak",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-18",
+      "business": "Kitchens and Baths",
+      "city": "Port St. Lucie, FL",
+      "category": "service",
+      "email": "kitchensbaths6961@gmail.com",
+      "note": "Weak quote-form site vs 11 five-star reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-18",
+      "business": "Diamond Remodeling (follow-up)",
+      "city": "Syracuse / Central New York",
+      "category": "service",
+      "email": "Carsonjrc1@gmail.com",
+      "note": "2-day bump — Facebook kitchen/bath",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-18",
+      "business": "ReMarkable ReModeling CT (follow-up)",
+      "city": "Rocky Hill, CT",
+      "category": "service",
+      "email": "remarkableremodeling@cox.net",
+      "note": "2-day bump — Facebook only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-18",
+      "business": "Phillips HVAC LLC (follow-up)",
+      "city": "Hamilton / Columbus, GA",
+      "category": "service",
+      "email": "phillipshvac827@gmail.com",
+      "note": "2-day bump — Facebook-first HVAC",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-18",
+      "business": "Easley Heating and Air (follow-up)",
+      "city": "Bucks / Montgomery / Delaware, PA",
+      "category": "service",
+      "email": "easleyhvac@gmail.com",
+      "note": "2-day bump — Facebook only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-18",
+      "business": "Massey Law (follow-up)",
+      "city": "Guntersville, AL",
+      "category": "pro",
+      "email": "contact@massey-law.com",
+      "note": "2-day bump — Facebook-first firm",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-18",
+      "business": "Luso Tax LLC (follow-up)",
+      "city": "Bunnell, FL",
+      "category": "pro",
+      "email": "lusotaxservices@gmail.com",
+      "note": "2-day bump — conversion path weak",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-17",
       "business": "Xtreme Comfort, LLC",
@@ -36,60 +135,6 @@
       "status": "sent"
     },
     {
-      "date": "2026-09-17",
-      "business": "Simmons Roofing (follow-up)",
-      "city": "Macon, GA",
-      "category": "service",
-      "email": "simmonsvm@aol.com",
-      "note": "2-day bump — Facebook, 40+ years",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-17",
-      "business": "Rejuvimed (follow-up)",
-      "city": "Fresno, CA",
-      "category": "salon",
-      "email": "rejuvimed@gmail.com",
-      "note": "2-day bump — Vagaro template",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-17",
-      "business": "The Garrett Law Office (follow-up)",
-      "city": "Mobile, AL",
-      "category": "pro",
-      "email": "Courtneygarrettlaw@gmail.com",
-      "note": "2-day bump — Facebook-first firm",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-17",
-      "business": "Complete HVAC Services (follow-up)",
-      "city": "New Freedom, PA",
-      "category": "service",
-      "email": "Phoebus.mark@gmail.com",
-      "note": "2-day bump — Facebook-first HVAC",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-17",
-      "business": "La Famiglia Italian Restaurant (follow-up)",
-      "city": "Shalimar / Destin, FL",
-      "category": "rest",
-      "email": "Lafamigliadestincommons@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-17",
-      "business": "South FL Kitchen & Bath (follow-up)",
-      "city": "Riviera Beach / West Palm, FL",
-      "category": "service",
-      "email": "southflkitchenandbath@gmail.com",
-      "note": "2-day bump — Facebook portfolio",
-      "status": "follow-up"
-    },
-    {
       "date": "2026-09-16",
       "business": "Diamond Remodeling Kitchen & Bath",
       "city": "Syracuse / Central New York",
@@ -97,58 +142,13 @@
       "email": "Carsonjrc1@gmail.com",
       "note": "Facebook only — booked-out kitchen/bath remodeler",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "ReMarkable ReModeling CT",
-      "city": "Rocky Hill, CT",
-      "category": "service",
-      "email": "remarkableremodeling@cox.net",
-      "note": "Facebook only — kitchen/bath around Hartford",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "Phillips HVAC LLC",
-      "city": "Hamilton / Columbus, GA",
-      "category": "service",
-      "email": "phillipshvac827@gmail.com",
-      "note": "Facebook only — licensed GA/AL family HVAC",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "Easley Heating and Air Conditioning LLC",
-      "city": "Bucks / Montgomery / Delaware County, PA",
-      "category": "service",
-      "email": "easleyhvac@gmail.com",
-      "note": "Facebook only — 15+ years residential/light commercial",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "Massey Law",
-      "city": "Guntersville, AL",
-      "category": "pro",
-      "email": "contact@massey-law.com",
-      "note": "Facebook-first — PI, criminal, family, civil",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "Luso Tax LLC",
-      "city": "Bunnell, FL",
-      "category": "pro",
-      "email": "lusotaxservices@gmail.com",
-      "note": "Has site — conversion path weak vs listings",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 38, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 17, "replies": 0 },
-    { "name": "Restaurant / Food", "key": "rest", "sent": 15, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 39, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 19, "replies": 0 },
+    { "name": "Restaurant / Food", "key": "rest", "sent": 16, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 8, "replies": 0 }
+    { "name": "Professional", "key": "pro", "sent": 9, "replies": 0 }
   ]
 }
