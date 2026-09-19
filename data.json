@@ -1,13 +1,103 @@
 {
-  "asOf": "2026-09-18",
+  "asOf": "2026-09-19",
   "month": {
-    "sent": 89,
+    "sent": 96,
     "replies": 0,
     "positive": 0,
-    "followUps": 70,
+    "followUps": 73,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-19",
+      "business": "Divine Aesthetics",
+      "city": "White House, TN",
+      "category": "salon",
+      "email": "kailey@divineaestheticsmedspa.com",
+      "note": "Aesthetic Record + Linktree — no clinic site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-19",
+      "business": "Bellevue Event Venue",
+      "city": "Bellevue, NE",
+      "category": "rest",
+      "email": "bellevueeventvenue@gmail.com",
+      "note": "Facebook only — new owner, weddings/corporate",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-19",
+      "business": "Rome Remodeling LLC",
+      "city": "Rome / Cartersville, GA",
+      "category": "service",
+      "email": "Romeremodeling706@gmail.com",
+      "note": "Facebook only — kitchens/baths, 9 recs",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-19",
+      "business": "Bell Remodeling and Renovations",
+      "city": "Spokane, WA",
+      "category": "service",
+      "email": "bellremodelingandrenovations@gmail.com",
+      "note": "Facebook + BBB only — licensed kitchen/bath",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-19",
+      "business": "Cakes by Croninger",
+      "city": "Wauseon, OH",
+      "category": "rest",
+      "email": "cakesbycroninger@gmail.com",
+      "note": "Facebook only — wedding cakes, 12 recs",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-19",
+      "business": "UnitedCakes",
+      "city": "Haverhill, MA",
+      "category": "rest",
+      "email": "Unitedcakesbakery@gmail.com",
+      "note": "Wix template — Best Bakery 2023",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-19",
+      "business": "Desert Cake Boutique",
+      "city": "Phoenix, AZ",
+      "category": "rest",
+      "email": "Desertcakeboutique@gmail.com",
+      "note": "Wix + Facebook — licensed wedding cakes",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-19",
+      "business": "Xtreme Comfort, LLC (follow-up)",
+      "city": "Loganville, GA",
+      "category": "service",
+      "email": "anthony.xtremecomfort@gmail.com",
+      "note": "2-day bump — Facebook-only HVAC + roofing",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-19",
+      "business": "True Grit Heating And Air (follow-up)",
+      "city": "Wisconsin (262)",
+      "category": "service",
+      "email": "Truegrit.hvac@gmail.com",
+      "note": "2-day bump — Facebook-only HVAC",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-19",
+      "business": "GG Roofing LLC (follow-up)",
+      "city": "Taylorsville / Bountiful, UT",
+      "category": "service",
+      "email": "ggroofingllc@gmail.com",
+      "note": "2-day bump — older site vs newer FB jobs",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-18",
       "business": "J Med Aesthetics",
@@ -52,102 +142,12 @@
       "email": "kitchensbaths6961@gmail.com",
       "note": "Weak quote-form site vs 11 five-star reviews",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-18",
-      "business": "Diamond Remodeling (follow-up)",
-      "city": "Syracuse / Central New York",
-      "category": "service",
-      "email": "Carsonjrc1@gmail.com",
-      "note": "2-day bump — Facebook kitchen/bath",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-18",
-      "business": "ReMarkable ReModeling CT (follow-up)",
-      "city": "Rocky Hill, CT",
-      "category": "service",
-      "email": "remarkableremodeling@cox.net",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-18",
-      "business": "Phillips HVAC LLC (follow-up)",
-      "city": "Hamilton / Columbus, GA",
-      "category": "service",
-      "email": "phillipshvac827@gmail.com",
-      "note": "2-day bump — Facebook-first HVAC",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-18",
-      "business": "Easley Heating and Air (follow-up)",
-      "city": "Bucks / Montgomery / Delaware, PA",
-      "category": "service",
-      "email": "easleyhvac@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-18",
-      "business": "Massey Law (follow-up)",
-      "city": "Guntersville, AL",
-      "category": "pro",
-      "email": "contact@massey-law.com",
-      "note": "2-day bump — Facebook-first firm",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-18",
-      "business": "Luso Tax LLC (follow-up)",
-      "city": "Bunnell, FL",
-      "category": "pro",
-      "email": "lusotaxservices@gmail.com",
-      "note": "2-day bump — conversion path weak",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-17",
-      "business": "Xtreme Comfort, LLC",
-      "city": "Loganville, GA",
-      "category": "service",
-      "email": "anthony.xtremecomfort@gmail.com",
-      "note": "Facebook only — HVAC + roofing, 26 recs",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-17",
-      "business": "True Grit Heating And Air",
-      "city": "Wisconsin (262)",
-      "category": "service",
-      "email": "Truegrit.hvac@gmail.com",
-      "note": "Facebook only — licensed installs, Concord/Armstrong/Lennox",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-17",
-      "business": "GG Roofing LLC",
-      "city": "Taylorsville / Bountiful, UT",
-      "category": "service",
-      "email": "ggroofingllc@gmail.com",
-      "note": "Older site — newer metal/siding jobs live on Facebook",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-16",
-      "business": "Diamond Remodeling Kitchen & Bath",
-      "city": "Syracuse / Central New York",
-      "category": "service",
-      "email": "Carsonjrc1@gmail.com",
-      "note": "Facebook only — booked-out kitchen/bath remodeler",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 39, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 19, "replies": 0 },
-    { "name": "Restaurant / Food", "key": "rest", "sent": 16, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 41, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 20, "replies": 0 },
+    { "name": "Restaurant / Food", "key": "rest", "sent": 20, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 9, "replies": 0 }
   ]
