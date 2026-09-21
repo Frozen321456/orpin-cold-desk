@@ -1,13 +1,112 @@
 {
-  "asOf": "2026-09-20",
+  "asOf": "2026-09-21",
   "month": {
-    "sent": 102,
+    "sent": 107,
     "replies": 0,
     "positive": 0,
-    "followUps": 78,
+    "followUps": 84,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-21",
+      "business": "Finney Heating & Cooling LLC",
+      "city": "Post Falls, ID",
+      "category": "service",
+      "email": "finneyheating@gmail.com",
+      "note": "Facebook + listings only — installs/mini-splits, 37 reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-21",
+      "business": "Cooper CPA LLC",
+      "city": "Beavercreek, OH",
+      "category": "pro",
+      "email": "firm@coopercpallc.com",
+      "note": "Old template CPA site — still has Google+ footer",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-21",
+      "business": "Rio Event Center",
+      "city": "Arlington, TX",
+      "category": "rest",
+      "email": "elrioeventcenter@gmail.com",
+      "note": "Facebook only — weddings/quince up to 300, 17 recs",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-21",
+      "business": "Divine Event Center",
+      "city": "Arvada, CO",
+      "category": "rest",
+      "email": "divine.events5390@gmail.com",
+      "note": "Facebook only — weddings/quince, capacity 100",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-21",
+      "business": "The Garrett Law Office LLC",
+      "city": "Mobile, AL",
+      "category": "pro",
+      "email": "courtneygarrettlaw@gmail.com",
+      "note": "Facebook only — PI/family, licensed AL+TN, WV expansion",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-21",
+      "business": "Desert Cake Boutique (follow-up)",
+      "city": "Phoenix, AZ",
+      "category": "rest",
+      "email": "Desertcakeboutique@gmail.com",
+      "note": "2-day bump — Wix + Facebook wedding cakes",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-21",
+      "business": "UnitedCakes (follow-up)",
+      "city": "Haverhill, MA",
+      "category": "rest",
+      "email": "Unitedcakesbakery@gmail.com",
+      "note": "2-day bump — Wix template bakery",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-21",
+      "business": "Cakes by Croninger (follow-up)",
+      "city": "Wauseon, OH",
+      "category": "rest",
+      "email": "cakesbycroninger@gmail.com",
+      "note": "2-day bump — Facebook only wedding cakes",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-21",
+      "business": "Bell Remodeling and Renovations (follow-up)",
+      "city": "Spokane, WA",
+      "category": "service",
+      "email": "bellremodelingandrenovations@gmail.com",
+      "note": "2-day bump — Facebook + BBB only",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-21",
+      "business": "Rome Remodeling LLC (follow-up)",
+      "city": "Rome / Cartersville, GA",
+      "category": "service",
+      "email": "Romeremodeling706@gmail.com",
+      "note": "2-day bump — Facebook only kitchens/baths",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-21",
+      "business": "Bellevue Event Venue (follow-up)",
+      "city": "Bellevue, NE",
+      "category": "rest",
+      "email": "bellevueeventvenue@gmail.com",
+      "note": "2-day bump — Facebook only",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-20",
       "business": "CAB Kitchen and Bath LLC",
@@ -34,121 +133,13 @@
       "email": "alaskalakebakery@gmail.com",
       "note": "Facebook only — wedding cakes, 46 recs",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "Grand Fiesta Venue",
-      "city": "Ridgeway, VA",
-      "category": "rest",
-      "email": "GRAND.FIESTA12@GMAIL.COM",
-      "note": "Facebook only — parties/reunions up to 200",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "The Willow Event Center",
-      "city": "Winchester, OH",
-      "category": "rest",
-      "email": "thewilloweventcenter@gmail.com",
-      "note": "Facebook + Yelp only — $$$ venue, no site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "DS Luxury Cakes and Catering",
-      "city": "Bedford, TX",
-      "category": "rest",
-      "email": "dsluxurycakesandcatering@gmail.com",
-      "note": "Google Form + Facebook — wedding cakes, 9 recs",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "J Med Aesthetics (follow-up)",
-      "city": "Hamburg, NY",
-      "category": "salon",
-      "email": "Jmedaesthetics@gmail.com",
-      "note": "2-day bump — Aesthetic Record + Linktree",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "Gay Tackett CPA PLLC (follow-up)",
-      "city": "Cleburne, TX",
-      "category": "pro",
-      "email": "gaytackettcpa@gmail.com",
-      "note": "2-day bump — thin template tax/payroll site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "Amazing Event Venue (follow-up)",
-      "city": "Memphis, TN",
-      "category": "rest",
-      "email": "amazingeventvenue@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "Bream Family Dental Care (follow-up)",
-      "city": "Waynesboro, VA",
-      "category": "salon",
-      "email": "smilesbybream@gmail.com",
-      "note": "2-day bump — Squarespace template",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "Kitchens and Baths (follow-up)",
-      "city": "Port St. Lucie, FL",
-      "category": "service",
-      "email": "kitchensbaths6961@gmail.com",
-      "note": "2-day bump — weak quote-form site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-19",
-      "business": "Divine Aesthetics",
-      "city": "White House, TN",
-      "category": "salon",
-      "email": "kailey@divineaestheticsmedspa.com",
-      "note": "Aesthetic Record + Linktree — bounce (domain not found)",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-19",
-      "business": "Bellevue Event Venue",
-      "city": "Bellevue, NE",
-      "category": "rest",
-      "email": "bellevueeventvenue@gmail.com",
-      "note": "Facebook only — new owner, weddings/corporate",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-19",
-      "business": "Rome Remodeling LLC",
-      "city": "Rome / Cartersville, GA",
-      "category": "service",
-      "email": "Romeremodeling706@gmail.com",
-      "note": "Facebook only — kitchens/baths, 9 recs",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-19",
-      "business": "Bell Remodeling and Renovations",
-      "city": "Spokane, WA",
-      "category": "service",
-      "email": "bellremodelingandrenovations@gmail.com",
-      "note": "Facebook + BBB only — licensed kitchen/bath",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 43, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 44, "replies": 0 },
     { "name": "Salon / Barber", "key": "salon", "sent": 20, "replies": 0 },
-    { "name": "Restaurant / Food", "key": "rest", "sent": 24, "replies": 0 },
+    { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 9, "replies": 0 }
+    { "name": "Professional", "key": "pro", "sent": 11, "replies": 0 }
   ]
 }
