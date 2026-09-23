@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-23",
   "month": {
     "sent": 107,
     "replies": 0,
     "positive": 0,
-    "followUps": 84,
+    "followUps": 89,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-23",
+      "business": "Finney Heating & Cooling LLC (follow-up)",
+      "city": "Post Falls, ID",
+      "category": "service",
+      "email": "finneyheating@gmail.com",
+      "note": "2-day bump — Facebook + listings only HVAC",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-23",
+      "business": "Cooper CPA LLC (follow-up)",
+      "city": "Beavercreek, OH",
+      "category": "pro",
+      "email": "firm@coopercpallc.com",
+      "note": "2-day bump — old template CPA site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-23",
+      "business": "Rio Event Center (follow-up)",
+      "city": "Arlington, TX",
+      "category": "rest",
+      "email": "elrioeventcenter@gmail.com",
+      "note": "2-day bump — Facebook only venue to 300",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-23",
+      "business": "Divine Event Center (follow-up)",
+      "city": "Arvada, CO",
+      "category": "rest",
+      "email": "divine.events5390@gmail.com",
+      "note": "2-day bump — Facebook only venue",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-23",
+      "business": "The Garrett Law Office LLC (follow-up)",
+      "city": "Mobile, AL",
+      "category": "pro",
+      "email": "courtneygarrettlaw@gmail.com",
+      "note": "2-day bump — Facebook only PI/family law",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-21",
       "business": "Finney Heating & Cooling LLC",
@@ -88,51 +133,6 @@
       "email": "bellremodelingandrenovations@gmail.com",
       "note": "2-day bump — Facebook + BBB only",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "Rome Remodeling LLC (follow-up)",
-      "city": "Rome / Cartersville, GA",
-      "category": "service",
-      "email": "Romeremodeling706@gmail.com",
-      "note": "2-day bump — Facebook only kitchens/baths",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "Bellevue Event Venue (follow-up)",
-      "city": "Bellevue, NE",
-      "category": "rest",
-      "email": "bellevueeventvenue@gmail.com",
-      "note": "2-day bump — Facebook only",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "CAB Kitchen and Bath LLC",
-      "city": "Hoover, AL",
-      "category": "service",
-      "email": "cabkitchenbath@gmail.com",
-      "note": "Facebook only — licensed GC + home builder, Wolf/Koch cabinets",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "Ghezzi Heating & Cooling LLC",
-      "city": "Johnstown, PA",
-      "category": "service",
-      "email": "ghezziheatingcooling@gmail.com",
-      "note": "Facebook only — residential/light commercial + mini-splits",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-20",
-      "business": "Alaska Lake Bakery",
-      "city": "Copperas Cove, TX",
-      "category": "rest",
-      "email": "alaskalakebakery@gmail.com",
-      "note": "Facebook only — wedding cakes, 46 recs",
-      "status": "sent"
     }
   ],
   "byCategory": [
