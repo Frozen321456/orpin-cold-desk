@@ -1,13 +1,94 @@
 {
-  "asOf": "2026-09-23",
+  "asOf": "2026-09-24",
   "month": {
-    "sent": 107,
+    "sent": 110,
     "replies": 0,
     "positive": 0,
-    "followUps": 89,
+    "followUps": 95,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-24",
+      "business": "LAD's HVAC, LLC",
+      "city": "Carroll County, MD",
+      "category": "service",
+      "email": "Ladshvac@gmail.com",
+      "note": "Facebook only — installs + 24/7, 35 recs, res+commercial",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-24",
+      "business": "Gurr CPA LLC",
+      "city": "Orem, UT",
+      "category": "pro",
+      "email": "info@gurrcpa.com",
+      "note": "Old CPA template site — 100+ reviews, licensed team",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-24",
+      "business": "Joseph George, CPA, PLLC",
+      "city": "Tyler, TX",
+      "category": "pro",
+      "email": "jg@josephgeorgecpa.com",
+      "note": "Dated WordPress CPA site — 70+ reviews, AICPA",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-24",
+      "business": "DS Luxury Cakes and Catering (follow-up)",
+      "city": "Bedford",
+      "category": "rest",
+      "email": "dsluxurycakesandcatering@gmail.com",
+      "note": "2-day bump — Google Form + Facebook cakes",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-24",
+      "business": "The Willow Event Center (follow-up)",
+      "city": "Winchester",
+      "category": "rest",
+      "email": "thewilloweventcenter@gmail.com",
+      "note": "2-day bump — listings/Facebook venue",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-24",
+      "business": "Grand Fiesta Venue (follow-up)",
+      "city": "Ridgeway",
+      "category": "rest",
+      "email": "GRAND.FIESTA12@gmail.com",
+      "note": "2-day bump — Facebook only venue to 200",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-24",
+      "business": "Alaska Lake Bakery (follow-up)",
+      "city": "Copperas Cove, TX",
+      "category": "rest",
+      "email": "alaskalakebakery@gmail.com",
+      "note": "2-day bump — Facebook only wedding cakes, 46 recs",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-24",
+      "business": "Ghezzi Heating & Cooling (follow-up)",
+      "city": "Johnstown",
+      "category": "service",
+      "email": "ghezziheatingcooling@gmail.com",
+      "note": "2-day bump — Facebook only HVAC",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-24",
+      "business": "CAB Kitchen and Bath LLC (follow-up)",
+      "city": "Hoover, AL",
+      "category": "service",
+      "email": "cabkitchenbath@gmail.com",
+      "note": "2-day bump — Facebook only licensed GC",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-23",
       "business": "Finney Heating & Cooling LLC (follow-up)",
@@ -52,94 +133,13 @@
       "email": "courtneygarrettlaw@gmail.com",
       "note": "2-day bump — Facebook only PI/family law",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "Finney Heating & Cooling LLC",
-      "city": "Post Falls, ID",
-      "category": "service",
-      "email": "finneyheating@gmail.com",
-      "note": "Facebook + listings only — installs/mini-splits, 37 reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "Cooper CPA LLC",
-      "city": "Beavercreek, OH",
-      "category": "pro",
-      "email": "firm@coopercpallc.com",
-      "note": "Old template CPA site — still has Google+ footer",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "Rio Event Center",
-      "city": "Arlington, TX",
-      "category": "rest",
-      "email": "elrioeventcenter@gmail.com",
-      "note": "Facebook only — weddings/quince up to 300, 17 recs",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "Divine Event Center",
-      "city": "Arvada, CO",
-      "category": "rest",
-      "email": "divine.events5390@gmail.com",
-      "note": "Facebook only — weddings/quince, capacity 100",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "The Garrett Law Office LLC",
-      "city": "Mobile, AL",
-      "category": "pro",
-      "email": "courtneygarrettlaw@gmail.com",
-      "note": "Facebook only — PI/family, licensed AL+TN, WV expansion",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "Desert Cake Boutique (follow-up)",
-      "city": "Phoenix, AZ",
-      "category": "rest",
-      "email": "Desertcakeboutique@gmail.com",
-      "note": "2-day bump — Wix + Facebook wedding cakes",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "UnitedCakes (follow-up)",
-      "city": "Haverhill, MA",
-      "category": "rest",
-      "email": "Unitedcakesbakery@gmail.com",
-      "note": "2-day bump — Wix template bakery",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "Cakes by Croninger (follow-up)",
-      "city": "Wauseon, OH",
-      "category": "rest",
-      "email": "cakesbycroninger@gmail.com",
-      "note": "2-day bump — Facebook only wedding cakes",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-21",
-      "business": "Bell Remodeling and Renovations (follow-up)",
-      "city": "Spokane, WA",
-      "category": "service",
-      "email": "bellremodelingandrenovations@gmail.com",
-      "note": "2-day bump — Facebook + BBB only",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 44, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 45, "replies": 0 },
     { "name": "Salon / Barber", "key": "salon", "sent": 20, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 11, "replies": 0 }
+    { "name": "Professional", "key": "pro", "sent": 13, "replies": 0 }
   ]
 }
