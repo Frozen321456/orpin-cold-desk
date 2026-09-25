@@ -1,13 +1,31 @@
 {
-  "asOf": "2026-09-24",
+  "asOf": "2026-09-25",
   "month": {
-    "sent": 110,
+    "sent": 112,
     "replies": 0,
     "positive": 0,
     "followUps": 95,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-25",
+      "business": "Ageless Beauty Med Spa",
+      "city": "Janesville, WI",
+      "category": "salon",
+      "email": "agelessbeautyms@gmail.com",
+      "note": "GlossGenius only — RN-led injectables, laser, GLP-1",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-25",
+      "business": "Passionate Cooling & Heating LLC",
+      "city": "Las Vegas, NV",
+      "category": "service",
+      "email": "passionateair@yahoo.com",
+      "note": "Thin HVAC template — 80+ reviews, family, 24/7 installs",
+      "status": "sent"
+    },
     {
       "date": "2026-09-24",
       "business": "LAD's HVAC, LLC",
@@ -115,29 +133,11 @@
       "email": "elrioeventcenter@gmail.com",
       "note": "2-day bump — Facebook only venue to 300",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-09-23",
-      "business": "Divine Event Center (follow-up)",
-      "city": "Arvada, CO",
-      "category": "rest",
-      "email": "divine.events5390@gmail.com",
-      "note": "2-day bump — Facebook only venue",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-23",
-      "business": "The Garrett Law Office LLC (follow-up)",
-      "city": "Mobile, AL",
-      "category": "pro",
-      "email": "courtneygarrettlaw@gmail.com",
-      "note": "2-day bump — Facebook only PI/family law",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 45, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 20, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 46, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 21, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 13, "replies": 0 }
