@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-09-25",
+  "asOf": "2026-09-26",
   "month": {
-    "sent": 112,
+    "sent": 114,
     "replies": 0,
     "positive": 0,
-    "followUps": 95,
+    "followUps": 98,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-26",
+      "business": "Aesthetically You and Weight Loss Too",
+      "city": "Covington, KY",
+      "category": "salon",
+      "email": "fitandsnatched@gmail.com",
+      "note": "GlossGenius only — NP+MD team, injectables + GLP-1, ~98 reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-26",
+      "business": "Fronk CPA Tax & Consulting",
+      "city": "Middletown, PA",
+      "category": "pro",
+      "email": "kfronkcpa@gmail.com",
+      "note": "Facebook only — 115 Google reviews, tax/bookkeeping/LLC",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-26",
+      "business": "LAD's HVAC, LLC (follow-up)",
+      "city": "Carroll County, MD",
+      "category": "service",
+      "email": "Ladshvac@gmail.com",
+      "note": "2-day bump — Facebook only HVAC",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-26",
+      "business": "Gurr CPA LLC (follow-up)",
+      "city": "Orem, UT",
+      "category": "pro",
+      "email": "info@gurrcpa.com",
+      "note": "2-day bump — old CPA template site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-26",
+      "business": "Joseph George, CPA, PLLC (follow-up)",
+      "city": "Tyler, TX",
+      "category": "pro",
+      "email": "jg@josephgeorgecpa.com",
+      "note": "2-day bump — dated WordPress CPA site",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-25",
       "business": "Ageless Beauty Med Spa",
@@ -88,58 +133,13 @@
       "email": "alaskalakebakery@gmail.com",
       "note": "2-day bump — Facebook only wedding cakes, 46 recs",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-09-24",
-      "business": "Ghezzi Heating & Cooling (follow-up)",
-      "city": "Johnstown",
-      "category": "service",
-      "email": "ghezziheatingcooling@gmail.com",
-      "note": "2-day bump — Facebook only HVAC",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-24",
-      "business": "CAB Kitchen and Bath LLC (follow-up)",
-      "city": "Hoover, AL",
-      "category": "service",
-      "email": "cabkitchenbath@gmail.com",
-      "note": "2-day bump — Facebook only licensed GC",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-23",
-      "business": "Finney Heating & Cooling LLC (follow-up)",
-      "city": "Post Falls, ID",
-      "category": "service",
-      "email": "finneyheating@gmail.com",
-      "note": "2-day bump — Facebook + listings only HVAC",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-23",
-      "business": "Cooper CPA LLC (follow-up)",
-      "city": "Beavercreek, OH",
-      "category": "pro",
-      "email": "firm@coopercpallc.com",
-      "note": "2-day bump — old template CPA site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-23",
-      "business": "Rio Event Center (follow-up)",
-      "city": "Arlington, TX",
-      "category": "rest",
-      "email": "elrioeventcenter@gmail.com",
-      "note": "2-day bump — Facebook only venue to 300",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 46, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 21, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 22, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 13, "replies": 0 }
+    { "name": "Professional", "key": "pro", "sent": 14, "replies": 0 }
   ]
 }
