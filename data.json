@@ -1,13 +1,31 @@
 {
-  "asOf": "2026-09-26",
+  "asOf": "2026-09-27",
   "month": {
     "sent": 114,
     "replies": 0,
     "positive": 0,
-    "followUps": 98,
+    "followUps": 100,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-27",
+      "business": "Ageless Beauty Med Spa (follow-up)",
+      "city": "Janesville, WI",
+      "category": "salon",
+      "email": "agelessbeautyms@gmail.com",
+      "note": "2-day bump — GlossGenius only RN-led injectables/laser/GLP-1",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-27",
+      "business": "Passionate Cooling & Heating LLC (follow-up)",
+      "city": "Las Vegas, NV",
+      "category": "service",
+      "email": "passionateair@yahoo.com",
+      "note": "2-day bump — thin HVAC template, 80+ reviews",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-26",
       "business": "Aesthetically You and Weight Loss Too",
@@ -97,42 +115,6 @@
       "email": "jg@josephgeorgecpa.com",
       "note": "Dated WordPress CPA site — 70+ reviews, AICPA",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-24",
-      "business": "DS Luxury Cakes and Catering (follow-up)",
-      "city": "Bedford",
-      "category": "rest",
-      "email": "dsluxurycakesandcatering@gmail.com",
-      "note": "2-day bump — Google Form + Facebook cakes",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-24",
-      "business": "The Willow Event Center (follow-up)",
-      "city": "Winchester",
-      "category": "rest",
-      "email": "thewilloweventcenter@gmail.com",
-      "note": "2-day bump — listings/Facebook venue",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-24",
-      "business": "Grand Fiesta Venue (follow-up)",
-      "city": "Ridgeway",
-      "category": "rest",
-      "email": "GRAND.FIESTA12@gmail.com",
-      "note": "2-day bump — Facebook only venue to 200",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-24",
-      "business": "Alaska Lake Bakery (follow-up)",
-      "city": "Copperas Cove, TX",
-      "category": "rest",
-      "email": "alaskalakebakery@gmail.com",
-      "note": "2-day bump — Facebook only wedding cakes, 46 recs",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
