@@ -1,13 +1,31 @@
 {
-  "asOf": "2026-09-27",
+  "asOf": "2026-09-28",
   "month": {
     "sent": 114,
     "replies": 0,
     "positive": 0,
-    "followUps": 100,
+    "followUps": 102,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-28",
+      "business": "Fronk CPA Tax & Consulting (follow-up)",
+      "city": "Middletown, PA",
+      "category": "pro",
+      "email": "kfronkcpa@gmail.com",
+      "note": "2-day bump — Facebook only, 115 Google reviews, tax/bookkeeping/LLC",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-09-28",
+      "business": "Aesthetically You and Weight Loss Too (follow-up)",
+      "city": "Covington, KY",
+      "category": "salon",
+      "email": "fitandsnatched@gmail.com",
+      "note": "2-day bump — GlossGenius only NP+MD team, injectables + GLP-1, ~98 reviews",
+      "status": "follow-up"
+    },
     {
       "date": "2026-09-27",
       "business": "Ageless Beauty Med Spa (follow-up)",
@@ -96,24 +114,6 @@
       "category": "service",
       "email": "Ladshvac@gmail.com",
       "note": "Facebook only — installs + 24/7, 35 recs, res+commercial",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-24",
-      "business": "Gurr CPA LLC",
-      "city": "Orem, UT",
-      "category": "pro",
-      "email": "info@gurrcpa.com",
-      "note": "Old CPA template site — 100+ reviews, licensed team",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-24",
-      "business": "Joseph George, CPA, PLLC",
-      "city": "Tyler, TX",
-      "category": "pro",
-      "email": "jg@josephgeorgecpa.com",
-      "note": "Dated WordPress CPA site — 70+ reviews, AICPA",
       "status": "sent"
     }
   ],
