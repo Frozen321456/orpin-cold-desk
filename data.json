@@ -1,13 +1,22 @@
 {
-  "asOf": "2026-09-28",
+  "asOf": "2026-09-29",
   "month": {
-    "sent": 114,
+    "sent": 115,
     "replies": 0,
     "positive": 0,
     "followUps": 102,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-29",
+      "business": "Wunder Aesthetics & Wellness",
+      "city": "Town and Country, MO",
+      "category": "salon",
+      "email": "hello@wunderaesthetics.com",
+      "note": "GlossGenius only — FNP-led tox/filler/GLP-1/IV, branded email, suite office",
+      "status": "sent"
+    },
     {
       "date": "2026-09-28",
       "business": "Fronk CPA Tax & Consulting (follow-up)",
@@ -106,20 +115,11 @@
       "email": "passionateair@yahoo.com",
       "note": "Thin HVAC template — 80+ reviews, family, 24/7 installs",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-24",
-      "business": "LAD's HVAC, LLC",
-      "city": "Carroll County, MD",
-      "category": "service",
-      "email": "Ladshvac@gmail.com",
-      "note": "Facebook only — installs + 24/7, 35 recs, res+commercial",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 46, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 22, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 23, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 14, "replies": 0 }
