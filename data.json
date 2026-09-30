@@ -1,13 +1,31 @@
 {
-  "asOf": "2026-09-29",
+  "asOf": "2026-09-30",
   "month": {
-    "sent": 115,
+    "sent": 117,
     "replies": 0,
     "positive": 0,
     "followUps": 102,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-09-30",
+      "business": "Javani Aesthetics & Wellness",
+      "city": "Bay City, MI",
+      "category": "salon",
+      "email": "javaniaesthetics@yahoo.com",
+      "note": "GlossGenius only — 3-person team, Botox/filler/Diamond Glow, brick-and-mortar on 16th St",
+      "status": "sent"
+    },
+    {
+      "date": "2026-09-30",
+      "business": "George, Cintron & Co. CPA",
+      "city": "Coral Gables, FL",
+      "category": "pro",
+      "email": "info@gctaxcpa.com",
+      "note": "Dated CPA template — two partners, tax/bookkeeping/consulting, 28+ reviews",
+      "status": "sent"
+    },
     {
       "date": "2026-09-29",
       "business": "Wunder Aesthetics & Wellness",
@@ -97,31 +115,13 @@
       "email": "jg@josephgeorgecpa.com",
       "note": "2-day bump — dated WordPress CPA site",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-09-25",
-      "business": "Ageless Beauty Med Spa",
-      "city": "Janesville, WI",
-      "category": "salon",
-      "email": "agelessbeautyms@gmail.com",
-      "note": "GlossGenius only — RN-led injectables, laser, GLP-1",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-25",
-      "business": "Passionate Cooling & Heating LLC",
-      "city": "Las Vegas, NV",
-      "category": "service",
-      "email": "passionateair@yahoo.com",
-      "note": "Thin HVAC template — 80+ reviews, family, 24/7 installs",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 46, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 23, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 24, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 14, "replies": 0 }
+    { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
   ]
 }
