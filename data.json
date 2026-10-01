@@ -1,13 +1,49 @@
 {
-  "asOf": "2026-09-30",
+  "asOf": "2026-10-01",
   "month": {
-    "sent": 117,
+    "sent": 120,
     "replies": 0,
     "positive": 0,
-    "followUps": 102,
+    "followUps": 103,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-01",
+      "business": "Wunder Aesthetics & Wellness (follow-up)",
+      "city": "Town and Country, MO",
+      "category": "salon",
+      "email": "hello@wunderaesthetics.com",
+      "note": "2-day bump — GlossGenius only, FNP-led tox/filler/GLP-1/IV",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-01",
+      "business": "Botox Bella Aesthetics and IV Lounge",
+      "city": "Wilmington, MA",
+      "category": "salon",
+      "email": "stellad214@yahoo.com",
+      "note": "Vagaro + Cherry only — nurse injector since 2016, IV lounge, named reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-01",
+      "business": "Embody Beauty Medspa",
+      "city": "Sunrise, FL",
+      "category": "salon",
+      "email": "EmbodyBeautyMedspa@gmail.com",
+      "note": "Vagaro + Cherry only — FNP-led injectables/PRP/GLP-1, suite team",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-01",
+      "business": "The B Suite Injections",
+      "city": "Peabody, MA",
+      "category": "salon",
+      "email": "Thebsuiteinjections@gmail.com",
+      "note": "Vagaro only — RN injector 9+ years, office, tox/filler/semaglutide, active page",
+      "status": "sent"
+    },
     {
       "date": "2026-09-30",
       "business": "Javani Aesthetics & Wellness",
@@ -23,8 +59,8 @@
       "city": "Coral Gables, FL",
       "category": "pro",
       "email": "info@gctaxcpa.com",
-      "note": "Dated CPA template — two partners, tax/bookkeeping/consulting, 28+ reviews",
-      "status": "sent"
+      "note": "Dated CPA template — bounce on 9/30, not counted as a reply",
+      "status": "bounced"
     },
     {
       "date": "2026-09-29",
@@ -79,47 +115,11 @@
       "email": "fitandsnatched@gmail.com",
       "note": "GlossGenius only — NP+MD team, injectables + GLP-1, ~98 reviews",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-26",
-      "business": "Fronk CPA Tax & Consulting",
-      "city": "Middletown, PA",
-      "category": "pro",
-      "email": "kfronkcpa@gmail.com",
-      "note": "Facebook only — 115 Google reviews, tax/bookkeeping/LLC",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-26",
-      "business": "LAD's HVAC, LLC (follow-up)",
-      "city": "Carroll County, MD",
-      "category": "service",
-      "email": "Ladshvac@gmail.com",
-      "note": "2-day bump — Facebook only HVAC",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-26",
-      "business": "Gurr CPA LLC (follow-up)",
-      "city": "Orem, UT",
-      "category": "pro",
-      "email": "info@gurrcpa.com",
-      "note": "2-day bump — old CPA template site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-26",
-      "business": "Joseph George, CPA, PLLC (follow-up)",
-      "city": "Tyler, TX",
-      "category": "pro",
-      "email": "jg@josephgeorgecpa.com",
-      "note": "2-day bump — dated WordPress CPA site",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 46, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 24, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 27, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
