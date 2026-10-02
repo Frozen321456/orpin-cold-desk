@@ -1,13 +1,31 @@
 {
-  "asOf": "2026-10-01",
+  "asOf": "2026-10-02",
   "month": {
-    "sent": 120,
+    "sent": 121,
     "replies": 0,
     "positive": 0,
-    "followUps": 103,
+    "followUps": 104,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-02",
+      "business": "Javani Aesthetics & Wellness (follow-up)",
+      "city": "Bay City, MI",
+      "category": "salon",
+      "email": "javaniaesthetics@yahoo.com",
+      "note": "2-day bump — GlossGenius only, 3-person team, Botox/filler/Diamond Glow",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-02",
+      "business": "Beauty and Butterflies Med Spa",
+      "city": "Apache Junction, AZ",
+      "category": "salon",
+      "email": "beautybutterfliesmedspa@gmail.com",
+      "note": "Vagaro only — suite clinic, injectables/PDO/weight loss/IV, ~35 Google reviews",
+      "status": "sent"
+    },
     {
       "date": "2026-10-01",
       "business": "Wunder Aesthetics & Wellness (follow-up)",
@@ -97,29 +115,11 @@
       "email": "agelessbeautyms@gmail.com",
       "note": "2-day bump — GlossGenius only RN-led injectables/laser/GLP-1",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-09-27",
-      "business": "Passionate Cooling & Heating LLC (follow-up)",
-      "city": "Las Vegas, NV",
-      "category": "service",
-      "email": "passionateair@yahoo.com",
-      "note": "2-day bump — thin HVAC template, 80+ reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-26",
-      "business": "Aesthetically You and Weight Loss Too",
-      "city": "Covington, KY",
-      "category": "salon",
-      "email": "fitandsnatched@gmail.com",
-      "note": "GlossGenius only — NP+MD team, injectables + GLP-1, ~98 reviews",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 46, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 27, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 28, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
