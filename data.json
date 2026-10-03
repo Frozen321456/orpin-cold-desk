@@ -1,13 +1,40 @@
 {
-  "asOf": "2026-10-02",
+  "asOf": "2026-10-03",
   "month": {
     "sent": 121,
     "replies": 0,
     "positive": 0,
-    "followUps": 104,
+    "followUps": 107,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-03",
+      "business": "The B Suite Injections (follow-up)",
+      "city": "Peabody, MA",
+      "category": "salon",
+      "email": "Thebsuiteinjections@gmail.com",
+      "note": "2-day bump — Vagaro only, RN injector 9+ years, tox/filler/semaglutide",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-03",
+      "business": "Embody Beauty Medspa (follow-up)",
+      "city": "Sunrise, FL",
+      "category": "salon",
+      "email": "EmbodyBeautyMedspa@gmail.com",
+      "note": "2-day bump — Vagaro + Cherry only, FNP-led injectables/PRP/GLP-1",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-03",
+      "business": "Botox Bella Aesthetics and IV Lounge (follow-up)",
+      "city": "Wilmington, MA",
+      "category": "salon",
+      "email": "stellad214@yahoo.com",
+      "note": "2-day bump — Vagaro + Cherry only, nurse injector since 2016, IV lounge",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-02",
       "business": "Javani Aesthetics & Wellness (follow-up)",
@@ -88,33 +115,6 @@
       "email": "hello@wunderaesthetics.com",
       "note": "GlossGenius only — FNP-led tox/filler/GLP-1/IV, branded email, suite office",
       "status": "sent"
-    },
-    {
-      "date": "2026-09-28",
-      "business": "Fronk CPA Tax & Consulting (follow-up)",
-      "city": "Middletown, PA",
-      "category": "pro",
-      "email": "kfronkcpa@gmail.com",
-      "note": "2-day bump — Facebook only, 115 Google reviews, tax/bookkeeping/LLC",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-28",
-      "business": "Aesthetically You and Weight Loss Too (follow-up)",
-      "city": "Covington, KY",
-      "category": "salon",
-      "email": "fitandsnatched@gmail.com",
-      "note": "2-day bump — GlossGenius only NP+MD team, injectables + GLP-1, ~98 reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-09-27",
-      "business": "Ageless Beauty Med Spa (follow-up)",
-      "city": "Janesville, WI",
-      "category": "salon",
-      "email": "agelessbeautyms@gmail.com",
-      "note": "2-day bump — GlossGenius only RN-led injectables/laser/GLP-1",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
