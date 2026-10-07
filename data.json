@@ -1,13 +1,31 @@
 {
-  "asOf": "2026-10-06",
+  "asOf": "2026-10-07",
   "month": {
-    "sent": 122,
+    "sent": 124,
     "replies": 0,
     "positive": 0,
     "followUps": 108,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-07",
+      "business": "The Retreat RX Medical Spa",
+      "city": "Loma Linda, CA",
+      "category": "salon",
+      "email": "Theretreatrx@gmail.com",
+      "note": "Template site — RN injector 10+ years, NP on team, Botox/filler/IV, ~148 Google reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-07",
+      "business": "Sebring NP Services",
+      "city": "Sebring, FL",
+      "category": "salon",
+      "email": "sebringnp@gmail.com",
+      "note": "Older template site, 2021 event still listed — NP 10+ years, staffed office, primary care + injectables/laser, $$$, ~32 reviews",
+      "status": "sent"
+    },
     {
       "date": "2026-10-06",
       "business": "Beauty and Butterflies Med Spa (follow-up)",
@@ -97,29 +115,11 @@
       "email": "EmbodyBeautyMedspa@gmail.com",
       "note": "Vagaro + Cherry only — FNP-led injectables/PRP/GLP-1, suite team",
       "status": "sent"
-    },
-    {
-      "date": "2026-10-01",
-      "business": "The B Suite Injections",
-      "city": "Peabody, MA",
-      "category": "salon",
-      "email": "Thebsuiteinjections@gmail.com",
-      "note": "Vagaro only — RN injector 9+ years, office, tox/filler/semaglutide, active page",
-      "status": "sent"
-    },
-    {
-      "date": "2026-09-30",
-      "business": "Javani Aesthetics & Wellness",
-      "city": "Bay City, MI",
-      "category": "salon",
-      "email": "javaniaesthetics@yahoo.com",
-      "note": "GlossGenius only — 3-person team, Botox/filler/Diamond Glow, brick-and-mortar on 16th St",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 46, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 29, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 31, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
