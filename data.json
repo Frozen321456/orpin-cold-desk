@@ -1,13 +1,40 @@
 {
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-08",
   "month": {
-    "sent": 124,
+    "sent": 126,
     "replies": 0,
     "positive": 0,
-    "followUps": 108,
+    "followUps": 109,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-08",
+      "business": "Gray Aesthetics",
+      "city": "Cockeysville, MD",
+      "category": "salon",
+      "email": "info@grayaesthetics.com",
+      "note": "Thin Wix one-pager, booking still on Vagaro — NP Reena Gray, tox/filler/PDO/PRF, Cherry + PatientFi, ~66 Google reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-08",
+      "business": "Aesthetic Artistry Med Spa",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "aestheticartistryindy@gmail.com",
+      "note": "Domain redirects to Vagaro booking page — RN owner Jaimie Tye + second RN, memberships, medical-grade retail, Linktree only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-08",
+      "business": "All About ME Aesthetics (follow-up)",
+      "city": "Whitehouse, TX",
+      "category": "salon",
+      "email": "Allaboutmeinjector@gmail.com",
+      "note": "2-day bump — GlossGenius + Cherry only, RN since 2009, medical director, veteran-owned office on TX-110",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-07",
       "business": "The Retreat RX Medical Spa",
@@ -88,38 +115,11 @@
       "email": "beautybutterfliesmedspa@gmail.com",
       "note": "Vagaro only — suite clinic, injectables/PDO/weight loss/IV, ~35 Google reviews",
       "status": "sent"
-    },
-    {
-      "date": "2026-10-01",
-      "business": "Wunder Aesthetics & Wellness (follow-up)",
-      "city": "Town and Country, MO",
-      "category": "salon",
-      "email": "hello@wunderaesthetics.com",
-      "note": "2-day bump — GlossGenius only, FNP-led tox/filler/GLP-1/IV",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-01",
-      "business": "Botox Bella Aesthetics and IV Lounge",
-      "city": "Wilmington, MA",
-      "category": "salon",
-      "email": "stellad214@yahoo.com",
-      "note": "Vagaro + Cherry only — nurse injector since 2016, IV lounge, named reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-01",
-      "business": "Embody Beauty Medspa",
-      "city": "Sunrise, FL",
-      "category": "salon",
-      "email": "EmbodyBeautyMedspa@gmail.com",
-      "note": "Vagaro + Cherry only — FNP-led injectables/PRP/GLP-1, suite team",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 46, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 31, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 33, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
