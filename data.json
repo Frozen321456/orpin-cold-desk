@@ -1,13 +1,49 @@
 {
-  "asOf": "2026-10-08",
+  "asOf": "2026-10-09",
   "month": {
-    "sent": 126,
+    "sent": 128,
     "replies": 0,
     "positive": 0,
-    "followUps": 109,
+    "followUps": 111,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-09",
+      "business": "La Belle Vie Medspa",
+      "city": "Woodland Hills / Burbank, CA",
+      "category": "salon",
+      "email": "info@labelleviemedspa.com",
+      "note": "Thin builder homepage, booking on Linktree — two locations, nurse team, Morpheus/IV, ~185 Yelp reviews, founded 2020",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-09",
+      "business": "QwikMed Pharmacy & Clinic",
+      "city": "Fayetteville, NC",
+      "category": "service",
+      "email": "rph@qwikmed.net",
+      "note": "Short Wix page, clinic booking on Vagaro — NP walk-in clinic + pharmacy, 7 days, ~150 Google reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-09",
+      "business": "Sebring NP Services (follow-up)",
+      "city": "Sebring, FL",
+      "category": "salon",
+      "email": "sebringnp@gmail.com",
+      "note": "2-day bump — older template, 2021 event still listed, NP office, primary care + injectables/laser",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-09",
+      "business": "The Retreat RX Medical Spa (follow-up)",
+      "city": "Loma Linda, CA",
+      "category": "salon",
+      "email": "Theretreatrx@gmail.com",
+      "note": "2-day bump — template site, RN injector + NP, Botox/filler/IV, ~148 Google reviews",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-08",
       "business": "Gray Aesthetics",
@@ -79,47 +115,11 @@
       "email": "Thebsuiteinjections@gmail.com",
       "note": "2-day bump — Vagaro only, RN injector 9+ years, tox/filler/semaglutide",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-03",
-      "business": "Embody Beauty Medspa (follow-up)",
-      "city": "Sunrise, FL",
-      "category": "salon",
-      "email": "EmbodyBeautyMedspa@gmail.com",
-      "note": "2-day bump — Vagaro + Cherry only, FNP-led injectables/PRP/GLP-1",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-03",
-      "business": "Botox Bella Aesthetics and IV Lounge (follow-up)",
-      "city": "Wilmington, MA",
-      "category": "salon",
-      "email": "stellad214@yahoo.com",
-      "note": "2-day bump — Vagaro + Cherry only, nurse injector since 2016, IV lounge",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-02",
-      "business": "Javani Aesthetics & Wellness (follow-up)",
-      "city": "Bay City, MI",
-      "category": "salon",
-      "email": "javaniaesthetics@yahoo.com",
-      "note": "2-day bump — GlossGenius only, 3-person team, Botox/filler/Diamond Glow",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-02",
-      "business": "Beauty and Butterflies Med Spa",
-      "city": "Apache Junction, AZ",
-      "category": "salon",
-      "email": "beautybutterfliesmedspa@gmail.com",
-      "note": "Vagaro only — suite clinic, injectables/PDO/weight loss/IV, ~35 Google reviews",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 46, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 33, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 34, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
