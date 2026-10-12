@@ -1,13 +1,40 @@
 {
-  "asOf": "2026-10-11",
+  "asOf": "2026-10-12",
   "month": {
-    "sent": 130,
+    "sent": 131,
     "replies": 0,
     "positive": 0,
-    "followUps": 112,
+    "followUps": 114,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-12",
+      "business": "Lush Aesthetics & Wellness PLLC",
+      "city": "Glendale, AZ",
+      "category": "salon",
+      "email": "Lushaaw2@gmail.com",
+      "note": "Vagaro/IG primary only — FNP Angel Garcia, team (RMA/CNA), injectables/weight loss/microneedling/PRP, PLLC",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-12",
+      "business": "Gray Aesthetics (follow-up)",
+      "city": "Cockeysville, MD",
+      "category": "salon",
+      "email": "info@grayaesthetics.com",
+      "note": "2-day+ bump — thin Wix one-pager, Vagaro booking, NP Reena Gray, tox/filler/PDO/PRF, ~66 Google reviews",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-12",
+      "business": "Aesthetic Artistry Med Spa (follow-up)",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "aestheticartistryindy@gmail.com",
+      "note": "2-day+ bump — domain to Vagaro, RN owner Jaimie Tye + team, memberships, medical-grade retail",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-11",
       "business": "Renew Aesthetics & Wellness Clinic",
@@ -70,38 +97,11 @@
       "email": "Theretreatrx@gmail.com",
       "note": "2-day bump — template site, RN injector + NP, Botox/filler/IV, ~148 Google reviews",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-08",
-      "business": "Gray Aesthetics",
-      "city": "Cockeysville, MD",
-      "category": "salon",
-      "email": "info@grayaesthetics.com",
-      "note": "Thin Wix one-pager, booking still on Vagaro — NP Reena Gray, tox/filler/PDO/PRF, Cherry + PatientFi, ~66 Google reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-08",
-      "business": "Aesthetic Artistry Med Spa",
-      "city": "Indianapolis, IN",
-      "category": "salon",
-      "email": "aestheticartistryindy@gmail.com",
-      "note": "Domain redirects to Vagaro booking page — RN owner Jaimie Tye + second RN, memberships, medical-grade retail, Linktree only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-08",
-      "business": "All About ME Aesthetics (follow-up)",
-      "city": "Whitehouse, TX",
-      "category": "salon",
-      "email": "Allaboutmeinjector@gmail.com",
-      "note": "2-day bump — GlossGenius + Cherry only, RN since 2009, medical director, veteran-owned office on TX-110",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 36, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 37, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
