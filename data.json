@@ -1,13 +1,49 @@
 {
-  "asOf": "2026-10-12",
+  "asOf": "2026-10-13",
   "month": {
-    "sent": 131,
+    "sent": 134,
     "replies": 0,
     "positive": 0,
-    "followUps": 114,
+    "followUps": 115,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-13",
+      "business": "Gloss RVA MedSpa",
+      "city": "Midlothian, VA",
+      "category": "salon",
+      "email": "Glossrva@gmail.com",
+      "note": "Basic template site, booking external — LLC since 2014, nurse injector + team, injectables/laser/body/hair/PMU, ~86 Google reviews, CareCredit",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-13",
+      "business": "Skin Bliss Med Spa",
+      "city": "Helena, MT",
+      "category": "salon",
+      "email": "info@skinblissmedspa.com",
+      "note": "Vagaro booking primary — award-winning acne/laser clinic, founded 2019 by Jen Quick, Diolaze/Morpheus8/IPL, 100+ reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-13",
+      "business": "Joslin Medical Spa",
+      "city": "Georgetown, TX",
+      "category": "salon",
+      "email": "heathertheinjector@gmail.com",
+      "note": "Linktree/Vagaro heavy, site secondary — multi-injector team (RN + NP), neuromodulators/fillers/RF, 100+ reviews, Cherry financing",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-13",
+      "business": "Renew Aesthetics & Wellness Clinic (follow-up)",
+      "city": "Lake Elsinore, CA",
+      "category": "salon",
+      "email": "dripdropnp@gmail.com",
+      "note": "2-day bump — thin site + Vagaro, NP Cris Medina, injectables/weight loss/IV, ~77+ Google reviews",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-12",
       "business": "Lush Aesthetics & Wellness PLLC",
@@ -61,47 +97,11 @@
       "email": "info@labelleviemedspa.com",
       "note": "2-day bump — thin builder homepage, Linktree booking, two locations, nurse team, Morpheus/IV, ~185 Yelp",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-09",
-      "business": "La Belle Vie Medspa",
-      "city": "Woodland Hills / Burbank, CA",
-      "category": "salon",
-      "email": "info@labelleviemedspa.com",
-      "note": "Thin builder homepage, booking on Linktree — two locations, nurse team, Morpheus/IV, ~185 Yelp reviews, founded 2020",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-09",
-      "business": "QwikMed Pharmacy & Clinic",
-      "city": "Fayetteville, NC",
-      "category": "service",
-      "email": "rph@qwikmed.net",
-      "note": "Short Wix page, clinic booking on Vagaro — NP walk-in clinic + pharmacy, 7 days, ~150 Google reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-09",
-      "business": "Sebring NP Services (follow-up)",
-      "city": "Sebring, FL",
-      "category": "salon",
-      "email": "sebringnp@gmail.com",
-      "note": "2-day bump — older template, 2021 event still listed, NP office, primary care + injectables/laser",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-09",
-      "business": "The Retreat RX Medical Spa (follow-up)",
-      "city": "Loma Linda, CA",
-      "category": "salon",
-      "email": "Theretreatrx@gmail.com",
-      "note": "2-day bump — template site, RN injector + NP, Botox/filler/IV, ~148 Google reviews",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 37, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 40, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
