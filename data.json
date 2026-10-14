@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-10-13",
+  "asOf": "2026-10-14",
   "month": {
-    "sent": 134,
+    "sent": 138,
     "replies": 0,
     "positive": 0,
-    "followUps": 115,
+    "followUps": 116,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-14",
+      "business": "Gravitas Medspa",
+      "city": "Encino / Santa Clarita, CA",
+      "category": "salon",
+      "email": "gravitasbw@gmail.com",
+      "note": "Vagaro MySite only — RN founder + MD director, multi-location, medical-grade products, ~40 reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-14",
+      "business": "Aesthetics Med Spa",
+      "city": "Reno, NV",
+      "category": "salon",
+      "email": "support@aestheticsreno.com",
+      "note": "Basic site + Vagaro — award-winning, NP/RN team, injectables/laser/body/weight loss, 100+ reviews, payment plans",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-14",
+      "business": "Dream Body Medspa",
+      "city": "Walnut Creek, CA",
+      "category": "salon",
+      "email": "info@dreambodymedspa.com",
+      "note": "Site to Vagaro — Endospheres specialty, team of 6+, 80+ Google reviews, post-op demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-14",
+      "business": "Boutique Medspa",
+      "city": "Agawam / Boston, MA",
+      "category": "salon",
+      "email": "theboutiquemedspa@gmail.com",
+      "note": "Vagaro heavy — RN founder Michelle, 15+ years, Boston location, 35+ reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-14",
+      "business": "Lush Aesthetics & Wellness PLLC (follow-up)",
+      "city": "Glendale, AZ",
+      "category": "salon",
+      "email": "Lushaaw2@gmail.com",
+      "note": "2-day bump — Vagaro/IG primary only, FNP Angel Garcia, team, injectables/weight loss/microneedling/PRP, PLLC",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-13",
       "business": "Gloss RVA MedSpa",
@@ -52,56 +97,11 @@
       "email": "Lushaaw2@gmail.com",
       "note": "Vagaro/IG primary only — FNP Angel Garcia, team (RMA/CNA), injectables/weight loss/microneedling/PRP, PLLC",
       "status": "sent"
-    },
-    {
-      "date": "2026-10-12",
-      "business": "Gray Aesthetics (follow-up)",
-      "city": "Cockeysville, MD",
-      "category": "salon",
-      "email": "info@grayaesthetics.com",
-      "note": "2-day+ bump — thin Wix one-pager, Vagaro booking, NP Reena Gray, tox/filler/PDO/PRF, ~66 Google reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-12",
-      "business": "Aesthetic Artistry Med Spa (follow-up)",
-      "city": "Indianapolis, IN",
-      "category": "salon",
-      "email": "aestheticartistryindy@gmail.com",
-      "note": "2-day+ bump — domain to Vagaro, RN owner Jaimie Tye + team, memberships, medical-grade retail",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-11",
-      "business": "Renew Aesthetics & Wellness Clinic",
-      "city": "Lake Elsinore, CA",
-      "category": "salon",
-      "email": "dripdropnp@gmail.com",
-      "note": "Thin site + Vagaro booking — NP Cris Medina, injectables/weight loss/IV, ~77+ Google reviews, staffed clinic",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-11",
-      "business": "GLAM MediSpa",
-      "city": "Van Nuys, CA",
-      "category": "salon",
-      "email": "info@glammedispala.com",
-      "note": "Linktree/Vagaro primary, secondary site — est. 2010, MD-supported team, laser/body/injectables, 399 Yelp reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-11",
-      "business": "La Belle Vie Medspa (follow-up)",
-      "city": "Woodland Hills / Burbank, CA",
-      "category": "salon",
-      "email": "info@labelleviemedspa.com",
-      "note": "2-day bump — thin builder homepage, Linktree booking, two locations, nurse team, Morpheus/IV, ~185 Yelp",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 40, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 44, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
