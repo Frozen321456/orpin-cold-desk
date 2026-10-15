@@ -1,13 +1,76 @@
 {
-  "asOf": "2026-10-14",
+  "asOf": "2026-10-15",
   "month": {
-    "sent": 138,
+    "sent": 142,
     "replies": 0,
     "positive": 0,
-    "followUps": 116,
+    "followUps": 119,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-15",
+      "business": "uGlow Med Spa",
+      "city": "Salem, MA",
+      "category": "salon",
+      "email": "jillian@uglowmedspa.com",
+      "note": "Vagaro booking primary — NP founder Jillian Oppenheim, team of NPs/estheticians, injectables/lasers/weight loss, 100+ reviews, natural results focus",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-15",
+      "business": "Great Lakes Medical Spa",
+      "city": "Spring Lake, MI",
+      "category": "salon",
+      "email": "Timelessyou@greatlakesmedicalspa.com",
+      "note": "Weebly template + Vagaro — PA owner Jodie Gamm, team (RN/estheticians/massage), lasers/injectables/body, ~49 Google reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-15",
+      "business": "The Blu Pearl Luxury Day & Medical Spa",
+      "city": "Falmouth, MA",
+      "category": "salon",
+      "email": "theblupearlspa@gmail.com",
+      "note": "Site + Vagaro heavy — luxury day + NP-led med spa, team, injectables/lasers/memberships, 150+ reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-15",
+      "business": "La Belle Vie Medspa",
+      "city": "Woodland Hills / Burbank, CA",
+      "category": "salon",
+      "email": "info@labelleviemedspa.com",
+      "note": "Multi-location site — MD director + RN team, awards, injectables/Morpheus/body, strong presence but booking/mobile gap",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-15",
+      "business": "Gloss RVA MedSpa (follow-up)",
+      "city": "Midlothian, VA",
+      "category": "salon",
+      "email": "Glossrva@gmail.com",
+      "note": "2-day bump — basic template site, booking external — nurse injector + team, ~86 reviews",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-15",
+      "business": "Skin Bliss Med Spa (follow-up)",
+      "city": "Helena, MT",
+      "category": "salon",
+      "email": "info@skinblissmedspa.com",
+      "note": "2-day bump — Vagaro primary — award-winning acne/laser, 100+ reviews",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-15",
+      "business": "Joslin Medical Spa (follow-up)",
+      "city": "Georgetown, TX",
+      "category": "salon",
+      "email": "heathertheinjector@gmail.com",
+      "note": "2-day bump — Linktree/Vagaro heavy — multi-injector RN+NP team, 100+ reviews",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-14",
       "business": "Gravitas Medspa",
@@ -34,74 +97,11 @@
       "email": "info@dreambodymedspa.com",
       "note": "Site to Vagaro — Endospheres specialty, team of 6+, 80+ Google reviews, post-op demand",
       "status": "sent"
-    },
-    {
-      "date": "2026-10-14",
-      "business": "Boutique Medspa",
-      "city": "Agawam / Boston, MA",
-      "category": "salon",
-      "email": "theboutiquemedspa@gmail.com",
-      "note": "Vagaro heavy — RN founder Michelle, 15+ years, Boston location, 35+ reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-14",
-      "business": "Lush Aesthetics & Wellness PLLC (follow-up)",
-      "city": "Glendale, AZ",
-      "category": "salon",
-      "email": "Lushaaw2@gmail.com",
-      "note": "2-day bump — Vagaro/IG primary only, FNP Angel Garcia, team, injectables/weight loss/microneedling/PRP, PLLC",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-13",
-      "business": "Gloss RVA MedSpa",
-      "city": "Midlothian, VA",
-      "category": "salon",
-      "email": "Glossrva@gmail.com",
-      "note": "Basic template site, booking external — LLC since 2014, nurse injector + team, injectables/laser/body/hair/PMU, ~86 Google reviews, CareCredit",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-13",
-      "business": "Skin Bliss Med Spa",
-      "city": "Helena, MT",
-      "category": "salon",
-      "email": "info@skinblissmedspa.com",
-      "note": "Vagaro booking primary — award-winning acne/laser clinic, founded 2019 by Jen Quick, Diolaze/Morpheus8/IPL, 100+ reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-13",
-      "business": "Joslin Medical Spa",
-      "city": "Georgetown, TX",
-      "category": "salon",
-      "email": "heathertheinjector@gmail.com",
-      "note": "Linktree/Vagaro heavy, site secondary — multi-injector team (RN + NP), neuromodulators/fillers/RF, 100+ reviews, Cherry financing",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-13",
-      "business": "Renew Aesthetics & Wellness Clinic (follow-up)",
-      "city": "Lake Elsinore, CA",
-      "category": "salon",
-      "email": "dripdropnp@gmail.com",
-      "note": "2-day bump — thin site + Vagaro, NP Cris Medina, injectables/weight loss/IV, ~77+ Google reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-12",
-      "business": "Lush Aesthetics & Wellness PLLC",
-      "city": "Glendale, AZ",
-      "category": "salon",
-      "email": "Lushaaw2@gmail.com",
-      "note": "Vagaro/IG primary only — FNP Angel Garcia, team (RMA/CNA), injectables/weight loss/microneedling/PRP, PLLC",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 44, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 48, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
