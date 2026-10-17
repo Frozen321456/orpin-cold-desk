@@ -1,13 +1,49 @@
 {
-  "asOf": "2026-10-16",
+  "asOf": "2026-10-17",
   "month": {
     "sent": 147,
     "replies": 0,
     "positive": 0,
-    "followUps": 123,
+    "followUps": 127,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-17",
+      "business": "La Belle Vie Medspa (follow-up)",
+      "city": "Woodland Hills / Burbank, CA",
+      "category": "salon",
+      "email": "info@labelleviemedspa.com",
+      "note": "2-day bump — MD + RN team, multi-location, awards, solid reviews",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-17",
+      "business": "The Blu Pearl (follow-up)",
+      "city": "Falmouth, MA",
+      "category": "salon",
+      "email": "theblupearlspa@gmail.com",
+      "note": "2-day bump — luxury day spa + NP-led medical aesthetics, Vagaro heavy, strong reviews",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-17",
+      "business": "Great Lakes Medical Spa (follow-up)",
+      "city": "Spring Lake, MI",
+      "category": "salon",
+      "email": "Timelessyou@greatlakesmedicalspa.com",
+      "note": "2-day bump — PA-led + team, lasers/injectables, basic template site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-17",
+      "business": "uGlow Med Spa (follow-up)",
+      "city": "Salem, MA",
+      "category": "salon",
+      "email": "jillian@uglowmedspa.com",
+      "note": "2-day bump — NP founder + team, Vagaro primary, 100+ reviews",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-16",
       "business": "Advanced Medical Spa",
@@ -61,42 +97,6 @@
       "email": "theboutiquemedspa@gmail.com",
       "note": "2-day bump — Vagaro heavy — RN-led, 15+ years, solid reviews",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-16",
-      "business": "Dream Body Medspa (follow-up)",
-      "city": "Walnut Creek, CA",
-      "category": "salon",
-      "email": "info@dreambodymedspa.com",
-      "note": "2-day bump — Vagaro primary — Endospheres specialty, team, 80+ reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-16",
-      "business": "Aesthetics Med Spa (follow-up)",
-      "city": "Reno, NV",
-      "category": "salon",
-      "email": "support@aestheticsreno.com",
-      "note": "2-day bump — basic site + Vagaro — award-winning NP/RN team, 100+ reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-16",
-      "business": "Gravitas Medspa (follow-up)",
-      "city": "Encino / Santa Clarita, CA",
-      "category": "salon",
-      "email": "gravitasbw@gmail.com",
-      "note": "2-day bump — Vagaro MySite only — RN + MD, multi-location, ~40 reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-15",
-      "business": "uGlow Med Spa",
-      "city": "Salem, MA",
-      "category": "salon",
-      "email": "jillian@uglowmedspa.com",
-      "note": "Vagaro booking primary — NP founder Jillian Oppenheim, team of NPs/estheticians, injectables/lasers/weight loss, 100+ reviews, natural results focus",
-      "status": "sent"
     }
   ],
   "byCategory": [
