@@ -1,13 +1,85 @@
 {
-  "asOf": "2026-10-17",
+  "asOf": "2026-10-18",
   "month": {
-    "sent": 147,
+    "sent": 151,
     "replies": 0,
     "positive": 0,
-    "followUps": 127,
+    "followUps": 131,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-18",
+      "business": "Elysian Med Spa",
+      "city": "Panama City, FL",
+      "category": "salon",
+      "email": "info@elysianpcb.com",
+      "note": "Team-led injectables/lasers/IV/weight loss, Vagaro primary, solid local demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-18",
+      "business": "First Look Med Spa",
+      "city": "Agawam / Sturbridge, MA",
+      "category": "salon",
+      "email": "firstlookmedspa@gmail.com",
+      "note": "Doctor-owned multi-location, full team, 300+ reviews, Vagaro heavy",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-18",
+      "business": "Dream Body Medspa",
+      "city": "Walnut Creek, CA",
+      "category": "salon",
+      "email": "info@dreambodymedspa.com",
+      "note": "Specialized Endospheres/body contouring, 80+ reviews, Vagaro booking",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-18",
+      "business": "Aesthetic District Medspa",
+      "city": "Orlando (Lake Nona / Winter Park), FL",
+      "category": "salon",
+      "email": "info@districtmedspa.com",
+      "note": "PA-led multi-location, 250+ reviews, Vagaro + site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-18",
+      "business": "Advanced Medical Spa (follow-up)",
+      "city": "Peoria, AZ",
+      "category": "salon",
+      "email": "Advancedbeautyspallc@gmail.com",
+      "note": "2-day bump — NP-led injectables/lasers/weight, Vagaro primary, solid reviews",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-18",
+      "business": "Taylor Med Spa (follow-up)",
+      "city": "Corpus Christi, TX",
+      "category": "salon",
+      "email": "Info@taylormedspa.com",
+      "note": "2-day bump — NP Lori Taylor + team, 200+ reviews, Vagaro booking",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-18",
+      "business": "AR Aesthetics (follow-up)",
+      "city": "Melbourne, FL",
+      "category": "salon",
+      "email": "armelbourne@armedspa.com",
+      "note": "2-day bump — MD director + injector team, multi-location, Vagaro heavy",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-18",
+      "business": "Sonoran Aesthetics & Wellness (follow-up)",
+      "city": "Phoenix, AZ",
+      "category": "salon",
+      "email": "contact@sonoranaesthetics.com",
+      "note": "2-day bump — FNP-C boutique, injectables/facials/weight, thin site + Vagaro",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-17",
       "business": "La Belle Vie Medspa (follow-up)",
@@ -25,83 +97,11 @@
       "email": "theblupearlspa@gmail.com",
       "note": "2-day bump — luxury day spa + NP-led medical aesthetics, Vagaro heavy, strong reviews",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-17",
-      "business": "Great Lakes Medical Spa (follow-up)",
-      "city": "Spring Lake, MI",
-      "category": "salon",
-      "email": "Timelessyou@greatlakesmedicalspa.com",
-      "note": "2-day bump — PA-led + team, lasers/injectables, basic template site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-17",
-      "business": "uGlow Med Spa (follow-up)",
-      "city": "Salem, MA",
-      "category": "salon",
-      "email": "jillian@uglowmedspa.com",
-      "note": "2-day bump — NP founder + team, Vagaro primary, 100+ reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-16",
-      "business": "Advanced Medical Spa",
-      "city": "Peoria, AZ",
-      "category": "salon",
-      "email": "Advancedbeautyspallc@gmail.com",
-      "note": "Vagaro primary + Facebook — NP-led injectables/lasers/weight loss, team signals, solid reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-16",
-      "business": "GLAM Medispa",
-      "city": "Van Nuys, CA",
-      "category": "salon",
-      "email": "info@glammedispala.com",
-      "note": "Linktree + Vagaro heavy — established 2010, MD + NP/RN team, 400+ reviews, broad services",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-16",
-      "business": "Taylor Med Spa",
-      "city": "Corpus Christi, TX",
-      "category": "salon",
-      "email": "Info@taylormedspa.com",
-      "note": "Vagaro booking — NP Lori Taylor + team, injectables/facials/HRT, 200+ Google reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-16",
-      "business": "AR Aesthetics",
-      "city": "Melbourne, FL",
-      "category": "salon",
-      "email": "armelbourne@armedspa.com",
-      "note": "Vagaro + multi-location — MD director Dr. Ibrahim, injector team, established demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-16",
-      "business": "Sonoran Aesthetics & Wellness",
-      "city": "Phoenix, AZ",
-      "category": "salon",
-      "email": "contact@sonoranaesthetics.com",
-      "note": "Vagaro + thin site — FNP-C Lisa Robbins boutique, injectables/facials/weight, strong feedback",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-16",
-      "business": "Boutique Medspa (follow-up)",
-      "city": "Agawam, MA",
-      "category": "salon",
-      "email": "theboutiquemedspa@gmail.com",
-      "note": "2-day bump — Vagaro heavy — RN-led, 15+ years, solid reviews",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 53, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 57, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
