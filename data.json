@@ -1,48 +1,75 @@
 {
-  "asOf": "2026-10-18",
+  "asOf": "2026-10-20",
   "month": {
-    "sent": 151,
+    "sent": 154,
     "replies": 0,
     "positive": 0,
-    "followUps": 131,
+    "followUps": 135,
     "deals": 0
   },
   "recent": [
     {
-      "date": "2026-10-18",
-      "business": "Elysian Med Spa",
+      "date": "2026-10-20",
+      "business": "Aesthetic Artistry Med Spa",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "aestheticartistryindy@gmail.com",
+      "note": "RN team injectables/lasers/facials, Vagaro MySite only, solid reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-20",
+      "business": "Renew Aesthetics & Wellness",
+      "city": "Lake Elsinore, CA",
+      "category": "salon",
+      "email": "dripdropnp@gmail.com",
+      "note": "NP-led injectables/weight/IV, Vagaro + basic site, 70+ reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-20",
+      "business": "Serein Aesthetics",
+      "city": "Owings Mills, MD",
+      "category": "salon",
+      "email": "info@serenaaesthetics.com",
+      "note": "Specialized facials/microneedling/acne, Vagaro heavy, positive feedback",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-20",
+      "business": "Elysian Med Spa (follow-up)",
       "city": "Panama City, FL",
       "category": "salon",
       "email": "info@elysianpcb.com",
-      "note": "Team-led injectables/lasers/IV/weight loss, Vagaro primary, solid local demand",
-      "status": "sent"
+      "note": "2-day bump — team injectables/lasers/IV/weight, Vagaro primary",
+      "status": "follow-up"
     },
     {
-      "date": "2026-10-18",
-      "business": "First Look Med Spa",
+      "date": "2026-10-20",
+      "business": "First Look Med Spa (follow-up)",
       "city": "Agawam / Sturbridge, MA",
       "category": "salon",
       "email": "firstlookmedspa@gmail.com",
-      "note": "Doctor-owned multi-location, full team, 300+ reviews, Vagaro heavy",
-      "status": "sent"
+      "note": "2-day bump — doctor-owned multi-loc, 300+ reviews, Vagaro",
+      "status": "follow-up"
     },
     {
-      "date": "2026-10-18",
-      "business": "Dream Body Medspa",
+      "date": "2026-10-20",
+      "business": "Dream Body Medspa (follow-up)",
       "city": "Walnut Creek, CA",
       "category": "salon",
       "email": "info@dreambodymedspa.com",
-      "note": "Specialized Endospheres/body contouring, 80+ reviews, Vagaro booking",
-      "status": "sent"
+      "note": "2-day bump — Endospheres/body, 80+ reviews, Vagaro",
+      "status": "follow-up"
     },
     {
-      "date": "2026-10-18",
-      "business": "Aesthetic District Medspa",
-      "city": "Orlando (Lake Nona / Winter Park), FL",
+      "date": "2026-10-20",
+      "business": "Aesthetic District Medspa (follow-up)",
+      "city": "Orlando, FL",
       "category": "salon",
       "email": "info@districtmedspa.com",
-      "note": "PA-led multi-location, 250+ reviews, Vagaro + site",
-      "status": "sent"
+      "note": "2-day bump — PA-led multi-loc, 250+ reviews, Vagaro + site",
+      "status": "follow-up"
     },
     {
       "date": "2026-10-18",
@@ -70,38 +97,11 @@
       "email": "armelbourne@armedspa.com",
       "note": "2-day bump — MD director + injector team, multi-location, Vagaro heavy",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-18",
-      "business": "Sonoran Aesthetics & Wellness (follow-up)",
-      "city": "Phoenix, AZ",
-      "category": "salon",
-      "email": "contact@sonoranaesthetics.com",
-      "note": "2-day bump — FNP-C boutique, injectables/facials/weight, thin site + Vagaro",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-17",
-      "business": "La Belle Vie Medspa (follow-up)",
-      "city": "Woodland Hills / Burbank, CA",
-      "category": "salon",
-      "email": "info@labelleviemedspa.com",
-      "note": "2-day bump — MD + RN team, multi-location, awards, solid reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-17",
-      "business": "The Blu Pearl (follow-up)",
-      "city": "Falmouth, MA",
-      "category": "salon",
-      "email": "theblupearlspa@gmail.com",
-      "note": "2-day bump — luxury day spa + NP-led medical aesthetics, Vagaro heavy, strong reviews",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 57, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 60, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
