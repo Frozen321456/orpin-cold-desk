@@ -1,13 +1,22 @@
 {
-  "asOf": "2026-10-21",
+  "asOf": "2026-10-22",
   "month": {
-    "sent": 158,
+    "sent": 159,
     "replies": 0,
     "positive": 0,
     "followUps": 135,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-22",
+      "business": "Precision Beauty & Wellness",
+      "city": "Glassboro, NJ",
+      "category": "salon",
+      "email": "precisionbeautywellness@gmail.com",
+      "note": "Team Botox/injectables/parties, Vagaro primary, positive feedback, salon partnership",
+      "status": "sent"
+    },
     {
       "date": "2026-10-21",
       "business": "Lush Aesthetics & Wellness PLLC",
@@ -88,20 +97,11 @@
       "email": "firstlookmedspa@gmail.com",
       "note": "2-day bump — doctor-owned multi-loc, 300+ reviews, Vagaro",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-20",
-      "business": "Dream Body Medspa (follow-up)",
-      "city": "Walnut Creek, CA",
-      "category": "salon",
-      "email": "info@dreambodymedspa.com",
-      "note": "2-day bump — Endospheres/body, 80+ reviews, Vagaro",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 64, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 65, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
