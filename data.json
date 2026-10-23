@@ -1,13 +1,85 @@
 {
-  "asOf": "2026-10-22",
+  "asOf": "2026-10-23",
   "month": {
-    "sent": 159,
+    "sent": 163,
     "replies": 0,
     "positive": 0,
-    "followUps": 135,
+    "followUps": 139,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-23",
+      "business": "Gray Aesthetics Med Spa",
+      "city": "Cockeysville, MD",
+      "category": "salon",
+      "email": "info@grayaesthetics.com",
+      "note": "NP-led facial balancing/injectables/skincare, 60+ reviews, Vagaro + basic site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-23",
+      "business": "St Croix Skincare",
+      "city": "Hudson, WI",
+      "category": "salon",
+      "email": "info@stcroixskincare.com",
+      "note": "Best Med Spa 9 years, RN team lasers/injectables, Vagaro heavy",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-23",
+      "business": "Renu MedSpa",
+      "city": "Des Plaines, IL",
+      "category": "salon",
+      "email": "apatelmdsc@gmail.com",
+      "note": "100+ reviews, licensed injectors/aestheticians lasers/Botox, Vagaro MySite primary",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-23",
+      "business": "K-Method MedSpa",
+      "city": "Elk Grove, CA",
+      "category": "salon",
+      "email": "k.methodsmedspa@gmail.com",
+      "note": "Jane-led K-beauty injectables/skincare, positive feedback, basic site + Vagaro",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-23",
+      "business": "Lush Aesthetics (follow-up)",
+      "city": "Glendale, AZ",
+      "category": "salon",
+      "email": "Lushaaw2@gmail.com",
+      "note": "2-day bump — FNP-C injectables/weight/PRP, Vagaro primary",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-23",
+      "business": "Oak Grove Health (follow-up)",
+      "city": "Brunswick, GA",
+      "category": "salon",
+      "email": "oghealth.wellness@gmail.com",
+      "note": "2-day bump — NP-led Botox/IV/weight, Vagaro primary",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-23",
+      "business": "Chandler Med Spa (follow-up)",
+      "city": "Chandler, AZ",
+      "category": "salon",
+      "email": "Chandlermedspa@gmail.com",
+      "note": "2-day bump — PA-C founded, 100+ reviews, Vagaro",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-23",
+      "business": "Hermosa Concierge CosMedics (follow-up)",
+      "city": "Willow Grove, PA",
+      "category": "salon",
+      "email": "info@HermosaCosMedics.com",
+      "note": "2-day bump — CRNP injectables/lasers, Vagaro heavy",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-22",
       "business": "Precision Beauty & Wellness",
@@ -25,83 +97,11 @@
       "email": "Lushaaw2@gmail.com",
       "note": "FNP-C injectables/weight/PRP/microneedling, Vagaro + Instagram only, active demand",
       "status": "sent"
-    },
-    {
-      "date": "2026-10-21",
-      "business": "Oak Grove Health And Wellness",
-      "city": "Brunswick, GA",
-      "category": "salon",
-      "email": "oghealth.wellness@gmail.com",
-      "note": "NP-led Botox/IV/weight/laser, Vagaro primary + basic site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-21",
-      "business": "Chandler Med Spa PLLC",
-      "city": "Chandler, AZ",
-      "category": "salon",
-      "email": "Chandlermedspa@gmail.com",
-      "note": "PA-C founded, 100+ reviews, injectables/weight, Vagaro + site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-21",
-      "business": "Hermosa Concierge CosMedics",
-      "city": "Willow Grove, PA",
-      "category": "salon",
-      "email": "info@HermosaCosMedics.com",
-      "note": "CRNP injectables/lasers, Vagaro heavy, positive feedback",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-20",
-      "business": "Aesthetic Artistry Med Spa",
-      "city": "Indianapolis, IN",
-      "category": "salon",
-      "email": "aestheticartistryindy@gmail.com",
-      "note": "RN team injectables/lasers/facials, Vagaro MySite only, solid reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-20",
-      "business": "Renew Aesthetics & Wellness",
-      "city": "Lake Elsinore, CA",
-      "category": "salon",
-      "email": "dripdropnp@gmail.com",
-      "note": "NP-led injectables/weight/IV, Vagaro + basic site, 70+ reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-20",
-      "business": "Serein Aesthetics",
-      "city": "Owings Mills, MD",
-      "category": "salon",
-      "email": "info@serenaaesthetics.com",
-      "note": "Specialized facials/microneedling/acne, Vagaro heavy, positive feedback",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-20",
-      "business": "Elysian Med Spa (follow-up)",
-      "city": "Panama City, FL",
-      "category": "salon",
-      "email": "info@elysianpcb.com",
-      "note": "2-day bump — team injectables/lasers/IV/weight, Vagaro primary",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-20",
-      "business": "First Look Med Spa (follow-up)",
-      "city": "Agawam / Sturbridge, MA",
-      "category": "salon",
-      "email": "firstlookmedspa@gmail.com",
-      "note": "2-day bump — doctor-owned multi-loc, 300+ reviews, Vagaro",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 65, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 69, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
