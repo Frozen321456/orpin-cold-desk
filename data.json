@@ -1,13 +1,40 @@
 {
-  "asOf": "2026-10-23",
+  "asOf": "2026-10-24",
   "month": {
-    "sent": 163,
+    "sent": 165,
     "replies": 0,
     "positive": 0,
-    "followUps": 139,
+    "followUps": 140,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-24",
+      "business": "Ageless Beauty Med Spa",
+      "city": "Janesville, WI",
+      "category": "salon",
+      "email": "agelessbeautyms@gmail.com",
+      "note": "RN Hanna Bradley injectables/microneedling/weight loss, 32 reviews 5.0, GlossGenius primary only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-24",
+      "business": "AB Aesthetics",
+      "city": "Clinton, MA",
+      "category": "salon",
+      "email": "info@abaestheticsspa.com",
+      "note": "RN-led team of 9, 6-figure months, injectables/lasers/wellness, GlossGenius heavy + site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-24",
+      "business": "Precision Beauty & Wellness (follow-up)",
+      "city": "Glassboro, NJ",
+      "category": "salon",
+      "email": "precisionbeautywellness@gmail.com",
+      "note": "2-day bump — Team Botox/injectables/parties, Vagaro primary",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-23",
       "business": "Gray Aesthetics Med Spa",
@@ -70,38 +97,11 @@
       "email": "Chandlermedspa@gmail.com",
       "note": "2-day bump — PA-C founded, 100+ reviews, Vagaro",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-23",
-      "business": "Hermosa Concierge CosMedics (follow-up)",
-      "city": "Willow Grove, PA",
-      "category": "salon",
-      "email": "info@HermosaCosMedics.com",
-      "note": "2-day bump — CRNP injectables/lasers, Vagaro heavy",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-22",
-      "business": "Precision Beauty & Wellness",
-      "city": "Glassboro, NJ",
-      "category": "salon",
-      "email": "precisionbeautywellness@gmail.com",
-      "note": "Team Botox/injectables/parties, Vagaro primary, positive feedback, salon partnership",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-21",
-      "business": "Lush Aesthetics & Wellness PLLC",
-      "city": "Glendale, AZ",
-      "category": "salon",
-      "email": "Lushaaw2@gmail.com",
-      "note": "FNP-C injectables/weight/PRP/microneedling, Vagaro + Instagram only, active demand",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 69, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 71, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
