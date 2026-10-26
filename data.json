@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-10-25",
+  "asOf": "2026-10-26",
   "month": {
-    "sent": 168,
+    "sent": 171,
     "replies": 0,
     "positive": 0,
-    "followUps": 140,
+    "followUps": 142,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-26",
+      "business": "Joslin Medical Spa",
+      "city": "Georgetown, TX",
+      "category": "salon",
+      "email": "heathertheinjector@gmail.com",
+      "note": "RN/NP team, 100+ reviews injectables/lasers, plastic surgery affiliation, Vagaro primary",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-26",
+      "business": "Glamour Me Medical Spa",
+      "city": "Henderson, NV",
+      "category": "salon",
+      "email": "irena@glamourmemedspa.com",
+      "note": "FNP-C Irena led, injectables/Sylfirm X/lasers, strong feedback, Vagaro + social heavy",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-26",
+      "business": "Aesthetic Artistry Med Spa",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "aestheticartistryindy@gmail.com",
+      "note": "RN team Jaimie/Ashlee, Botox/lasers/facials, Vagaro MySite primary only",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-26",
+      "business": "AB Aesthetics (follow-up)",
+      "city": "Clinton, MA",
+      "category": "salon",
+      "email": "info@abaestheticsspa.com",
+      "note": "2-day bump — RN-led team of 9, 6-figure months, GlossGenius heavy",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-26",
+      "business": "Ageless Beauty Med Spa (follow-up)",
+      "city": "Janesville, WI",
+      "category": "salon",
+      "email": "agelessbeautyms@gmail.com",
+      "note": "2-day bump — RN Hanna injectables/microneedling, 32 reviews 5.0, GlossGenius primary",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-25",
       "business": "AQUA Clinic",
@@ -52,56 +97,11 @@
       "email": "info@abaestheticsspa.com",
       "note": "RN-led team of 9, 6-figure months, injectables/lasers/wellness, GlossGenius heavy + site",
       "status": "sent"
-    },
-    {
-      "date": "2026-10-24",
-      "business": "Precision Beauty & Wellness (follow-up)",
-      "city": "Glassboro, NJ",
-      "category": "salon",
-      "email": "precisionbeautywellness@gmail.com",
-      "note": "2-day bump — Team Botox/injectables/parties, Vagaro primary",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-23",
-      "business": "Gray Aesthetics Med Spa",
-      "city": "Cockeysville, MD",
-      "category": "salon",
-      "email": "info@grayaesthetics.com",
-      "note": "NP-led facial balancing/injectables/skincare, 60+ reviews, Vagaro + basic site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-23",
-      "business": "St Croix Skincare",
-      "city": "Hudson, WI",
-      "category": "salon",
-      "email": "info@stcroixskincare.com",
-      "note": "Best Med Spa 9 years, RN team lasers/injectables, Vagaro heavy",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-23",
-      "business": "Renu MedSpa",
-      "city": "Des Plaines, IL",
-      "category": "salon",
-      "email": "apatelmdsc@gmail.com",
-      "note": "100+ reviews, licensed injectors/aestheticians lasers/Botox, Vagaro MySite primary",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-23",
-      "business": "K-Method MedSpa",
-      "city": "Elk Grove, CA",
-      "category": "salon",
-      "email": "k.methodsmedspa@gmail.com",
-      "note": "Jane-led K-beauty injectables/skincare, positive feedback, basic site + Vagaro",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 74, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 77, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
