@@ -1,13 +1,49 @@
 {
-  "asOf": "2026-10-26",
+  "asOf": "2026-10-27",
   "month": {
-    "sent": 171,
+    "sent": 175,
     "replies": 0,
     "positive": 0,
     "followUps": 142,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-27",
+      "business": "Ariya Aesthetics",
+      "city": "Bedford, NH",
+      "category": "salon",
+      "email": "ariyamedspa@gmail.com",
+      "note": "Multi-location NH, RN team, 250+ reviews, award medspa, Vagaro + site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-27",
+      "business": "Revive Health + Aesthetics",
+      "city": "East Longmeadow, MA",
+      "category": "salon",
+      "email": "ReviveAesthetics294@gmail.com",
+      "note": "NP David injectables/Morpheus/wellness, 27 reviews 5.0, Vagaro primary",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-27",
+      "business": "Cloud La Med Spa",
+      "city": "Fair Lawn, NJ",
+      "category": "salon",
+      "email": "cloudlamedspa@gmail.com",
+      "note": "Dr. Elkhalili led, 400+ reviews injectables/lasers/facials, Vagaro booking",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-27",
+      "business": "Renew Aesthetics & Wellness Clinic",
+      "city": "Lake Elsinore, CA",
+      "category": "salon",
+      "email": "dripdropnp@gmail.com",
+      "note": "NP Cris Medina team, 79 reviews injectables/weight loss/IV, basic site + Vagaro",
+      "status": "sent"
+    },
     {
       "date": "2026-10-26",
       "business": "Joslin Medical Spa",
@@ -61,47 +97,11 @@
       "email": "info@AquaClinicFL.com",
       "note": "MD direction + Master Esthetician 20+ yrs, non-surgical aesthetics, Vagaro primary",
       "status": "sent"
-    },
-    {
-      "date": "2026-10-25",
-      "business": "MedSpa Downtown",
-      "city": "Carrollton, GA",
-      "category": "salon",
-      "email": "info@medspadowntown.com",
-      "note": "NP-led Amy Hicks, 100+ reviews injectables/lasers/facials, Vagaro + site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-25",
-      "business": "Lovely Med Spa",
-      "city": "Woodland Hills, CA",
-      "category": "salon",
-      "email": "info@lovelymedspa.com",
-      "note": "Team with doctor/injection nurse, Botox/fillers/wellness, Vagaro heavy",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-24",
-      "business": "Ageless Beauty Med Spa",
-      "city": "Janesville, WI",
-      "category": "salon",
-      "email": "agelessbeautyms@gmail.com",
-      "note": "RN Hanna Bradley injectables/microneedling/weight loss, 32 reviews 5.0, GlossGenius primary only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-24",
-      "business": "AB Aesthetics",
-      "city": "Clinton, MA",
-      "category": "salon",
-      "email": "info@abaestheticsspa.com",
-      "note": "RN-led team of 9, 6-figure months, injectables/lasers/wellness, GlossGenius heavy + site",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 77, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 81, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
