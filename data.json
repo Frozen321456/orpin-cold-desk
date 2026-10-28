@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-10-27",
+  "asOf": "2026-10-28",
   "month": {
-    "sent": 175,
+    "sent": 177,
     "replies": 0,
     "positive": 0,
-    "followUps": 142,
+    "followUps": 145,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-28",
+      "business": "South Lake Med Spa",
+      "city": "South Lake Tahoe, CA",
+      "category": "salon",
+      "email": "info@southlakemedspatahoe.com",
+      "note": "100+ reviews Botox/fillers/CoolSculpting/microneedling, Vagaro + basic site, high demand Tahoe",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-28",
+      "business": "Modern Skin Aesthetics & Wellness",
+      "city": "Webster, TX",
+      "category": "salon",
+      "email": "modernskinhtx@gmail.com",
+      "note": "PA-C Lucia injectables/PRP/weight loss, local demand, Vagaro + template site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-28",
+      "business": "Joslin Medical Spa (follow-up)",
+      "city": "Georgetown, TX",
+      "category": "salon",
+      "email": "heathertheinjector@gmail.com",
+      "note": "2-day bump — RN/NP team, 100+ reviews injectables/lasers, Vagaro primary",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-28",
+      "business": "Glamour Me Medical Spa (follow-up)",
+      "city": "Henderson, NV",
+      "category": "salon",
+      "email": "irena@glamourmemedspa.com",
+      "note": "2-day bump — FNP-C Irena injectables/Sylfirm X, strong feedback, Vagaro + social",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-28",
+      "business": "Aesthetic Artistry Med Spa (follow-up)",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "aestheticartistryindy@gmail.com",
+      "note": "2-day bump — RN team Botox/lasers/facials, Vagaro MySite primary",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-27",
       "business": "Ariya Aesthetics",
@@ -52,56 +97,11 @@
       "email": "heathertheinjector@gmail.com",
       "note": "RN/NP team, 100+ reviews injectables/lasers, plastic surgery affiliation, Vagaro primary",
       "status": "sent"
-    },
-    {
-      "date": "2026-10-26",
-      "business": "Glamour Me Medical Spa",
-      "city": "Henderson, NV",
-      "category": "salon",
-      "email": "irena@glamourmemedspa.com",
-      "note": "FNP-C Irena led, injectables/Sylfirm X/lasers, strong feedback, Vagaro + social heavy",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-26",
-      "business": "Aesthetic Artistry Med Spa",
-      "city": "Indianapolis, IN",
-      "category": "salon",
-      "email": "aestheticartistryindy@gmail.com",
-      "note": "RN team Jaimie/Ashlee, Botox/lasers/facials, Vagaro MySite primary only",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-26",
-      "business": "AB Aesthetics (follow-up)",
-      "city": "Clinton, MA",
-      "category": "salon",
-      "email": "info@abaestheticsspa.com",
-      "note": "2-day bump — RN-led team of 9, 6-figure months, GlossGenius heavy",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-26",
-      "business": "Ageless Beauty Med Spa (follow-up)",
-      "city": "Janesville, WI",
-      "category": "salon",
-      "email": "agelessbeautyms@gmail.com",
-      "note": "2-day bump — RN Hanna injectables/microneedling, 32 reviews 5.0, GlossGenius primary",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-25",
-      "business": "AQUA Clinic",
-      "city": "Boca Raton, FL",
-      "category": "salon",
-      "email": "info@AquaClinicFL.com",
-      "note": "MD direction + Master Esthetician 20+ yrs, non-surgical aesthetics, Vagaro primary",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 81, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 83, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
