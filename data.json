@@ -1,13 +1,67 @@
 {
-  "asOf": "2026-10-28",
+  "asOf": "2026-10-29",
   "month": {
-    "sent": 177,
+    "sent": 180,
     "replies": 0,
     "positive": 0,
-    "followUps": 145,
+    "followUps": 148,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-29",
+      "business": "Gray Aesthetics Med Spa",
+      "city": "Cockeysville, MD",
+      "category": "salon",
+      "email": "info@grayaesthetics.com",
+      "note": "NP Reena Gray, 70+ reviews, facial balancing/luxury, Vagaro + basic site, magazine features",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-29",
+      "business": "Peak Medical Spa",
+      "city": "Haddonfield, NJ",
+      "category": "salon",
+      "email": "peakmedicalspa@gmail.com",
+      "note": "Dr. Barrett orthopedic surgeon led, strong Vagaro reviews, injectables/peels, basic site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-29",
+      "business": "Deux Amis Med Spa",
+      "city": "Chester, VA",
+      "category": "salon",
+      "email": "spa@deuxamismedspa.com",
+      "note": "10 years, awards Best Spa Richmond, veteran owned, Vagaro primary + site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-29",
+      "business": "Joslin Medical Spa (follow-up)",
+      "city": "Georgetown, TX",
+      "category": "salon",
+      "email": "heathertheinjector@gmail.com",
+      "note": "2-day bump — RN/NP team, 100+ reviews injectables/lasers, Vagaro primary",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-29",
+      "business": "Glamour Me Medical Spa (follow-up)",
+      "city": "Henderson, NV",
+      "category": "salon",
+      "email": "irena@glamourmemedspa.com",
+      "note": "2-day bump — FNP-C Irena injectables/Sylfirm X, strong feedback, Vagaro + social",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-29",
+      "business": "Aesthetic Artistry Med Spa (follow-up)",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "aestheticartistryindy@gmail.com",
+      "note": "2-day bump — RN team Botox/lasers/facials, Vagaro MySite primary",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-28",
       "business": "South Lake Med Spa",
@@ -43,65 +97,11 @@
       "email": "irena@glamourmemedspa.com",
       "note": "2-day bump — FNP-C Irena injectables/Sylfirm X, strong feedback, Vagaro + social",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-28",
-      "business": "Aesthetic Artistry Med Spa (follow-up)",
-      "city": "Indianapolis, IN",
-      "category": "salon",
-      "email": "aestheticartistryindy@gmail.com",
-      "note": "2-day bump — RN team Botox/lasers/facials, Vagaro MySite primary",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-27",
-      "business": "Ariya Aesthetics",
-      "city": "Bedford, NH",
-      "category": "salon",
-      "email": "ariyamedspa@gmail.com",
-      "note": "Multi-location NH, RN team, 250+ reviews, award medspa, Vagaro + site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-27",
-      "business": "Revive Health + Aesthetics",
-      "city": "East Longmeadow, MA",
-      "category": "salon",
-      "email": "ReviveAesthetics294@gmail.com",
-      "note": "NP David injectables/Morpheus/wellness, 27 reviews 5.0, Vagaro primary",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-27",
-      "business": "Cloud La Med Spa",
-      "city": "Fair Lawn, NJ",
-      "category": "salon",
-      "email": "cloudlamedspa@gmail.com",
-      "note": "Dr. Elkhalili led, 400+ reviews injectables/lasers/facials, Vagaro booking",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-27",
-      "business": "Renew Aesthetics & Wellness Clinic",
-      "city": "Lake Elsinore, CA",
-      "category": "salon",
-      "email": "dripdropnp@gmail.com",
-      "note": "NP Cris Medina team, 79 reviews injectables/weight loss/IV, basic site + Vagaro",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-26",
-      "business": "Joslin Medical Spa",
-      "city": "Georgetown, TX",
-      "category": "salon",
-      "email": "heathertheinjector@gmail.com",
-      "note": "RN/NP team, 100+ reviews injectables/lasers, plastic surgery affiliation, Vagaro primary",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 83, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 86, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
