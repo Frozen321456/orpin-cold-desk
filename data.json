@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-10-29",
+  "asOf": "2026-10-30",
   "month": {
-    "sent": 180,
+    "sent": 183,
     "replies": 0,
     "positive": 0,
-    "followUps": 148,
+    "followUps": 150,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-10-30",
+      "business": "SOesthetic Med Spa",
+      "city": "Charlotte, NC",
+      "category": "salon",
+      "email": "amy@soestheticmedspa.com",
+      "note": "NP Amy Connolly 23+ yrs nursing, anti-aging boutique, Vagaro + basic site, established team signals",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-30",
+      "business": "Ariya Aesthetics",
+      "city": "Bedford, NH",
+      "category": "salon",
+      "email": "ariyamedspa@gmail.com",
+      "note": "Multi-location (Bedford/Salem/Portsmouth), Best Medspa NH awards, active, Vagaro primary + site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-30",
+      "business": "Oregon Dream Remodeling",
+      "city": "West Linn, OR",
+      "category": "service",
+      "email": "Oregondreamremodeling@gmail.com",
+      "note": "Kitchen/bath GC, active FB with before/afters, positive local feedback, site exists but social-heavy",
+      "status": "sent"
+    },
+    {
+      "date": "2026-10-30",
+      "business": "South Lake Med Spa (follow-up)",
+      "city": "South Lake Tahoe, CA",
+      "category": "salon",
+      "email": "info@southlakemedspatahoe.com",
+      "note": "2-day bump — 100+ reviews Botox/fillers/CoolSculpting, Vagaro + basic site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-10-30",
+      "business": "Modern Skin Aesthetics & Wellness (follow-up)",
+      "city": "Webster, TX",
+      "category": "salon",
+      "email": "modernskinhtx@gmail.com",
+      "note": "2-day bump — PA-C Lucia injectables/PRP/weight loss, Vagaro + template site",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-29",
       "business": "Gray Aesthetics Med Spa",
@@ -52,56 +97,11 @@
       "email": "irena@glamourmemedspa.com",
       "note": "2-day bump — FNP-C Irena injectables/Sylfirm X, strong feedback, Vagaro + social",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-29",
-      "business": "Aesthetic Artistry Med Spa (follow-up)",
-      "city": "Indianapolis, IN",
-      "category": "salon",
-      "email": "aestheticartistryindy@gmail.com",
-      "note": "2-day bump — RN team Botox/lasers/facials, Vagaro MySite primary",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-28",
-      "business": "South Lake Med Spa",
-      "city": "South Lake Tahoe, CA",
-      "category": "salon",
-      "email": "info@southlakemedspatahoe.com",
-      "note": "100+ reviews Botox/fillers/CoolSculpting/microneedling, Vagaro + basic site, high demand Tahoe",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-28",
-      "business": "Modern Skin Aesthetics & Wellness",
-      "city": "Webster, TX",
-      "category": "salon",
-      "email": "modernskinhtx@gmail.com",
-      "note": "PA-C Lucia injectables/PRP/weight loss, local demand, Vagaro + template site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-28",
-      "business": "Joslin Medical Spa (follow-up)",
-      "city": "Georgetown, TX",
-      "category": "salon",
-      "email": "heathertheinjector@gmail.com",
-      "note": "2-day bump — RN/NP team, 100+ reviews injectables/lasers, Vagaro primary",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-28",
-      "business": "Glamour Me Medical Spa (follow-up)",
-      "city": "Henderson, NV",
-      "category": "salon",
-      "email": "irena@glamourmemedspa.com",
-      "note": "2-day bump — FNP-C Irena injectables/Sylfirm X, strong feedback, Vagaro + social",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 47, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 86, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 48, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 88, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
