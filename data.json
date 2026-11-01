@@ -1,13 +1,49 @@
 {
-  "asOf": "2026-10-31",
+  "asOf": "2026-11-01",
   "month": {
-    "sent": 185,
+    "sent": 186,
     "replies": 0,
     "positive": 0,
-    "followUps": 153,
+    "followUps": 156,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-01",
+      "business": "AR Aesthetics",
+      "city": "Melbourne, FL",
+      "category": "salon",
+      "email": "Info@armedspa.com",
+      "note": "Boutique med spa Melbourne FL, strong Vagaro reviews injectables/facials, site + Vagaro primary, established team",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-01",
+      "business": "SOesthetic Med Spa (follow-up)",
+      "city": "Charlotte, NC",
+      "category": "salon",
+      "email": "amy@soestheticmedspa.com",
+      "note": "2-day bump — NP Amy Connolly 23+ yrs nursing, anti-aging boutique, Vagaro + basic site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-01",
+      "business": "Ariya Aesthetics (follow-up)",
+      "city": "Bedford, NH",
+      "category": "salon",
+      "email": "ariyamedspa@gmail.com",
+      "note": "2-day bump — Multi-location, Best Medspa NH awards, Vagaro primary + site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-01",
+      "business": "Oregon Dream Remodeling (follow-up)",
+      "city": "West Linn, OR",
+      "category": "service",
+      "email": "Oregondreamremodeling@gmail.com",
+      "note": "2-day bump — Kitchen/bath GC, active FB before/afters, positive local feedback, site social-heavy",
+      "status": "follow-up"
+    },
     {
       "date": "2026-10-31",
       "business": "Aesthetically Savy",
@@ -61,47 +97,11 @@
       "email": "amy@soestheticmedspa.com",
       "note": "NP Amy Connolly 23+ yrs nursing, anti-aging boutique, Vagaro + basic site, established team signals",
       "status": "sent"
-    },
-    {
-      "date": "2026-10-30",
-      "business": "Ariya Aesthetics",
-      "city": "Bedford, NH",
-      "category": "salon",
-      "email": "ariyamedspa@gmail.com",
-      "note": "Multi-location (Bedford/Salem/Portsmouth), Best Medspa NH awards, active, Vagaro primary + site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-30",
-      "business": "Oregon Dream Remodeling",
-      "city": "West Linn, OR",
-      "category": "service",
-      "email": "Oregondreamremodeling@gmail.com",
-      "note": "Kitchen/bath GC, active FB with before/afters, positive local feedback, site exists but social-heavy",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-30",
-      "business": "South Lake Med Spa (follow-up)",
-      "city": "South Lake Tahoe, CA",
-      "category": "salon",
-      "email": "info@southlakemedspatahoe.com",
-      "note": "2-day bump — 100+ reviews Botox/fillers/CoolSculpting, Vagaro + basic site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-30",
-      "business": "Modern Skin Aesthetics & Wellness (follow-up)",
-      "city": "Webster, TX",
-      "category": "salon",
-      "email": "modernskinhtx@gmail.com",
-      "note": "2-day bump — PA-C Lucia injectables/PRP/weight loss, Vagaro + template site",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 48, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 90, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 91, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
