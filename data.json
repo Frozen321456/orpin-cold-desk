@@ -1,13 +1,40 @@
 {
-  "asOf": "2026-11-01",
+  "asOf": "2026-11-02",
   "month": {
-    "sent": 186,
+    "sent": 188,
     "replies": 0,
     "positive": 0,
-    "followUps": 156,
+    "followUps": 157,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-02",
+      "business": "Southern Serenity Spa Services",
+      "city": "Roanoke Rapids, NC",
+      "category": "salon",
+      "email": "southern.serenity.spa@gmail.com",
+      "note": "PLLC med spa, injectables/IV/aesthetics, Vagaro-only booking, 25+ reviews, established local demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-02",
+      "business": "Regrow Medspa",
+      "city": "Davenport, FL (multi FL/NC)",
+      "category": "salon",
+      "email": "regrowmedicalspa@gmail.com",
+      "note": "Multi-location DNP/FNP-led, 80+ Google reviews PDO/injectables, mobile + clinic, booking-tool heavy",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-02",
+      "business": "Aesthetically Savy (follow-up)",
+      "city": "Savannah, GA",
+      "category": "salon",
+      "email": "savannah.rogers89@gmail.com",
+      "note": "2-day bump — DNP Savannah Rogers FNP-C, 6+ yrs aesthetics injectables, boutique, Vagaro + basic site",
+      "status": "follow-up"
+    },
     {
       "date": "2026-11-01",
       "business": "AR Aesthetics",
@@ -70,38 +97,11 @@
       "email": "info@grayaesthetics.com",
       "note": "2-day bump — NP Reena Gray 70+ reviews facial balancing, Vagaro + basic site",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-10-31",
-      "business": "Peak Medical Spa (follow-up)",
-      "city": "Haddonfield, NJ",
-      "category": "salon",
-      "email": "peakmedicalspa@gmail.com",
-      "note": "2-day bump — Dr. Barrett led, strong Vagaro reviews injectables/peels, basic site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-31",
-      "business": "Deux Amis Med Spa (follow-up)",
-      "city": "Chester, VA",
-      "category": "salon",
-      "email": "spa@deuxamismedspa.com",
-      "note": "2-day bump — 10 yrs, awards Best Spa Richmond, veteran owned, Vagaro primary + site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-30",
-      "business": "SOesthetic Med Spa",
-      "city": "Charlotte, NC",
-      "category": "salon",
-      "email": "amy@soestheticmedspa.com",
-      "note": "NP Amy Connolly 23+ yrs nursing, anti-aging boutique, Vagaro + basic site, established team signals",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 48, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 91, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 93, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
