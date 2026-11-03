@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-11-02",
+  "asOf": "2026-11-03",
   "month": {
-    "sent": 188,
+    "sent": 192,
     "replies": 0,
     "positive": 0,
-    "followUps": 157,
+    "followUps": 158,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-03",
+      "business": "Beauty Bar Aesthetics",
+      "city": "Mason City, IA",
+      "category": "salon",
+      "email": "beautybaraestheticsmedspa@gmail.com",
+      "note": "RN-led med spa, injectables/IV/peels, Vagaro + basic site, local demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-03",
+      "business": "Cloud La Med Spa",
+      "city": "Fair Lawn, NJ",
+      "category": "salon",
+      "email": "cloudlamedspa@gmail.com",
+      "note": "Physician-led (Dr. Elkhalili), 190+ reviews injectables/skin, Vagaro booking heavy",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-03",
+      "business": "Dream Medspa",
+      "city": "Denver, CO",
+      "category": "salon",
+      "email": "denverdreammedspa@gmail.com",
+      "note": "180+ reviews, Morpheus8/PMU/injectables, Vagaro + site, established demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-03",
+      "business": "Embrace Esthetics",
+      "city": "Broken Arrow, OK",
+      "category": "salon",
+      "email": "embraceestheticsllp@gmail.com",
+      "note": "100+ Google reviews, injectables/medical services, Vagaro primary + site, founded 2023 with strong local proof",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-03",
+      "business": "AR Aesthetics (follow-up)",
+      "city": "Melbourne, FL",
+      "category": "salon",
+      "email": "Info@armedspa.com",
+      "note": "2-day bump — boutique med spa, strong Vagaro reviews injectables/facials",
+      "status": "follow-up"
+    },
     {
       "date": "2026-11-02",
       "business": "Southern Serenity Spa Services",
@@ -52,56 +97,11 @@
       "email": "amy@soestheticmedspa.com",
       "note": "2-day bump — NP Amy Connolly 23+ yrs nursing, anti-aging boutique, Vagaro + basic site",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-11-01",
-      "business": "Ariya Aesthetics (follow-up)",
-      "city": "Bedford, NH",
-      "category": "salon",
-      "email": "ariyamedspa@gmail.com",
-      "note": "2-day bump — Multi-location, Best Medspa NH awards, Vagaro primary + site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-01",
-      "business": "Oregon Dream Remodeling (follow-up)",
-      "city": "West Linn, OR",
-      "category": "service",
-      "email": "Oregondreamremodeling@gmail.com",
-      "note": "2-day bump — Kitchen/bath GC, active FB before/afters, positive local feedback, site social-heavy",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-10-31",
-      "business": "Aesthetically Savy",
-      "city": "Savannah, GA",
-      "category": "salon",
-      "email": "savannah.rogers89@gmail.com",
-      "note": "DNP Savannah Rogers FNP-C, 6+ yrs aesthetics injectables, boutique, Vagaro + basic site, strong client feedback",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-31",
-      "business": "SR Aesthetics LLC",
-      "city": "Kansas City, MO",
-      "category": "salon",
-      "email": "info@sraestheticsllc.com",
-      "note": "NP Sean Ryan 10+ yrs NP / 6 yrs injectables, boutique 2025, positive reviews, Vagaro + site, Beauty Lounge location",
-      "status": "sent"
-    },
-    {
-      "date": "2026-10-31",
-      "business": "Gray Aesthetics Med Spa (follow-up)",
-      "city": "Cockeysville, MD",
-      "category": "salon",
-      "email": "info@grayaesthetics.com",
-      "note": "2-day bump — NP Reena Gray 70+ reviews facial balancing, Vagaro + basic site",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 48, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 93, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 97, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
