@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-11-05",
+  "asOf": "2026-11-06",
   "month": {
-    "sent": 197,
+    "sent": 201,
     "replies": 0,
     "positive": 0,
-    "followUps": 164,
+    "followUps": 165,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-06",
+      "business": "Aesthetic Artistry Med Spa",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "aestheticartistryindy@gmail.com",
+      "note": "RN-led team (Jaimie Tye), injectables/laser, Linktree + Vagaro primary, positive reviews, established demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-06",
+      "business": "Peak Medical Spa",
+      "city": "Haddonfield, NJ",
+      "category": "salon",
+      "email": "peakmedicalspa@gmail.com",
+      "note": "Physician-overseen (Dr. Barrett), 230+ Google 4.9 reviews, Vagaro booking + basic site, injectables/TruSculpt",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-06",
+      "business": "SKYN Medical Spa",
+      "city": "Frankfort/Oak Lawn, IL",
+      "category": "salon",
+      "email": "Info@skynmedicalspa.com",
+      "note": "Multi-location, founded 2021, injectables/laser, Vagaro + site, positive reviews, growth signals",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-06",
+      "business": "Skills Renovation",
+      "city": "Maynard, MA",
+      "category": "service",
+      "email": "skillsrenovation@gmail.com",
+      "note": "Licensed MA GC (CSL), 67 Google 4.9 reviews, kitchen/bath/deck remodeling, established demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-06",
+      "business": "Renew Aesthetics & Wellness Clinic (follow-up)",
+      "city": "Lake Elsinore, CA",
+      "category": "salon",
+      "email": "dripdropnp@gmail.com",
+      "note": "2-day bump — NP-led, 80+ reviews Botox/fillers/IV, Vagaro + basic site",
+      "status": "follow-up"
+    },
     {
       "date": "2026-11-05",
       "business": "Gray Aesthetics Med Spa",
@@ -52,56 +97,11 @@
       "email": "beautybaraestheticsmedspa@gmail.com",
       "note": "2-day bump — RN-led med spa, injectables/IV, Vagaro + basic site",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-11-05",
-      "business": "Cloud La Med Spa (follow-up)",
-      "city": "Fair Lawn, NJ",
-      "category": "salon",
-      "email": "cloudlamedspa@gmail.com",
-      "note": "2-day bump — Physician-led, 190+ reviews, Vagaro heavy",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-05",
-      "business": "Dream Medspa (follow-up)",
-      "city": "Denver, CO",
-      "category": "salon",
-      "email": "denverdreammedspa@gmail.com",
-      "note": "2-day bump — 180+ reviews Morpheus8/injectables, Vagaro + site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-05",
-      "business": "Embrace Esthetics (follow-up)",
-      "city": "Broken Arrow, OK",
-      "category": "salon",
-      "email": "embraceestheticsllp@gmail.com",
-      "note": "2-day bump — 100+ reviews injectables, Vagaro primary + site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-04",
-      "business": "Renew Aesthetics & Wellness Clinic",
-      "city": "Lake Elsinore, CA",
-      "category": "salon",
-      "email": "dripdropnp@gmail.com",
-      "note": "NP-led (Cris Medina), 80+ reviews Botox/fillers/IV/weight loss, Vagaro + basic site, established demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-04",
-      "business": "Southern Serenity Spa Services (follow-up)",
-      "city": "Roanoke Rapids, NC",
-      "category": "salon",
-      "email": "southern.serenity.spa@gmail.com",
-      "note": "2-day bump — PLLC med spa, injectables/IV, Vagaro-only, 25+ reviews",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 48, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 102, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 49, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 105, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
