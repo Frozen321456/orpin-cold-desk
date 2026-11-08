@@ -1,13 +1,94 @@
 {
-  "asOf": "2026-11-07",
+  "asOf": "2026-11-08",
   "month": {
-    "sent": 203,
+    "sent": 208,
     "replies": 0,
     "positive": 0,
-    "followUps": 167,
+    "followUps": 171,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-08",
+      "business": "Ocean Med Spa",
+      "city": "La Grange, IL",
+      "category": "salon",
+      "email": "Info@ocean-medspa.com",
+      "note": "Established med spa, weight loss/injectables/laser, 39+ Google reviews, Vagaro + basic site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-08",
+      "business": "Injectables Artist",
+      "city": "Bozeman, MT",
+      "category": "salon",
+      "email": "Injectablesartist@gmail.com",
+      "note": "RN-led, 29 Google 5.0 reviews, concierge, Vagaro primary, established demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-08",
+      "business": "Aesthetics Ink Med Spa",
+      "city": "Franksville, WI",
+      "category": "salon",
+      "email": "becky@aestheticsink.com",
+      "note": "RN-led (Becky), 65+ Google reviews, tox/fillers/microneedling, site + Vagaro/Linktree",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-08",
+      "business": "Boutique Medspa",
+      "city": "Agawam/Boston, MA",
+      "category": "salon",
+      "email": "theboutiquemedspa@gmail.com",
+      "note": "Multi-location, RN-led, 35 reviews, Vagaro + basic site, established demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-08",
+      "business": "Skin Savvy Medical Aesthetics",
+      "city": "Covington, WA",
+      "category": "salon",
+      "email": "injectorchic@gmail.com",
+      "note": "RN (Yamilena) 20+ yrs exp, 39 Google reviews, injectables/PRP/skincare, Vagaro/mysite primary",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-08",
+      "business": "Skills Renovation (follow-up)",
+      "city": "Maynard, MA",
+      "category": "service",
+      "email": "skillsrenovation@gmail.com",
+      "note": "2-day bump — licensed MA GC, 67 Google 4.9 reviews, kitchen/bath",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-08",
+      "business": "SKYN Medical Spa (follow-up)",
+      "city": "Frankfort/Oak Lawn, IL",
+      "category": "salon",
+      "email": "Info@skynmedicalspa.com",
+      "note": "2-day bump — multi-location, Vagaro + site, established demand",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-08",
+      "business": "Peak Medical Spa (follow-up)",
+      "city": "Haddonfield, NJ",
+      "category": "salon",
+      "email": "peakmedicalspa@gmail.com",
+      "note": "2-day bump — physician-overseen, 230+ reviews, Vagaro + basic site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-08",
+      "business": "Aesthetic Artistry Med Spa (follow-up)",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "aestheticartistryindy@gmail.com",
+      "note": "2-day bump — RN-led, Linktree + Vagaro, established demand",
+      "status": "follow-up"
+    },
     {
       "date": "2026-11-07",
       "business": "Fountain of Youth Med Spa",
@@ -16,92 +97,11 @@
       "email": "Beautiful@fountainofyouthmedspa.com",
       "note": "Established med spa, 140+ Vagaro reviews, multiple advanced services (injectables/PRP/laser), Vagaro-primary with basic site presence",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-07",
-      "business": "Destination RN LLC",
-      "city": "Boynton Beach, FL",
-      "category": "salon",
-      "email": "info@destination-rn.com",
-      "note": "RN-led team under medical director, IV/peels/concierge, Vagaro booking, established clinical demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-07",
-      "business": "Gray Aesthetics Med Spa (follow-up)",
-      "city": "Cockeysville, MD",
-      "category": "salon",
-      "email": "info@grayaesthetics.com",
-      "note": "2-day bump — NP-led, 60+ reviews injectables/PRP, Vagaro + basic site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-07",
-      "business": "Refined Medspa (follow-up)",
-      "city": "Mystic/Danielson, CT",
-      "category": "salon",
-      "email": "info@refinedmedspact.com",
-      "note": "2-day bump — multi-location, Vagaro + basic site, established demand",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-06",
-      "business": "Aesthetic Artistry Med Spa",
-      "city": "Indianapolis, IN",
-      "category": "salon",
-      "email": "aestheticartistryindy@gmail.com",
-      "note": "RN-led team (Jaimie Tye), injectables/laser, Linktree + Vagaro primary, positive reviews, established demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-06",
-      "business": "Peak Medical Spa",
-      "city": "Haddonfield, NJ",
-      "category": "salon",
-      "email": "peakmedicalspa@gmail.com",
-      "note": "Physician-overseen (Dr. Barrett), 230+ Google 4.9 reviews, Vagaro booking + basic site, injectables/TruSculpt",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-06",
-      "business": "SKYN Medical Spa",
-      "city": "Frankfort/Oak Lawn, IL",
-      "category": "salon",
-      "email": "Info@skynmedicalspa.com",
-      "note": "Multi-location, founded 2021, injectables/laser, Vagaro + site, positive reviews, growth signals",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-06",
-      "business": "Skills Renovation",
-      "city": "Maynard, MA",
-      "category": "service",
-      "email": "skillsrenovation@gmail.com",
-      "note": "Licensed MA GC (CSL), 67 Google 4.9 reviews, kitchen/bath/deck remodeling, established demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-06",
-      "business": "Renew Aesthetics & Wellness Clinic (follow-up)",
-      "city": "Lake Elsinore, CA",
-      "category": "salon",
-      "email": "dripdropnp@gmail.com",
-      "note": "2-day bump — NP-led, 80+ reviews Botox/fillers/IV, Vagaro + basic site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-05",
-      "business": "Gray Aesthetics Med Spa",
-      "city": "Cockeysville, MD",
-      "category": "salon",
-      "email": "info@grayaesthetics.com",
-      "note": "NP-led (Reena Gray), 60+ reviews injectables/PRP/weight loss, Vagaro + basic site, established since 2021, Baltimore Mag feature",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 49, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 107, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 112, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
