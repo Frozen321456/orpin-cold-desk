@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-11-08",
+  "asOf": "2026-11-09",
   "month": {
-    "sent": 208,
+    "sent": 211,
     "replies": 0,
     "positive": 0,
-    "followUps": 171,
+    "followUps": 173,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-09",
+      "business": "Joslin Medical Spa",
+      "city": "Georgetown, TX",
+      "category": "salon",
+      "email": "Info@joslinmedicalspa.com",
+      "note": "RN/NP-led team, 80+ yrs combined exp, injectables/RF/laser, Vagaro + basic site, strong reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-09",
+      "business": "SpaGo MedSpa",
+      "city": "Erie, PA",
+      "category": "salon",
+      "email": "masciamd@spagoerie.com",
+      "note": "MD-led (Dr. Mascia), advanced lasers/Emsculpt/weight loss, 100+ reviews, Vagaro + basic site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-09",
+      "business": "Glamour Me Medical Spa",
+      "city": "Henderson, NV",
+      "category": "salon",
+      "email": "irena@glamourmemedspa.com",
+      "note": "FNP-C led, injectables/Sylfirm/SaltFacial, Vagaro primary + site, established demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-09",
+      "business": "Fountain of Youth Med Spa (follow-up)",
+      "city": "Bee Cave/Austin, TX",
+      "category": "salon",
+      "email": "Beautiful@fountainofyouthmedspa.com",
+      "note": "2-day bump — established med spa, 140+ reviews, Vagaro-primary",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-09",
+      "business": "Destination RN (follow-up)",
+      "city": "Boynton Beach, FL",
+      "category": "salon",
+      "email": "info@destination-rn.com",
+      "note": "2-day bump — RN-led IV/peels/concierge, Vagaro primary",
+      "status": "follow-up"
+    },
     {
       "date": "2026-11-08",
       "business": "Ocean Med Spa",
@@ -52,56 +97,11 @@
       "email": "injectorchic@gmail.com",
       "note": "RN (Yamilena) 20+ yrs exp, 39 Google reviews, injectables/PRP/skincare, Vagaro/mysite primary",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-08",
-      "business": "Skills Renovation (follow-up)",
-      "city": "Maynard, MA",
-      "category": "service",
-      "email": "skillsrenovation@gmail.com",
-      "note": "2-day bump — licensed MA GC, 67 Google 4.9 reviews, kitchen/bath",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-08",
-      "business": "SKYN Medical Spa (follow-up)",
-      "city": "Frankfort/Oak Lawn, IL",
-      "category": "salon",
-      "email": "Info@skynmedicalspa.com",
-      "note": "2-day bump — multi-location, Vagaro + site, established demand",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-08",
-      "business": "Peak Medical Spa (follow-up)",
-      "city": "Haddonfield, NJ",
-      "category": "salon",
-      "email": "peakmedicalspa@gmail.com",
-      "note": "2-day bump — physician-overseen, 230+ reviews, Vagaro + basic site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-08",
-      "business": "Aesthetic Artistry Med Spa (follow-up)",
-      "city": "Indianapolis, IN",
-      "category": "salon",
-      "email": "aestheticartistryindy@gmail.com",
-      "note": "2-day bump — RN-led, Linktree + Vagaro, established demand",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-07",
-      "business": "Fountain of Youth Med Spa",
-      "city": "Bee Cave/Austin, TX",
-      "category": "salon",
-      "email": "Beautiful@fountainofyouthmedspa.com",
-      "note": "Established med spa, 140+ Vagaro reviews, multiple advanced services (injectables/PRP/laser), Vagaro-primary with basic site presence",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 49, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 112, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 115, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
