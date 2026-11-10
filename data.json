@@ -1,13 +1,40 @@
 {
-  "asOf": "2026-11-09",
+  "asOf": "2026-11-10",
   "month": {
-    "sent": 211,
+    "sent": 214,
     "replies": 0,
     "positive": 0,
     "followUps": 173,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-10",
+      "business": "Florida Kitchen And Bath",
+      "city": "Lakeland, FL",
+      "category": "service",
+      "email": "blayne@floridakitchenbath.com",
+      "note": "Established since 1977, licensed, 50+ reviews, custom kitchens/baths, basic site + strong demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-10",
+      "business": "Gray Aesthetics",
+      "city": "Cockeysville, MD",
+      "category": "salon",
+      "email": "info@grayaesthetics.com",
+      "note": "CRNP-led (Reena Gray), facial balancing/injectables, local recognition, Vagaro + site, established demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-10",
+      "business": "Modern Skin Aesthetics & Wellness",
+      "city": "Webster, TX",
+      "category": "salon",
+      "email": "modernskinhtx@gmail.com",
+      "note": "MD/PA-led team, injectables/PRP/weight loss, Vagaro + basic site, established local demand",
+      "status": "sent"
+    },
     {
       "date": "2026-11-09",
       "business": "Joslin Medical Spa",
@@ -70,38 +97,11 @@
       "email": "Injectablesartist@gmail.com",
       "note": "RN-led, 29 Google 5.0 reviews, concierge, Vagaro primary, established demand",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-08",
-      "business": "Aesthetics Ink Med Spa",
-      "city": "Franksville, WI",
-      "category": "salon",
-      "email": "becky@aestheticsink.com",
-      "note": "RN-led (Becky), 65+ Google reviews, tox/fillers/microneedling, site + Vagaro/Linktree",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-08",
-      "business": "Boutique Medspa",
-      "city": "Agawam/Boston, MA",
-      "category": "salon",
-      "email": "theboutiquemedspa@gmail.com",
-      "note": "Multi-location, RN-led, 35 reviews, Vagaro + basic site, established demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-08",
-      "business": "Skin Savvy Medical Aesthetics",
-      "city": "Covington, WA",
-      "category": "salon",
-      "email": "injectorchic@gmail.com",
-      "note": "RN (Yamilena) 20+ yrs exp, 39 Google reviews, injectables/PRP/skincare, Vagaro/mysite primary",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 49, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 115, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 50, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 117, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
