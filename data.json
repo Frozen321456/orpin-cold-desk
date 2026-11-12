@@ -1,13 +1,85 @@
 {
-  "asOf": "2026-11-10",
+  "asOf": "2026-11-12",
   "month": {
-    "sent": 214,
+    "sent": 219,
     "replies": 0,
     "positive": 0,
-    "followUps": 173,
+    "followUps": 176,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-12",
+      "business": "Shannon Aesthetic Spa",
+      "city": "Houston, TX",
+      "category": "salon",
+      "email": "shannon@shannonaestheticspa.com",
+      "note": "Established injectables/lasers/facials, 80+ Groupon 5.0 + local reviews, Vagaro + basic site, strong demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-12",
+      "business": "MedChíc Aesthetics",
+      "city": "Fort Lauderdale, FL",
+      "category": "salon",
+      "email": "info@medchicfl.com",
+      "note": "NP-led boutique, injectables/fillers/PDO, Vagaro primary + site, active local presence",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-12",
+      "business": "Sweet Spot MediSpa",
+      "city": "Fort Myers, FL",
+      "category": "salon",
+      "email": "info@sweetspotmedispa.com",
+      "note": "APRN-led (Amy Ingle), multi-location (Fort Myers/Punta Gorda), 300+ reviews 4.9, Vagaro + site, established demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-12",
+      "business": "GLAM Medispa",
+      "city": "Van Nuys, CA",
+      "category": "salon",
+      "email": "info@glammedispala.com",
+      "note": "Established since 2010, MD/NP team, Emsculpt/lasers/injectables, 400+ Yelp/Google reviews, Vagaro + Linktree/site",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-12",
+      "business": "BL Med Spa",
+      "city": "Glendale, AZ",
+      "category": "salon",
+      "email": "jada@blspaaz.com",
+      "note": "Multi-service medspa/day spa, injectables/facials, 180+ reviews, Vagaro + site, established local demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-12",
+      "business": "Florida Kitchen And Bath (follow-up)",
+      "city": "Lakeland, FL",
+      "category": "service",
+      "email": "blayne@floridakitchenbath.com",
+      "note": "2-day bump — established licensed remodeler, 50+ reviews, basic site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-12",
+      "business": "Gray Aesthetics (follow-up)",
+      "city": "Cockeysville, MD",
+      "category": "salon",
+      "email": "info@grayaesthetics.com",
+      "note": "2-day bump — CRNP-led injectables, Vagaro + site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-12",
+      "business": "Modern Skin Aesthetics & Wellness (follow-up)",
+      "city": "Webster, TX",
+      "category": "salon",
+      "email": "modernskinhtx@gmail.com",
+      "note": "2-day bump — MD/PA-led, Vagaro + basic site",
+      "status": "follow-up"
+    },
     {
       "date": "2026-11-10",
       "business": "Florida Kitchen And Bath",
@@ -25,83 +97,11 @@
       "email": "info@grayaesthetics.com",
       "note": "CRNP-led (Reena Gray), facial balancing/injectables, local recognition, Vagaro + site, established demand",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-10",
-      "business": "Modern Skin Aesthetics & Wellness",
-      "city": "Webster, TX",
-      "category": "salon",
-      "email": "modernskinhtx@gmail.com",
-      "note": "MD/PA-led team, injectables/PRP/weight loss, Vagaro + basic site, established local demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-09",
-      "business": "Joslin Medical Spa",
-      "city": "Georgetown, TX",
-      "category": "salon",
-      "email": "Info@joslinmedicalspa.com",
-      "note": "RN/NP-led team, 80+ yrs combined exp, injectables/RF/laser, Vagaro + basic site, strong reviews",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-09",
-      "business": "SpaGo MedSpa",
-      "city": "Erie, PA",
-      "category": "salon",
-      "email": "masciamd@spagoerie.com",
-      "note": "MD-led (Dr. Mascia), advanced lasers/Emsculpt/weight loss, 100+ reviews, Vagaro + basic site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-09",
-      "business": "Glamour Me Medical Spa",
-      "city": "Henderson, NV",
-      "category": "salon",
-      "email": "irena@glamourmemedspa.com",
-      "note": "FNP-C led, injectables/Sylfirm/SaltFacial, Vagaro primary + site, established demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-09",
-      "business": "Fountain of Youth Med Spa (follow-up)",
-      "city": "Bee Cave/Austin, TX",
-      "category": "salon",
-      "email": "Beautiful@fountainofyouthmedspa.com",
-      "note": "2-day bump — established med spa, 140+ reviews, Vagaro-primary",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-09",
-      "business": "Destination RN (follow-up)",
-      "city": "Boynton Beach, FL",
-      "category": "salon",
-      "email": "info@destination-rn.com",
-      "note": "2-day bump — RN-led IV/peels/concierge, Vagaro primary",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-08",
-      "business": "Ocean Med Spa",
-      "city": "La Grange, IL",
-      "category": "salon",
-      "email": "Info@ocean-medspa.com",
-      "note": "Established med spa, weight loss/injectables/laser, 39+ Google reviews, Vagaro + basic site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-08",
-      "business": "Injectables Artist",
-      "city": "Bozeman, MT",
-      "category": "salon",
-      "email": "Injectablesartist@gmail.com",
-      "note": "RN-led, 29 Google 5.0 reviews, concierge, Vagaro primary, established demand",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 50, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 117, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 122, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
