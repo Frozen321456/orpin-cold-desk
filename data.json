@@ -1,13 +1,22 @@
 {
-  "asOf": "2026-11-12",
+  "asOf": "2026-11-13",
   "month": {
-    "sent": 219,
+    "sent": 220,
     "replies": 0,
     "positive": 0,
     "followUps": 176,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-13",
+      "business": "Aesthetic District Med Spa",
+      "city": "Orlando, FL",
+      "category": "salon",
+      "email": "info@districtmedspa.com",
+      "note": "Multi-location (Lake Nona/Winter Park), PA-C/APRN team, injectables/lasers/facials, active social + Vagaro + site, established demand",
+      "status": "sent"
+    },
     {
       "date": "2026-11-12",
       "business": "Shannon Aesthetic Spa",
@@ -88,20 +97,11 @@
       "email": "blayne@floridakitchenbath.com",
       "note": "Established since 1977, licensed, 50+ reviews, custom kitchens/baths, basic site + strong demand",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-10",
-      "business": "Gray Aesthetics",
-      "city": "Cockeysville, MD",
-      "category": "salon",
-      "email": "info@grayaesthetics.com",
-      "note": "CRNP-led (Reena Gray), facial balancing/injectables, local recognition, Vagaro + site, established demand",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 50, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 122, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 123, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
