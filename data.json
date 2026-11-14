@@ -1,13 +1,40 @@
 {
-  "asOf": "2026-11-13",
+  "asOf": "2026-11-14",
   "month": {
-    "sent": 220,
+    "sent": 223,
     "replies": 0,
     "positive": 0,
     "followUps": 176,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-14",
+      "business": "Aesthetic Artistry Med Spa",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "aestheticartistryindy@gmail.com",
+      "note": "RN-led team (Jaimie Tye), injectables/lasers/skincare, 30+ 5.0 Google/Vagaro reviews, Linktree + Vagaro primary + basic site, established local demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-14",
+      "business": "Aegean Med Spa",
+      "city": "New Bern, NC",
+      "category": "salon",
+      "email": "hello@aegeanmedspa.com",
+      "note": "Physician-led (Dr. Tellis, 27+ yrs), body contouring/injectables/spa + salt lounge, team, reviews, site + Vagaro, strong multi-service demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-14",
+      "business": "Joslin Medical Spa",
+      "city": "Georgetown, TX",
+      "category": "salon",
+      "email": "Info@joslinmedicalspa.com",
+      "note": "Boutique injectables/facials, experienced RN/NP team, Vagaro + site, solid client feedback and local presence",
+      "status": "sent"
+    },
     {
       "date": "2026-11-13",
       "business": "Aesthetic District Med Spa",
@@ -70,38 +97,11 @@
       "email": "blayne@floridakitchenbath.com",
       "note": "2-day bump — established licensed remodeler, 50+ reviews, basic site",
       "status": "follow-up"
-    },
-    {
-      "date": "2026-11-12",
-      "business": "Gray Aesthetics (follow-up)",
-      "city": "Cockeysville, MD",
-      "category": "salon",
-      "email": "info@grayaesthetics.com",
-      "note": "2-day bump — CRNP-led injectables, Vagaro + site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-12",
-      "business": "Modern Skin Aesthetics & Wellness (follow-up)",
-      "city": "Webster, TX",
-      "category": "salon",
-      "email": "modernskinhtx@gmail.com",
-      "note": "2-day bump — MD/PA-led, Vagaro + basic site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-10",
-      "business": "Florida Kitchen And Bath",
-      "city": "Lakeland, FL",
-      "category": "service",
-      "email": "blayne@floridakitchenbath.com",
-      "note": "Established since 1977, licensed, 50+ reviews, custom kitchens/baths, basic site + strong demand",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 50, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 123, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 126, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
