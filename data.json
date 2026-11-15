@@ -1,13 +1,49 @@
 {
-  "asOf": "2026-11-14",
+  "asOf": "2026-11-15",
   "month": {
-    "sent": 223,
+    "sent": 226,
     "replies": 0,
     "positive": 0,
-    "followUps": 176,
+    "followUps": 177,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-15",
+      "business": "Lone Star MedSPA",
+      "city": "Houston, TX",
+      "category": "salon",
+      "email": "lonestarmd7227@gmail.com",
+      "note": "MD-led (Dr. Roberto Moreno), injectables/fillers/weight loss, 199 Fresha 5.0 + Groupon reviews, Fresha/Groupon primary + basic site, established local demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-15",
+      "business": "Dream Aesthetics Medspa",
+      "city": "Houston, TX",
+      "category": "salon",
+      "email": "info@dreamhoustonmedspa.com",
+      "note": "Established multi-service (injectables/lasers/skincare), 476+ Google reviews, team, site + booking, strong demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-15",
+      "business": "Advanced Medical Spa",
+      "city": "Peoria, AZ",
+      "category": "salon",
+      "email": "Advancedbeautyspallc@gmail.com",
+      "note": "Multi-service medspa (injectables/lasers/weight loss), Vagaro primary + basic site, local reviews and demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-15",
+      "business": "Aesthetic District Med Spa (follow-up)",
+      "city": "Orlando, FL",
+      "category": "salon",
+      "email": "info@districtmedspa.com",
+      "note": "2-day bump — multi-location PA/APRN team, injectables/lasers, Vagaro + site, established demand",
+      "status": "follow-up"
+    },
     {
       "date": "2026-11-14",
       "business": "Aesthetic Artistry Med Spa",
@@ -61,47 +97,11 @@
       "email": "info@medchicfl.com",
       "note": "NP-led boutique, injectables/fillers/PDO, Vagaro primary + site, active local presence",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-12",
-      "business": "Sweet Spot MediSpa",
-      "city": "Fort Myers, FL",
-      "category": "salon",
-      "email": "info@sweetspotmedispa.com",
-      "note": "APRN-led (Amy Ingle), multi-location (Fort Myers/Punta Gorda), 300+ reviews 4.9, Vagaro + site, established demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-12",
-      "business": "GLAM Medispa",
-      "city": "Van Nuys, CA",
-      "category": "salon",
-      "email": "info@glammedispala.com",
-      "note": "Established since 2010, MD/NP team, Emsculpt/lasers/injectables, 400+ Yelp/Google reviews, Vagaro + Linktree/site",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-12",
-      "business": "BL Med Spa",
-      "city": "Glendale, AZ",
-      "category": "salon",
-      "email": "jada@blspaaz.com",
-      "note": "Multi-service medspa/day spa, injectables/facials, 180+ reviews, Vagaro + site, established local demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-12",
-      "business": "Florida Kitchen And Bath (follow-up)",
-      "city": "Lakeland, FL",
-      "category": "service",
-      "email": "blayne@floridakitchenbath.com",
-      "note": "2-day bump — established licensed remodeler, 50+ reviews, basic site",
-      "status": "follow-up"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 50, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 126, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 129, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
