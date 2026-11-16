@@ -1,13 +1,31 @@
 {
-  "asOf": "2026-11-15",
+  "asOf": "2026-11-16",
   "month": {
-    "sent": 226,
+    "sent": 228,
     "replies": 0,
     "positive": 0,
     "followUps": 177,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-16",
+      "business": "Linnea Skin",
+      "city": "Colorado Springs, CO",
+      "category": "salon",
+      "email": "linnearubbico@gmail.com",
+      "note": "Established 1997 paramedical esthetician, 23 Yelp 5.0 + FB reviews, $$$, Square booking primary + basic site with mobile issues, strong local demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-16",
+      "business": "Touch of Elegance MedSpa",
+      "city": "McDonough, GA",
+      "category": "salon",
+      "email": "info@medspaelegance.com",
+      "note": "NP/staff team, multi-service injectables/lasers/weight loss/bridal, ~12 Google reviews, website + active FB, demand signals",
+      "status": "sent"
+    },
     {
       "date": "2026-11-15",
       "business": "Lone Star MedSPA",
@@ -79,29 +97,11 @@
       "email": "info@districtmedspa.com",
       "note": "Multi-location (Lake Nona/Winter Park), PA-C/APRN team, injectables/lasers/facials, active social + Vagaro + site, established demand",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-12",
-      "business": "Shannon Aesthetic Spa",
-      "city": "Houston, TX",
-      "category": "salon",
-      "email": "shannon@shannonaestheticspa.com",
-      "note": "Established injectables/lasers/facials, 80+ Groupon 5.0 + local reviews, Vagaro + basic site, strong demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-12",
-      "business": "MedChíc Aesthetics",
-      "city": "Fort Lauderdale, FL",
-      "category": "salon",
-      "email": "info@medchicfl.com",
-      "note": "NP-led boutique, injectables/fillers/PDO, Vagaro primary + site, active local presence",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 50, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 129, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 131, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
