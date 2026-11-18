@@ -1,13 +1,94 @@
 {
-  "asOf": "2026-11-17",
+  "asOf": "2026-11-18",
   "month": {
-    "sent": 231,
+    "sent": 238,
     "replies": 0,
     "positive": 0,
-    "followUps": 180,
+    "followUps": 182,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-18",
+      "business": "K-Method MedSpa",
+      "city": "Elk Grove, CA",
+      "category": "salon",
+      "email": "k.methodsmedspa@gmail.com",
+      "note": "RN-led (15+ yrs) + MD medical director, K-beauty injectables/skincare, ~10-20 reviews 5.0, Vagaro + simple site, established private practice demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-18",
+      "business": "SOesthetic Med Spa",
+      "city": "Charlotte, NC",
+      "category": "salon",
+      "email": "amy@soestheticmedspa.com",
+      "note": "NP-owned (Amy Connolly), injectables/fillers/peels/weight loss, positive local reviews, Vagaro + site, boutique demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-18",
+      "business": "Willow Event Center",
+      "city": "Cincinnati, OH",
+      "category": "service",
+      "email": "info@willoweventcenter.com",
+      "note": "Renovated venue, 250-300 capacity, 25+ yrs owner exp, strong reviews for weddings/corporate, site basic for packages/availability",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-18",
+      "business": "Castle Event Center",
+      "city": "Lubbock, TX",
+      "category": "service",
+      "email": "ceclubbock@gmail.com",
+      "note": "18-year castle venue, 300+ Google + WeddingWire 5.0, packages $750-2500, site basic for atmosphere/booking",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-18",
+      "business": "Hello Gorgeous Med Spa",
+      "city": "Oswego, IL",
+      "category": "salon",
+      "email": "provider@hellogorgeousmedspa.com",
+      "note": "NP-directed + MD oversight, injectables/lasers/weight loss, 169+ Google 4.6, Square booking + site gaps, strong local awards/demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-18",
+      "business": "Aesthetic Artistry Med Spa",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "aestheticartistryindy@gmail.com",
+      "note": "Team of Advanced Aesthetic RNs, injectables/lasers/skincare, 30+ reviews 5.0, Vagaro + Linktree primary, active demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-18",
+      "business": "SQ CPA Firm",
+      "city": "Houston, TX",
+      "category": "pro",
+      "email": "info@sqcpafirm.com",
+      "note": "Established Houston CPA, contractors/small biz focus, 140+ reviews 4.97, site dense for services/consultation booking",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-18",
+      "business": "Linnea Skin (follow-up)",
+      "city": "Colorado Springs, CO",
+      "category": "salon",
+      "email": "linnearubbico@gmail.com",
+      "note": "2-day bump — established esthetician Square + basic site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-18",
+      "business": "Touch of Elegance MedSpa (follow-up)",
+      "city": "McDonough, GA",
+      "category": "salon",
+      "email": "info@medspaelegance.com",
+      "note": "2-day bump — multi-service NP/staff team, site + FB",
+      "status": "follow-up"
+    },
     {
       "date": "2026-11-17",
       "business": "Aesthetics MedSpa",
@@ -16,94 +97,13 @@
       "email": "support@aestheticsreno.com",
       "note": "16-year award-winning medspa, APRN/RN team, injectables/lasers/body contouring, strong reviews + Hall of Fame, Vagaro + site with conversion gaps, high demand",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-17",
-      "business": "Great Lakes Medical Spa",
-      "city": "Spring Lake, MI",
-      "category": "salon",
-      "email": "Timelessyou@greatlakesmedicalspa.com",
-      "note": "Multi-service team (100+ yrs combined exp), injectables/lasers/memberships, Vagaro primary + basic site, established local demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-17",
-      "business": "Gray Aesthetics",
-      "city": "Cockeysville, MD",
-      "category": "salon",
-      "email": "info@grayaesthetics.com",
-      "note": "NP-owned (Reena Gray CRNP), injectables/fillers/PDO/facial balancing, 60+ reviews 4.9, Vagaro + basic site, active FB and demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-17",
-      "business": "Advanced Medical Spa (follow-up)",
-      "city": "Peoria, AZ",
-      "category": "salon",
-      "email": "Advancedbeautyspallc@gmail.com",
-      "note": "2-day bump — multi-service Vagaro primary + basic site, local reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-17",
-      "business": "Dream Aesthetics Medspa (follow-up)",
-      "city": "Houston, TX",
-      "category": "salon",
-      "email": "info@dreamhoustonmedspa.com",
-      "note": "2-day bump — strong multi-service reviews, limited site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-17",
-      "business": "Lone Star MedSPA (follow-up)",
-      "city": "Houston, TX",
-      "category": "salon",
-      "email": "lonestarmd7227@gmail.com",
-      "note": "2-day bump — MD-led Fresha/Groupon + basic site, strong reviews",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-16",
-      "business": "Linnea Skin",
-      "city": "Colorado Springs, CO",
-      "category": "salon",
-      "email": "linnearubbico@gmail.com",
-      "note": "Established 1997 paramedical esthetician, 23 Yelp 5.0 + FB reviews, $$$, Square booking primary + basic site with mobile issues, strong local demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-16",
-      "business": "Touch of Elegance MedSpa",
-      "city": "McDonough, GA",
-      "category": "salon",
-      "email": "info@medspaelegance.com",
-      "note": "NP/staff team, multi-service injectables/lasers/weight loss/bridal, ~12 Google reviews, website + active FB, demand signals",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-15",
-      "business": "Lone Star MedSPA",
-      "city": "Houston, TX",
-      "category": "salon",
-      "email": "lonestarmd7227@gmail.com",
-      "note": "MD-led (Dr. Roberto Moreno), injectables/fillers/weight loss, 199 Fresha 5.0 + Groupon reviews, Fresha/Groupon primary + basic site, established local demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-15",
-      "business": "Dream Aesthetics Medspa",
-      "city": "Houston, TX",
-      "category": "salon",
-      "email": "info@dreamhoustonmedspa.com",
-      "note": "Established multi-service (injectables/lasers/skincare), 476+ Google reviews, team, site + booking, strong demand",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 50, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 134, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 52, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 139, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
-    { "name": "Professional", "key": "pro", "sent": 15, "replies": 0 }
+    { "name": "Professional", "key": "pro", "sent": 16, "replies": 0 }
   ]
 }
