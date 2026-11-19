@@ -1,13 +1,94 @@
 {
-  "asOf": "2026-11-18",
+  "asOf": "2026-11-19",
   "month": {
-    "sent": 238,
+    "sent": 244,
     "replies": 0,
     "positive": 0,
-    "followUps": 182,
+    "followUps": 185,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-19",
+      "business": "Precision Aesthetics & Wellness",
+      "city": "Prairieville, LA",
+      "category": "salon",
+      "email": "precisionaestheticsla@gmail.com",
+      "note": "Established medspa/skincare, 50+ reviews 4.9, Vagaro + basic site, active FB, multi-service demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-19",
+      "business": "South Lake Med Spa",
+      "city": "South Lake Tahoe, CA",
+      "category": "salon",
+      "email": "info@southlakemedspatahoe.com",
+      "note": "100+ reviews 5.0, injectables/body contouring, Vagaro + basic Wix site, strong local demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-19",
+      "business": "SpaGo MedSpa",
+      "city": "Erie, PA",
+      "category": "salon",
+      "email": "masciamd@spagoerie.com",
+      "note": "MD-led (Dr. Mascia), advanced lasers/injectables/wellness, Vagaro + site, active presence",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-19",
+      "business": "StellaMorr Wellness & Esthetics",
+      "city": "Marshall, MI",
+      "category": "salon",
+      "email": "genoabrandon@yahoo.com",
+      "note": "Specialized hormone-aware/restorative skincare, 18+ reviews, Vagaro + site, established local",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-19",
+      "business": "The White Barn Venue",
+      "city": "Madison, IN",
+      "category": "service",
+      "email": "thewhitebarnvenue@gmail.com",
+      "note": "Rustic elegance event venue, 73 reviews 98%, strong wedding/corporate demand, site basic for packages",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-19",
+      "business": "Four Seasons Salon and Medspa",
+      "city": "Sterling, VA",
+      "category": "salon",
+      "email": "salonfourseasons@gmail.com",
+      "note": "Established 2005, $$$, 214 reviews, salon + medspa services, Vagaro + site, high demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-19",
+      "business": "Aesthetics MedSpa (follow-up)",
+      "city": "Reno, NV",
+      "category": "salon",
+      "email": "support@aestheticsreno.com",
+      "note": "2-day bump — 16-year award-winning medspa, Vagaro + site gaps",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-19",
+      "business": "Great Lakes Medical Spa (follow-up)",
+      "city": "Spring Lake, MI",
+      "category": "salon",
+      "email": "Timelessyou@greatlakesmedicalspa.com",
+      "note": "2-day bump — multi-service team, Vagaro + site",
+      "status": "follow-up"
+    },
+    {
+      "date": "2026-11-19",
+      "business": "Gray Aesthetics (follow-up)",
+      "city": "Cockeysville, MD",
+      "category": "salon",
+      "email": "info@grayaesthetics.com",
+      "note": "2-day bump — NP-led, Vagaro + limited site",
+      "status": "follow-up"
+    },
     {
       "date": "2026-11-18",
       "business": "K-Method MedSpa",
@@ -16,92 +97,11 @@
       "email": "k.methodsmedspa@gmail.com",
       "note": "RN-led (15+ yrs) + MD medical director, K-beauty injectables/skincare, ~10-20 reviews 5.0, Vagaro + simple site, established private practice demand",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-18",
-      "business": "SOesthetic Med Spa",
-      "city": "Charlotte, NC",
-      "category": "salon",
-      "email": "amy@soestheticmedspa.com",
-      "note": "NP-owned (Amy Connolly), injectables/fillers/peels/weight loss, positive local reviews, Vagaro + site, boutique demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-18",
-      "business": "Willow Event Center",
-      "city": "Cincinnati, OH",
-      "category": "service",
-      "email": "info@willoweventcenter.com",
-      "note": "Renovated venue, 250-300 capacity, 25+ yrs owner exp, strong reviews for weddings/corporate, site basic for packages/availability",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-18",
-      "business": "Castle Event Center",
-      "city": "Lubbock, TX",
-      "category": "service",
-      "email": "ceclubbock@gmail.com",
-      "note": "18-year castle venue, 300+ Google + WeddingWire 5.0, packages $750-2500, site basic for atmosphere/booking",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-18",
-      "business": "Hello Gorgeous Med Spa",
-      "city": "Oswego, IL",
-      "category": "salon",
-      "email": "provider@hellogorgeousmedspa.com",
-      "note": "NP-directed + MD oversight, injectables/lasers/weight loss, 169+ Google 4.6, Square booking + site gaps, strong local awards/demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-18",
-      "business": "Aesthetic Artistry Med Spa",
-      "city": "Indianapolis, IN",
-      "category": "salon",
-      "email": "aestheticartistryindy@gmail.com",
-      "note": "Team of Advanced Aesthetic RNs, injectables/lasers/skincare, 30+ reviews 5.0, Vagaro + Linktree primary, active demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-18",
-      "business": "SQ CPA Firm",
-      "city": "Houston, TX",
-      "category": "pro",
-      "email": "info@sqcpafirm.com",
-      "note": "Established Houston CPA, contractors/small biz focus, 140+ reviews 4.97, site dense for services/consultation booking",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-18",
-      "business": "Linnea Skin (follow-up)",
-      "city": "Colorado Springs, CO",
-      "category": "salon",
-      "email": "linnearubbico@gmail.com",
-      "note": "2-day bump — established esthetician Square + basic site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-18",
-      "business": "Touch of Elegance MedSpa (follow-up)",
-      "city": "McDonough, GA",
-      "category": "salon",
-      "email": "info@medspaelegance.com",
-      "note": "2-day bump — multi-service NP/staff team, site + FB",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-17",
-      "business": "Aesthetics MedSpa",
-      "city": "Reno, NV",
-      "category": "salon",
-      "email": "support@aestheticsreno.com",
-      "note": "16-year award-winning medspa, APRN/RN team, injectables/lasers/body contouring, strong reviews + Hall of Fame, Vagaro + site with conversion gaps, high demand",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 52, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 139, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 53, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 144, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 16, "replies": 0 }
