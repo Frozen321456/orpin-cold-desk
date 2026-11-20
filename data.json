@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-11-19",
+  "asOf": "2026-11-20",
   "month": {
-    "sent": 244,
+    "sent": 249,
     "replies": 0,
     "positive": 0,
     "followUps": 185,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-20",
+      "business": "Joslin Medical Spa",
+      "city": "Georgetown, TX",
+      "category": "salon",
+      "email": "Info@joslinmedicalspa.com",
+      "note": "Team of RNs/NPs (80+ yrs combined), plastic surgery affiliate, 100+ reviews signals, Vagaro + functional but basic site, strong local demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-20",
+      "business": "Advanced Medical Spa",
+      "city": "Peoria, AZ",
+      "category": "salon",
+      "email": "Advancedbeautyspallc@gmail.com",
+      "note": "Multi-service (lasers, weight loss, facials, school), Vagaro + basic site with packages, active presence, reviews",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-20",
+      "business": "Sonoran Aesthetics & Wellness",
+      "city": "Phoenix, AZ",
+      "category": "salon",
+      "email": "contact@sonoranaesthetics.com",
+      "note": "NP-led (Lisa Robbins FNP-C), injectables/weight loss/facials, Vagaro + straightforward site, positive client feedback",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-20",
+      "business": "Glamour Me Medical Spa",
+      "city": "Henderson, NV",
+      "category": "salon",
+      "email": "irena@glamourmemedspa.com",
+      "note": "Memberships, advanced tech (Sylfirm, SaltFacial), $$$, Vagaro + limited site, established local",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-20",
+      "business": "Renew Aesthetics",
+      "city": "Rogers, AR",
+      "category": "salon",
+      "email": "renewaestheticsar@gmail.com",
+      "note": "32+ reviews 98%, multi-service injectables/lasers/wellness, basic site, strong Northwest AR demand",
+      "status": "sent"
+    },
     {
       "date": "2026-11-19",
       "business": "Precision Aesthetics & Wellness",
@@ -52,56 +97,11 @@
       "email": "thewhitebarnvenue@gmail.com",
       "note": "Rustic elegance event venue, 73 reviews 98%, strong wedding/corporate demand, site basic for packages",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-19",
-      "business": "Four Seasons Salon and Medspa",
-      "city": "Sterling, VA",
-      "category": "salon",
-      "email": "salonfourseasons@gmail.com",
-      "note": "Established 2005, $$$, 214 reviews, salon + medspa services, Vagaro + site, high demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-19",
-      "business": "Aesthetics MedSpa (follow-up)",
-      "city": "Reno, NV",
-      "category": "salon",
-      "email": "support@aestheticsreno.com",
-      "note": "2-day bump — 16-year award-winning medspa, Vagaro + site gaps",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-19",
-      "business": "Great Lakes Medical Spa (follow-up)",
-      "city": "Spring Lake, MI",
-      "category": "salon",
-      "email": "Timelessyou@greatlakesmedicalspa.com",
-      "note": "2-day bump — multi-service team, Vagaro + site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-19",
-      "business": "Gray Aesthetics (follow-up)",
-      "city": "Cockeysville, MD",
-      "category": "salon",
-      "email": "info@grayaesthetics.com",
-      "note": "2-day bump — NP-led, Vagaro + limited site",
-      "status": "follow-up"
-    },
-    {
-      "date": "2026-11-18",
-      "business": "K-Method MedSpa",
-      "city": "Elk Grove, CA",
-      "category": "salon",
-      "email": "k.methodsmedspa@gmail.com",
-      "note": "RN-led (15+ yrs) + MD medical director, K-beauty injectables/skincare, ~10-20 reviews 5.0, Vagaro + simple site, established private practice demand",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 53, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 144, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 149, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 16, "replies": 0 }
