@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-11-20",
+  "asOf": "2026-11-21",
   "month": {
-    "sent": 249,
+    "sent": 254,
     "replies": 0,
     "positive": 0,
     "followUps": 185,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-21",
+      "business": "Touch of Sass Medical Spa",
+      "city": "Midland, TX",
+      "category": "salon",
+      "email": "info@touchofsasstexas.com",
+      "note": "50+ reviews 4.9, multi-service Botox/lasers/hormones/weight loss, call-to-book + basic site, strong West Texas demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-21",
+      "business": "Signature Kitchen & Bath Remodeling",
+      "city": "Tempe, AZ",
+      "category": "service",
+      "email": "ben@signatureremodelingaz.com",
+      "note": "25 years, licensed team, solid reviews, site functional but template-heavy for mobile estimates",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-21",
+      "business": "North Texas MedSpa",
+      "city": "Colleyville, TX",
+      "category": "salon",
+      "email": "admin@northtexasmedspa.com",
+      "note": "100+ reviews 4.9, established since ~2017, memberships, site light on mobile booking/team proof",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-21",
+      "business": "The Aesthetics Lounge and Spa (Wellen Park)",
+      "city": "Venice, FL",
+      "category": "salon",
+      "email": "wellenpark@tal-spa.com",
+      "note": "Multi-location chain, advanced treatments, Vagaro + functional but basic site, local demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-21",
+      "business": "Santa Cruz Remodeling",
+      "city": "Phoenix, AZ",
+      "category": "service",
+      "email": "info@santacruzremodelingaz.com",
+      "note": "Family-owned, licensed ROC, A+ BBB, kitchen/bath projects, site straightforward for galleries/estimates",
+      "status": "sent"
+    },
     {
       "date": "2026-11-20",
       "business": "Joslin Medical Spa",
@@ -52,56 +97,11 @@
       "email": "renewaestheticsar@gmail.com",
       "note": "32+ reviews 98%, multi-service injectables/lasers/wellness, basic site, strong Northwest AR demand",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-19",
-      "business": "Precision Aesthetics & Wellness",
-      "city": "Prairieville, LA",
-      "category": "salon",
-      "email": "precisionaestheticsla@gmail.com",
-      "note": "Established medspa/skincare, 50+ reviews 4.9, Vagaro + basic site, active FB, multi-service demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-19",
-      "business": "South Lake Med Spa",
-      "city": "South Lake Tahoe, CA",
-      "category": "salon",
-      "email": "info@southlakemedspatahoe.com",
-      "note": "100+ reviews 5.0, injectables/body contouring, Vagaro + basic Wix site, strong local demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-19",
-      "business": "SpaGo MedSpa",
-      "city": "Erie, PA",
-      "category": "salon",
-      "email": "masciamd@spagoerie.com",
-      "note": "MD-led (Dr. Mascia), advanced lasers/injectables/wellness, Vagaro + site, active presence",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-19",
-      "business": "StellaMorr Wellness & Esthetics",
-      "city": "Marshall, MI",
-      "category": "salon",
-      "email": "genoabrandon@yahoo.com",
-      "note": "Specialized hormone-aware/restorative skincare, 18+ reviews, Vagaro + site, established local",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-19",
-      "business": "The White Barn Venue",
-      "city": "Madison, IN",
-      "category": "service",
-      "email": "thewhitebarnvenue@gmail.com",
-      "note": "Rustic elegance event venue, 73 reviews 98%, strong wedding/corporate demand, site basic for packages",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 53, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 149, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 55, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 152, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 16, "replies": 0 }
