@@ -1,13 +1,22 @@
 {
-  "asOf": "2026-11-21",
+  "asOf": "2026-11-22",
   "month": {
-    "sent": 254,
+    "sent": 255,
     "replies": 0,
     "positive": 0,
-    "followUps": 185,
+    "followUps": 190,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-22",
+      "business": "Amazingly Ageless Medspa",
+      "city": "Harrisonville, MO",
+      "category": "salon",
+      "email": "eriksandborn@amazinglyagelessmedspa.com",
+      "note": "Team of aestheticians/therapists, memberships, podcast, multi-service HydraFacial/lasers/waxing, solid reviews, site functional but booking can be stronger on mobile",
+      "status": "sent"
+    },
     {
       "date": "2026-11-21",
       "business": "Touch of Sass Medical Spa",
@@ -88,20 +97,11 @@
       "email": "irena@glamourmemedspa.com",
       "note": "Memberships, advanced tech (Sylfirm, SaltFacial), $$$, Vagaro + limited site, established local",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-20",
-      "business": "Renew Aesthetics",
-      "city": "Rogers, AR",
-      "category": "salon",
-      "email": "renewaestheticsar@gmail.com",
-      "note": "32+ reviews 98%, multi-service injectables/lasers/wellness, basic site, strong Northwest AR demand",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 55, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 152, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 153, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 16, "replies": 0 }
