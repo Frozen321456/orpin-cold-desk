@@ -1,13 +1,49 @@
 {
-  "asOf": "2026-11-23",
+  "asOf": "2026-11-24",
   "month": {
-    "sent": 259,
+    "sent": 263,
     "replies": 0,
     "positive": 0,
-    "followUps": 193,
+    "followUps": 195,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-24",
+      "business": "Henderson Med Spa",
+      "city": "Henderson, NV",
+      "category": "salon",
+      "email": "Info@hendersonim.com",
+      "note": "Doctor-led multi-service (injectables, lasers, weight loss, hair), Vagaro booking + site with template/repeated content, established demand",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-24",
+      "business": "Gateway MedSpa",
+      "city": "Eastvale, CA",
+      "category": "salon",
+      "email": "info@gatewaymedspa.com",
+      "note": "241+ 4.9 reviews, 20+ years, multi-service Botox/lasers/body, Blvd booking, site functional but mobile trust/CTA can improve",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-24",
+      "business": "MD Wellness Center and Med Spa",
+      "city": "Indianapolis, IN",
+      "category": "salon",
+      "email": "contact@mytrimmd.com",
+      "note": "1000+ reviews, physician-led since 2015, weight loss + aesthetics, site strong but mobile booking path can be tighter",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-24",
+      "business": "Texas Laser and Aesthetics Medspa",
+      "city": "Austin, TX",
+      "category": "salon",
+      "email": "services@texaslaseracademy.com",
+      "note": "235+ 4.9 reviews, founded 2012 + training academy, multi-service, external booking, site can better highlight team/results on mobile",
+      "status": "sent"
+    },
     {
       "date": "2026-11-23",
       "business": "Nude Aesthetics",
@@ -61,47 +97,11 @@
       "email": "info@touchofsasstexas.com",
       "note": "50+ reviews 4.9, multi-service Botox/lasers/hormones/weight loss, call-to-book + basic site, strong West Texas demand",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-21",
-      "business": "Signature Kitchen & Bath Remodeling",
-      "city": "Tempe, AZ",
-      "category": "service",
-      "email": "ben@signatureremodelingaz.com",
-      "note": "25 years, licensed team, solid reviews, site functional but template-heavy for mobile estimates",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-21",
-      "business": "North Texas MedSpa",
-      "city": "Colleyville, TX",
-      "category": "salon",
-      "email": "admin@northtexasmedspa.com",
-      "note": "100+ reviews 4.9, established since ~2017, memberships, site light on mobile booking/team proof",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-21",
-      "business": "The Aesthetics Lounge and Spa (Wellen Park)",
-      "city": "Venice, FL",
-      "category": "salon",
-      "email": "wellenpark@tal-spa.com",
-      "note": "Multi-location chain, advanced treatments, Vagaro + functional but basic site, local demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-21",
-      "business": "Santa Cruz Remodeling",
-      "city": "Phoenix, AZ",
-      "category": "service",
-      "email": "info@santacruzremodelingaz.com",
-      "note": "Family-owned, licensed ROC, A+ BBB, kitchen/bath projects, site straightforward for galleries/estimates",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 56, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 156, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 160, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 16, "replies": 0 }
