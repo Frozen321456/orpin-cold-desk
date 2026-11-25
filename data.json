@@ -1,13 +1,22 @@
 {
-  "asOf": "2026-11-24",
+  "asOf": "2026-11-25",
   "month": {
-    "sent": 263,
+    "sent": 264,
     "replies": 0,
     "positive": 0,
-    "followUps": 195,
+    "followUps": 199,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-25",
+      "business": "Advanced Beauty Spa / Advanced Medical Spa",
+      "city": "Peoria, AZ",
+      "category": "salon",
+      "email": "Advancedbeautyspallc@gmail.com",
+      "note": "Accredited laser school + multi-service medspa (lasers, facials, weight loss, TRT, packages), 5.0 Vagaro reviews + demand signals, basic GoDaddy site with external Vagaro booking and repeated content",
+      "status": "sent"
+    },
     {
       "date": "2026-11-24",
       "business": "Henderson Med Spa",
@@ -88,20 +97,11 @@
       "email": "eriksandborn@amazinglyagelessmedspa.com",
       "note": "Team of aestheticians/therapists, memberships, podcast, multi-service HydraFacial/lasers/waxing, solid reviews, site functional but booking can be stronger on mobile",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-21",
-      "business": "Touch of Sass Medical Spa",
-      "city": "Midland, TX",
-      "category": "salon",
-      "email": "info@touchofsasstexas.com",
-      "note": "50+ reviews 4.9, multi-service Botox/lasers/hormones/weight loss, call-to-book + basic site, strong West Texas demand",
-      "status": "sent"
     }
   ],
   "byCategory": [
     { "name": "Service / Trades", "key": "service", "sent": 56, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 160, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 161, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 16, "replies": 0 }
