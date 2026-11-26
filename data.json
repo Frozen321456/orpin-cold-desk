@@ -1,13 +1,49 @@
 {
-  "asOf": "2026-11-25",
+  "asOf": "2026-11-26",
   "month": {
-    "sent": 264,
+    "sent": 268,
     "replies": 0,
     "positive": 0,
-    "followUps": 199,
+    "followUps": 202,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-26",
+      "business": "Shulmen Construction LA",
+      "city": "Los Angeles, CA",
+      "category": "service",
+      "email": "info@shulmen.com",
+      "note": "Licensed CSLB #1077837 kitchen/remodel GC, strong multi-platform reviews (1000+ claimed), high-value projects, site functional but more brochure than conversion-focused for estimates",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-26",
+      "business": "Boro Health Wellness Spa",
+      "city": "Murfreesboro, TN",
+      "category": "salon",
+      "email": "hello@borohealthwellnessspa.com",
+      "note": "Established wellness/medspa with active social and booking, organic modern positioning, thin web presence beyond booking tool",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-26",
+      "business": "Gray Aesthetics",
+      "city": "Cockeysville, MD",
+      "category": "salon",
+      "email": "info@grayaesthetics.com",
+      "note": "NP-led luxury medspa, injectables/PRF/weight loss, strong social/local features, Vagaro booking, site basic for mobile trust and results",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-26",
+      "business": "SpaGo MedSpa",
+      "city": "Erie, PA",
+      "category": "salon",
+      "email": "masciamd@spagoerie.com",
+      "note": "Physician-led (MD owner) multi-service lasers/body/weight loss/IV, established, Vagaro + site with basic mobile feel",
+      "status": "sent"
+    },
     {
       "date": "2026-11-25",
       "business": "Advanced Beauty Spa / Advanced Medical Spa",
@@ -61,47 +97,11 @@
       "email": "info@nude-aesthetics.com",
       "note": "489+ 5.0 Google reviews, memberships, injectables/lasers in Old Town, site functional but booking/external and light on mobile credentials/B&A",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-23",
-      "business": "Nulevel Wellness Medspa",
-      "city": "Gilbert, AZ",
-      "category": "salon",
-      "email": "Info@nulevelwellnessmedspa.com",
-      "note": "Multi-location team, hormone/weight loss/aesthetics, 1700+ reviews 5.0, site covers services but can strengthen mobile booking/trust",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-23",
-      "business": "Regal Bath & Kitchens",
-      "city": "Gilbert, AZ",
-      "category": "service",
-      "email": "doug@regalbathandkitchens.com",
-      "note": "30+ years, ROC licensed, awards, 150+ reviews 4.9, showroom, site basic/template for galleries and estimate CTAs",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-23",
-      "business": "NovaraMedspa",
-      "city": "Gilbert, AZ",
-      "category": "salon",
-      "email": "info@novaramedspa.com",
-      "note": "35+ 5.0 reviews, weight loss/Botox/fillers/skin, booking via bit.ly, site basic for team proof and mobile booking",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-22",
-      "business": "Amazingly Ageless Medspa",
-      "city": "Harrisonville, MO",
-      "category": "salon",
-      "email": "eriksandborn@amazinglyagelessmedspa.com",
-      "note": "Team of aestheticians/therapists, memberships, podcast, multi-service HydraFacial/lasers/waxing, solid reviews, site functional but booking can be stronger on mobile",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 56, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 161, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 57, "replies": 0 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 164, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 16, "replies": 0 }
