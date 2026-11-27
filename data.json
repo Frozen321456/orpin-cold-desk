@@ -1,13 +1,58 @@
 {
-  "asOf": "2026-11-26",
+  "asOf": "2026-11-27",
   "month": {
-    "sent": 268,
-    "replies": 0,
+    "sent": 272,
+    "replies": 1,
     "positive": 0,
     "followUps": 202,
     "deals": 0
   },
   "recent": [
+    {
+      "date": "2026-11-27",
+      "business": "Remarkable Aesthetics",
+      "city": "Henderson, NV",
+      "category": "salon",
+      "email": "sparemarkable@gmail.com",
+      "note": "427+ 5.0 Google reviews, private suite medspa open 7 days, injectables/facials/laser, external booking, site functional but mobile conversion can improve",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-27",
+      "business": "Artisan Medspa, Laser & Wellness",
+      "city": "Fort Worth, TX",
+      "category": "salon",
+      "email": "info@artisanmedspafortworth.com",
+      "note": "Physician-led (Dr. Samadi, 30+ years med), multi-service injectables/wellness/lasers since 2006, Vagaro booking, site basic for team/results on mobile",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-27",
+      "business": "Aesthetic District Medspa",
+      "city": "Orlando, FL",
+      "category": "salon",
+      "email": "info@districtmedspa.com",
+      "note": "Multi-location (Lake Nona + Winter Park), full team injectors/NPs/estheticians, strong demand, Vagaro booking, site can tighten mobile results/booking path",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-27",
+      "business": "AURA Aesthetics and Med Spa",
+      "city": "Houston, TX",
+      "category": "salon",
+      "email": "angie@lovemyaura.com",
+      "note": "RN-led injectables/skin treatments, same-week availability, modern positioning, external booking, mobile conversion opportunity",
+      "status": "sent"
+    },
+    {
+      "date": "2026-11-25",
+      "business": "Regal Bath & Kitchens",
+      "city": "Gilbert, AZ",
+      "category": "service",
+      "email": "doug@regalbathandkitchens.com",
+      "note": "Opt-out: Please do not contact me anymore",
+      "status": "opt-out"
+    },
     {
       "date": "2026-11-26",
       "business": "Shulmen Construction LA",
@@ -43,65 +88,11 @@
       "email": "masciamd@spagoerie.com",
       "note": "Physician-led (MD owner) multi-service lasers/body/weight loss/IV, established, Vagaro + site with basic mobile feel",
       "status": "sent"
-    },
-    {
-      "date": "2026-11-25",
-      "business": "Advanced Beauty Spa / Advanced Medical Spa",
-      "city": "Peoria, AZ",
-      "category": "salon",
-      "email": "Advancedbeautyspallc@gmail.com",
-      "note": "Accredited laser school + multi-service medspa (lasers, facials, weight loss, TRT, packages), 5.0 Vagaro reviews + demand signals, basic GoDaddy site with external Vagaro booking and repeated content",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-24",
-      "business": "Henderson Med Spa",
-      "city": "Henderson, NV",
-      "category": "salon",
-      "email": "Info@hendersonim.com",
-      "note": "Doctor-led multi-service (injectables, lasers, weight loss, hair), Vagaro booking + site with template/repeated content, established demand",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-24",
-      "business": "Gateway MedSpa",
-      "city": "Eastvale, CA",
-      "category": "salon",
-      "email": "info@gatewaymedspa.com",
-      "note": "241+ 4.9 reviews, 20+ years, multi-service Botox/lasers/body, Blvd booking, site functional but mobile trust/CTA can improve",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-24",
-      "business": "MD Wellness Center and Med Spa",
-      "city": "Indianapolis, IN",
-      "category": "salon",
-      "email": "contact@mytrimmd.com",
-      "note": "1000+ reviews, physician-led since 2015, weight loss + aesthetics, site strong but mobile booking path can be tighter",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-24",
-      "business": "Texas Laser and Aesthetics Medspa",
-      "city": "Austin, TX",
-      "category": "salon",
-      "email": "services@texaslaseracademy.com",
-      "note": "235+ 4.9 reviews, founded 2012 + training academy, multi-service, external booking, site can better highlight team/results on mobile",
-      "status": "sent"
-    },
-    {
-      "date": "2026-11-23",
-      "business": "Nude Aesthetics",
-      "city": "Scottsdale, AZ",
-      "category": "salon",
-      "email": "info@nude-aesthetics.com",
-      "note": "489+ 5.0 Google reviews, memberships, injectables/lasers in Old Town, site functional but booking/external and light on mobile credentials/B&A",
-      "status": "sent"
     }
   ],
   "byCategory": [
-    { "name": "Service / Trades", "key": "service", "sent": 57, "replies": 0 },
-    { "name": "Salon / Barber", "key": "salon", "sent": 164, "replies": 0 },
+    { "name": "Service / Trades", "key": "service", "sent": 57, "replies": 1 },
+    { "name": "Salon / Barber", "key": "salon", "sent": 168, "replies": 0 },
     { "name": "Restaurant / Food", "key": "rest", "sent": 26, "replies": 0 },
     { "name": "E-commerce / Retail", "key": "ecom", "sent": 6, "replies": 0 },
     { "name": "Professional", "key": "pro", "sent": 16, "replies": 0 }
